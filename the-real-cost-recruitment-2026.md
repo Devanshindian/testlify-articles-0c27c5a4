@@ -1,190 +1,231 @@
-# Cost Per Hire in 2026: Beyond the $4,700 Myth
+# The Real Cost Per Hire in 2026: By Role, Not Average
 
-The $4,700 cost per hire number still cited everywhere is a stale blended average from 2022 that hides massive differences by role and what's counted. Executive hires now run a median of $15,000 and can top $50,000, while entry-level roles land closer to $1,633. And the majority of every hire, 60 to 70 percent of the cost, is soft: interview time, vacancy loss, and productivity drain that never appears on an invoice.
+The cost per hire figure in most board decks was published in 2016 or 2022. SHRM, the body that publishes it, has since replaced both editions. Median executive cost per hire climbed from $8,800 in 2022 to $15,000 in 2026. The non-executive line barely moved, so one blended average hides the only part that changed.
 
-## Why the $4,700 Cost Per Hire Figure Misleads
+And the costs you can invoice are only 30-40% of what a hire really costs. A number that survives a budget meeting is segmented by role band and volume, and cited with its edition and method.
 
-Compounding the confusion, an even older figure ($4,129 from SHRM’s Human Capital Benchmarking Report for fiscal year 2015) continues to circulate and is sometimes labeled “the widely cited legacy figure” [1]. What organizations quote isn’t a single outdated number but a layer cake of old editions, each still cited as if it were current. These editions also cannot be compared directly. SHRM has changed its averaging methods and survey design between cycles, making cross-edition comparisons unreliable. Even within a single edition, sample sizes vary because SHRM notes that respondents are not required to answer every metric. A cost-per-hire number stripped of its edition, its averaging approach, and its underlying sample is not a stable enough anchor for a 2026 hiring budget.
+## $4,700 and $4,129: Two Dead SHRM Numbers
 
-## 2026 Cost Per Hire Benchmarks: Hard, Soft, and Hidden Costs
+Start with the $4,700 average. It comes from a SHRM news article published April 11, 2022, and SHRM's own newer research has already moved past it [1][2]. Four years is a long life for a benchmark. The number is not wrong so much as retired, and a retired benchmark cannot defend a 2026 budget line.
 
-The refreshed SHRM data for 2025 to 2026 shows that cost per hire splits sharply by seniority, hard versus soft cost composition, and the invisible hours sunk into interviews. Here are the key benchmarks that replace the widely cited but outdated $4,700 blended average.
+It also has an older sibling still in circulation. The $4,129 figure that appears in plenty of decks comes from SHRM's Human Capital Benchmarking Report for fiscal year 2015, published in August 2016 and built on responses from 2,048 SHRM members [1]. One current recruiting-benchmarks page files it as the widely cited legacy figure, separate from both the 2022 article and the newer releases [1].
 
-1. **Executive cost-per-hire is climbing while nonexecutive costs stay flat.**
-The current SHRM 2026 median executive cost-per-hire stands at $15,000 [2][3]. CHROs now rank leadership hiring as a top priority, pushing organizations to “absorb higher acquisition costs” in a constrained talent market [4]. The 2026 median nonexecutive cost-per-hire is $1,300 [4], with SHRM attributing the relative stability to a cooling job market.
+So the stat that "everyone still quotes" is not one number at all. It is two snapshots from different editions, a decade apart, doing duty as a single current fact. SHRM has said as much itself. Its October 15, 2025 release of four benchmarking reports states plainly that the new study updates its prior benchmarking studies from 2022 [3]. When the publisher tells you an edition has been superseded, citing it in a board deck is a choice, not an oversight.
 
-2. **Averages and medians aren’t the same number, and SHRM has switched between them.**
-The 2025 SHRM report published averages, $5,475 for nonexecutive roles and $35,879 for executives [1]. The 2026 trend line, however, is built on medians to “avoid being skewed by very high or very low values” and “improve comparability across different time periods”. That means the $5,475/$35,879 average-based figures and the $1,300/$15,000 median-based figures are not directly comparable snapshots of the same thing. The median executive hire sits at $15,000, but a handful of very expensive C-suite searches can pull the average up to $35,879 [5]. The shift in reporting method explains why quoting a single blended number across editions misleads.
+There is a second reason the old figure survives uncorrected. SHRM does not require respondents to answer every metric, so the sample behind any single reported number can shift within one edition. That makes a figure lifted out of its edition, its averaging method, and its sample too unstable to build on. None of that makes the older numbers wrong for their moment. It makes them the wrong place to start.
 
-3. **Soft costs dominate hard costs.**
-Soft costs, interview time, manager hours, productivity lost during ramp-up, make up 60 to 70% of total cost per hire [6]. Hard costs (job ads, agency fees, tools) represent the minority 30 to 40% [7]. Edie Goldberg, SHRM Foundation chair-elect, puts it at “30 percent to 40 percent are hard costs, and the other 60 percent are soft costs” [7]. Employers estimate total cost to hire can run three to four times a position’s salary once soft costs are included; for a $60,000 role, that implies $180,000 or more [7]. Most standard calculators undercount the true cost because they ignore the soft side.
+## Executive Cost Per Hire Rose to $15,000, Non-Exec Didn't
 
-4. **Cost per hire moves in wide bands by seniority and role band.**
-Blended averages hide the real numbers. Professional individual-contributor roles commonly benchmark at $3,000 to $6,000 per hire [8]. Manager and director roles run $6,000 to $15,000, reflecting longer processes and higher agency dependence [8]. Executive hiring at VP level and above benchmarks at $15,000 to $50,000+ once search fees, assessments, and multi-stakeholder time are included [8]. At the low end, the U.S. median cost per hire sits at roughly $1,633 for entry-level and high-volume roles [9], while SHRM’s non-executive average is $5,475 [1]. These bands explain why a single blended average misses the budget reality for any open role.
+The right place to start is where the money actually moved, and that is almost entirely at the top. Median executive cost per hire jumped from $8,800 in 2022 to $15,000 in 2026 [4][5]. That is a rise of more than 70% in four years, on a line that had climbed gently before, from $5,000 in 2017 to $10,600 in 2025 [6]. Anyone still quoting a 2022 executive figure is understating senior hiring spend by nearly half.
 
-5. **Interview time is the largest hidden cost.**
-Business roles now average 11.7 interviews per hire, up 36% from 2021; technical roles average 17.6, up 52% [10][11]. In total hours, a technical hire consumes 23.3 hours of interviewer time, nearly double the 12.2 hours for a business hire [12]. By function, data roles top the list at 24.9 hours, engineering at 24.7, and product management at 23.5, more than three times the 8.9 hours for customer support [13]. This cost never appears on a sourcing invoice. A recruiter managing 15 open roles who schedules three interviews per role per round burns over 45 hours of senior calendar time before a single offer goes out; at a blended loaded rate of $100 per hour, that is $4,500 in interview labor per role before any sourcing fees are counted [14]. Batching interviews into single scheduled events is the single biggest lever for reducing this hidden cost.
+The non-executive line went almost nowhere. Median cost per hire outside the executive band sat at $1,200 in 2025 and $1,300 in 2026, close to the $1,600 SHRM reported in 2017 [4]. SHRM calls that stability the effect of a cooling job market rather than any change in method.
 
-## Calculate Cost Per Hire: Formula, Examples & Calculator
+That flatness explains why the stale citation survived. For the roles most teams fill week to week, the number really had not moved, so a 2023 article citing an old benchmark looked fine. SHRM ties the executive jump to leadership hiring ranking as a top CHRO priority in 2025 and 2026, which pushes organizations to absorb higher acquisition costs in a constrained talent market [4]. Blend the two lines into one average and you hide the only part that changed.
 
-Cost per hire (CPH) is the total investment to source, attract, assess, and hire one new employee, calculated with the SHRM/ANSI formula: (Total Internal Recruiting Costs + Total External Recruiting Costs) ÷ Total Number of Hires [15].
+## Why SHRM's $35,879 and $15,000 Aren't Comparable
 
-Internal costs include recruiter salaries and benefits, hiring manager and interviewer time (valued at the loaded hourly rate, often the single largest understated cost [15]; a team averaging 10 hours per hire at €100/hour adds €1,000 to the internal side [16]), HR administrative time, ATS subscriptions, internal referral bonuses, and recruiting events [15]. External costs include job board postings, recruitment advertising, agency fees (typically 20 to 30% for contingency, 30 to 35% for retained), background checks, pre-employment assessments, sign-on bonuses, and relocation [15].
+Which raises the obvious objection: SHRM also publishes a $35,879 executive figure, and it sits nowhere near $15,000. Both numbers are real, and neither is wrong. They come from different SHRM editions, measured different ways. The 2025 report publishes averages, so a handful of very expensive C-suite searches pull the executive figure up [3]. The 2026 brief publishes medians, which SHRM says it uses to avoid distortion from extreme values and to keep years comparable. Quote one against the other and the gap looks like a contradiction rather than a change of method.
 
-The formula stops at the accepted offer; onboarding, vacancy loss, and ramp time are not included in SHRM’s CPH standard.
+| Figure | SHRM report and edition | Data year | Average or median | Sample | What stops a direct comparison |
+|---|---|---|---|---|---|
+| $4,129 | Human Capital Benchmarking Report, published August 8, 2016 [1] | Fiscal 2015 [1] | Average [1] | 2,048 members, collected February to April; per-metric base is smaller [7] | Headline sample is not the base for any single metric [7] |
+| ~$4,700 | "The Real Costs of Recruitment," April 11, 2022 [1] | Collected April to November 2021 [8] | "Average," mean or median not stated [2] | More than 2,400 members across two report series [8] | Basis never disclosed, and no per-report sample given [2] |
+| $5,475 non-exec | 2025 SHRM Benchmarking Report, released October 15, 2025 [1] | 2025 [1] | Average [1] | 2,371 respondents, VP-or-higher oversampled [3] | Average, so outliers move it [3] |
+| $35,879 executive | 2025 SHRM Benchmarking Report, released October 15, 2025 [1] | 2025 [1] | Average [1] | 2,371 respondents, VP-or-higher oversampled [3] | Nearly 7x the non-exec average, pulled by top-end searches [1] |
+| $1,300 non-exec | 2026 Recruiting Executives Benchmarking data brief [4] | Fieldwork from November 24, 2025 [4] | Median [4] | 4,657 members, director-or-higher oversampled [4] | Median, and a differently stratified pool  |
+| $15,000 executive | 2026 Recruiting Executives Benchmarking data brief [4] | Fieldwork from November 24, 2025 [4] | Median [4] | 4,657 members, director-or-higher oversampled [4] | Median against 2025's average, so the two series do not line up  |
 
-Consider a company that made 15 hires in Q1 2026. Internal costs: recruiter salaries $20,000, HR admin $4,000, ATS $1,500, hiring manager time $3,000, referral bonuses $1,500 = $30,000. External costs: LinkedIn/Indeed ads $6,000, agency fees $15,000, background checks $1,200, assessments $1,800, recruiting events $1,000 = $25,000. Total $55,000 ÷ 15 = $3,667 CPH [15].
+Cite any row with its edition, its year, and its basis, and the number holds up. Cite the figure alone and someone in the room will produce a different SHRM number that also checks out.
 
-A [cost‑per‑hire calculator](https://testlify.com/cost-per-hire-calculator/) automates this aggregation. Input total internal spend, total external spend, and the number of hires; the tool applies the formula. Separating internal and external inputs lets organizations track which cost categories are climbing and adjust sourcing strategies before blended averages hide the signal.
+## How to Calculate Cost Per Hire (and What It Skips)
 
-## Soft Cost vs Hard Cost: Where 60% of Spend Is Invisible
+Borrowing a benchmark is one thing; building your own is what makes it defensible. Cost per hire is one formula, and the Society for Human Resource Management (SHRM) treats it as the standard: internal recruiting costs plus external recruiting costs, divided by the total number of hires in the same period [9]. That division is what makes the rest of this article possible. Change the numerator, or change what you divide by, and the number moves without anything about your hiring changing.
 
-Soft costs, the [time and productivity invested](https://testlify.com/direct-vs-indirect-hiring-costs-whats-overlooked/) in making a successful hire, consistently represent the largest share of recruitment spend, yet they appear on no invoice. Hard costs, by contrast, are the line items that show up on invoices and credit card statements: job ad spend, agency and search-firm fees, screening and assessment tools, recruiting software, relocation packages, and employer payroll taxes.
+Internal costs are what your own organization spends: recruiter salaries and loaded overhead, HR administrative time, your Applicant Tracking System (ATS) and sourcing tools, referral bonuses, and the hours hiring managers and interviewers put into the loop [9]. Pricing interviewer time at a loaded hourly rate is part of the standard, not an optional refinement [10]. External costs are what you pay other people: job board postings, recruitment advertising, agency or retained search fees, background checks and assessments, sign-on bonuses, and relocation [9].
 
-The difference is visibility, not importance. Hard costs are easy to see because finance teams can track every dollar spent. Soft costs are harder to measure because they are tied to time, productivity, and business performance. Together they determine the true cost of every hire; teams that only watch the invoice optimize the small half of the bill and ignore the large one.
+The boundary matters as much as the inputs. Under the SHRM standard, counting stops at the accepted offer, so onboarding sits outside the formula. Vacancy cost sits outside it too, which is the larger omission.
 
-Standard cost-per-hire calculators undercount because they omit significant expense categories. Most teams are working from a figure that excludes manager time leakage, tool-stack bloat, no-show interviews, and the productivity cost of an unfilled seat [17]. The missing items are indirect hiring costs: lost productivity, manager and recruiter time, delayed projects, overtime for existing employees, slower onboarding, and the impact of a poor hire. To measure the full cost, account for both the money spent and the productivity lost: Total hiring cost = direct hiring cost + indirect hiring cost.
+One quarter, one number. Fifteen hires against $30,000 internal and $25,000 external comes to $3,667 per hire [9]. Every figure in that total is invoiced or timesheet-backed, and that is exactly the limit.
 
-## $22K Vacancy Loss, Interview Time & Onboarding Drag
+## Hard Costs Are Only 30-40% of a Hire's Real Price
 
-The largest cost in most hiring processes never appears on an invoice. A role sitting empty costs roughly $500 per day in lost output for a standard professional position [18]. At the median 2026 [time-to-fill of 63.5 days](https://testlify.com/real-cost-of-a-slow-hiring-process/), roughly 44 working days, that single vacancy burns $22,000 before a recruiter spends a dollar on sourcing [15]. For revenue-generating roles, the drain accelerates: a senior sales vacancy can erase $2,500 per day in lost pipeline, pushing the total past $112,500 over the same period [15].
+The costs you can invoice make up only 30-40% of what a hire actually costs, with the remaining 60% sitting in time nobody bills for [2]. Hard costs are the line items with a clear price tag: job advertising, agency fees, assessment tools, background checks, recruiting software subscriptions, relocation, and payroll taxes. Soft costs are the hours department leaders and managers spend screening applications and running interviews [2]. The difference is visibility, not importance.
 
-Onboarding and ramp-time costs sit just outside the standard cost-per-hire boundary. A separate benchmark places average U.S. onboarding spend between $1,500 and $5,000 per employee, covering training sessions, mentoring time, and initial HR processing [19]. Excluding ramp-time drag from a cost-per-hire calculation understates the true cost by a significant margin [20]. The mismatch is structural: the SHRM/ANSI formula draws its boundary at the accepted offer, but the business keeps paying, in reduced productivity, manager time, and delayed output, for weeks or months afterward.
+That split has a blunt consequence for any number you take into a budget meeting. A cost per hire built from invoices alone captures the smaller half and reports it as the whole. SHRM Foundation chair-elect Edie Goldberg puts the ratio at "30 percent to 40 percent are hard costs, and the other 60 percent are soft costs" [2]. Employers estimate the full cost to hire runs three to four times the salary once soft costs are counted, so a $60,000 position implies $180,000 or more [2]. The figure is not wrong so much as partial: it answers what you spent, not what the hire cost you.
 
-Rising application volume inflates the soft-cost side of the equation even when headcount stays flat. Applications per hire tripled from 2021 to 2024 and remain elevated; the average recruiter now processes 291 applications per hire, up from roughly 100 in early 2021 [13]. Gem's 2026 Recruiting Benchmarks found only 0.5% of applicants receive an offer, recruiters process roughly 200 applications for every hire, and recruiter workloads climbed 93% year-over-year [21][22][23]. That volume does not appear as a line item in a standard cost-per-hire formula, but it consumes time recruiters cannot spend on relationship-building, candidate selling, or closing, the work that actually reduces cost per hire. Hires per recruiter has partly rebounded alongside this increase, reaching 7.3 per quarter by Q1 2026, though technical roles remain lower at 3.8 [13].
+### What the invoiced 40% actually buys
 
-Stacking these together reframes the total investment. A mid-level customer success manager at a $70,000 salary might carry $21,000 in hard recruiting costs. Soft costs, hiring manager interview time, onboarding coordination, and the first 30 days of reduced productivity, add roughly $14,000 more. A 38-day vacancy at $269 per working day tacks on $10,200. The total reaches $45,200, more than double the hard-cost figure alone [24].
+Start with advertising, the most visible line and usually the smallest for a non-specialized role. It compounds faster than most budgets assume: posting across three job boards runs $800-$1,500 a month before any other ad spend [11]. Screening sits next to it. Skills assessments and coding tests cost roughly $50 per candidate, or a few hundred dollars a month on a bulk subscription [12]. Applicant Tracking System (ATS) and recruiting software subscriptions are a fixed cost spread across every hire you make that year.
 
-This is why cost-per-hire numbers can mislead. Organisations using the full ANSI/SHRM methodology reported costs 34% higher than their previously self-reported figures [15]. Most standard calculators undercount by 30 to 50% because they omit vacancy cost, onboarding drag, and the interview hours that accumulate silently across dozens of candidates [15][16]. Only 20% of organizations track quality of hire alongside cost-per-hire, which means a team can drive the number down by lowering the bar and not see the attrition cost until the next quarter [23][14]. Time-to-hire is notoriously hard to track accurately, most calculators subtract a posting date from a hire date and ignore screening and coordination time, missing hundreds of hours of real internal cost [16]. Segmenting cost per hire by role level and department before drawing conclusions is essential, because comparing a bulk IC hiring push against a single specialized search on a blended average misstates both [25]. Cost per hire is a useful input, but read alone it measures effort and speed, not outcome [24].
+Then come the lines that close a specific hire, and they dwarf the rest. Relocation packages average $21,792 for renters and $63,685 for homeowners moving domestically [13]. Signing bonuses belong in the same category, tied to one offer rather than the pipeline that produced it [14].
 
-## Hard Costs: What Ads, Assessments & Relocation Run
+None of this is cheap in-house either. Glassdoor has disclosed spending roughly $8,000-$10,000 per new hire recruiting internally, comparable to using an outside recruiting service [11]. The invoiced minority buys real capacity. It just never buys the hours.
 
-While vacancy loss and interview hours make up the invisible half, the invoiced hard costs are where every budget process begins. Hard costs are the hiring expenses with a clear price tag. They appear on invoices, contracts, or finance reports, so they are straightforward to budget and track.  Typical hard costs include job advertising, pre-employment assessments, background checks, ATS subscriptions, relocation assistance, and signing bonuses. 
+## What Agency Fees Cost: 20-35%, and 40-50% at C-Level
 
-Job board and advertising costs: For non-specialized roles, job board advertising is often the most visible, and smallest, hard-cost line item.  Posting across multiple boards compounds quickly: a business advertising on three job boards can expect to spend $800-$1,500 a month, on top of other ad expenditures. [26]
+Third-party agency and recruiter fees are the single largest external cost line for any organization filling a professional or senior role [15]. The percentage looks modest until you convert it. At the manager-through-VP level, permanent placement fees commonly run 15-25% of first-year base salary [16], and other benchmarks put the working band at 15-30% [17]. On a $120,000 engineering hire, that is $24,000-$36,000 [18]. A $90,000 product manager costs $18,000-$27,000, and a $200,000 executive runs $40,000-$60,000 [18].
 
-Background checks and skills assessments: Pre-employment skills assessments and coding tests typically cost roughly $50 per candidate, with bulk subscription software running a few hundred dollars monthly. [27] Background check fees vary by depth but are a standard invoiced expense.
+That arithmetic explains why the invoiced half of hiring spend gets so much heavier as seniority rises. A $50,000 role at a 20% fee costs $10,000 [19], so many organizations skip agencies for junior hires entirely. At senior levels, external recruiters are used almost universally, and at higher effective cost.
 
-ATS and recruiting software: An applicant tracking system subscription is a fixed hard cost that gets amortized across hires.  The per-hire figure depends on volume, but the subscription itself sits as a predictable line item on an HR budget.
+### Contingency, retained, or a container: what each arrangement really charges
 
-Relocation packages and signing bonuses: Relocation is among the largest variable hard costs. Domestic relocation packages average $21,792 for renters and $63,685 for homeowners. [28] Signing bonuses, one-time payments tied directly to offer acceptance, are grouped with relocation as an external cost category for closing specific hires. [29]
+Contingency work is the mid-level default: 15-25% of first-year salary, paid only when a candidate starts [20]. You can run several firms at once, but no single firm commits deep time, and reach into passive candidates stays limited [21]. Retained search reverses that trade. It is exclusive, so the firm dedicates real resources to one client [22], and it costs around 30-35% of salary, billed in installments as search stages complete [23].
 
-## How Much Do Recruitment Agencies Charge by Role and Salary?
+Between the two sits the hybrid, sometimes called a container: 10-25% of the total upfront to start the search, with the balance due on placement [24]. C-level searches sit above all of it, reaching 40-50% of first-year income at the top end [24]. Retained fees are also calculated on total compensation, counting bonuses and equity, not base salary alone [24].
 
-Beyond the direct ad and tool expenses, third-party agency fees often become the single largest external line item, especially for professional and senior roles. Third-party agency fees are consistently the single largest external cost item for organizations filling professional or senior roles [20]. Understanding the fee structures behind those invoices and how they scale with role level and salary lets you project the expense before it lands.
+Then come the extras. Administrative fees of 10-15% are common, and travel, background checks, assessments, and advertising can add another 5-15% to the engagement [24]. Some firms also hold hard floors, with C-suite and board search minimums starting at $75,000 [25]. Technology, financial, and health sciences roles command premium fees, and major-market firms charge more than smaller ones [24].
 
-Contingency, retained, and hybrid arrangements. Most mid-level permanent placements [run on contingency](https://testlify.com/hr-glossary/contingency-recruitment/): the agency earns a percentage of the hired candidate’s first-year base salary only if a placement is made, typically 15 to 25% [30]. Contingency engagements let a company work with multiple firms simultaneously, paying only the one that fills the role, though attention per search is lower [31]. Retained executive search is an exclusive arrangement where fees run around 30 to 35% of the executive’s total first-year compensation (explicitly counting salary, bonuses, and equity) and are paid in installments across the search [32][33][34]. Hybrid (“retingency” or container) arrangements split the difference: the client pays an upfront portion of 10 to 25% of the total fee to start the work, with the remaining balance due on placement [34].
+So the 20-35% band is a starting point rather than a fixed rate [26], and the headline percentage rarely bends. The negotiable part is terms: exclusivity, a longer rebate period, or a commitment to more roles. Trying to renegotiate after the candidate is chosen mostly signals that nobody put the fee in the budget before the search began.
 
-How fees scale by role level and salary. At the manager-through-VP level, contingency fees commonly stay within 15 to 25% of base salary [35]. A $90,000 product manager hire therefore costs $18,000-$27,000 in agency fees [36], and a $120,000 engineering hire runs $24,000-$36,000 [36]. Move to the executive tier and the percentages climb steeply. A $200,000 executive hire placed on contingency at 20 to 30% costs $40,000-$60,000 [36]. C-level searches command the highest fees in the market: retained engagements can reach 40 to 50% of first-year income [34], and some firms set hard minimums: $75,000 for C-suite and board searches regardless of compensation [37]. On top of the headline percentage, executive searches routinely add administrative fees of 10 to 15% and extra costs for travel, background checks, and extended searches that together can add another 5 to 15% to the total engagement price [34]. The result is that an agency cost that starts at a few thousand dollars for an entry-level hire can quickly exceed $50,000 once the role hits the senior leadership band.
+### The same hire at a fifth of the fee: what referral bonuses cost
 
-## In-House vs. Agencies: The 15-Hire Breakeven
+A referral bonus of $500-$1,500 per successful hire sits against an agency fee of 15-25% of first-year salary [27]. On a $60,000 role, that gap is a saving of $9,000-$15,000 per hire [27]. Across the wider market, the average referral bonus is cited at $2,500 [28], with typical programs paying $1,000-$5,000 [29]. Referred hires cost 40-60% less than agency placements and stay longer [30].
 
-Given the steep agency fees for senior placements, many organizations weigh whether to build an internal recruiting team instead. Whether in-house recruiting or an agency is cheaper turns entirely on hiring volume, not on any inherent advantage of one model over the other. The breakeven point sits around 15 to 20 hires per year: below that, agencies are more cost-efficient because their fee is purely variable, while an in-house team, costing $146,000-$200,000 annually to run, is a fixed cost regardless of how many roles it fills [38]. As Alivio Search Partners notes, “In-house teams are a fixed cost in a variable-demand environment” [38]. Companies making fewer than 15 hires annually save money using agencies; those scaling fast with predictable, high-volume hiring lower their cost per hire by building in-house capacity [38]. Most organizations overspend by 40 to 60% on recruitment because their sourcing strategy doesn’t match their actual hiring volume [38].
+The catch is that referral programs fail on execution, not on economics. Slow bonus payment and a painful submission process kill them [27]. Pay within 30 days of the new hire's start date, and keep the nomination to one form [27].
 
-Speed cuts the other way. Agencies fill roles in about 42 days versus 63 days for in-house teams, which lowers the soft cost of a prolonged vacancy even where the direct fee is higher [38]. For niche technical talent, agencies can deliver shortlists in as little as 10 to 14 days by using specialized candidate networks [38]. A hybrid embedded-recruitment model balances agency flexibility with in-house control and can cut costs by up to 70% relative to standalone agency use [38].
+## 17.6 Interviews Per Hire: The Costs Nobody Invoices
 
-## Why Cost Per Hire Hits $35K in Tech but $1K in Food Service
+That is the invoiced 40% priced out. The other 60% never reaches an invoice, and that is the only reason it stays out of the budget conversation. Indirect costs build up during hiring and after a seat sits empty: recruiter and hiring manager time, employee interview hours, lost productivity, ramp-up, and the damage a poor hire does to a team. No vendor bills you for them, so no one reconciles them.
 
-While hiring volume shapes the in-house versus agency decision, industry and role specialization create an even wider spread in cost per hire. Even the 2025 to 2026 industry averages show a wide band: accommodation, food service, arts, and recreation sit near $1,070 per hire, manufacturing at $3,497, public administration and education at $4,160, and healthcare and social services at $4,770 [39]. The real spread emerges when you stop blending by sector and look at role type. A hospitality role can average $8,500 while a software developer pushes toward $35,000 [16]. Executive hires routinely exceed $28,000 [39], healthcare-specific roles land between $9,000 and $12,000 [40], and even inside a single company a specialized engineer can cost $20,000-$35,000 when a support role stays around $8,500 [16]. Customer support hires, with their high volume and lower complexity, run $3,000-$6,000 [41].
+That is also why most cost-per-hire figures quietly omit whole categories: manager time leakage, no-show interviews, tool-stack bloat, and the productivity cost of an unfilled seat [31]. The omission is not deliberate. A quarter of HR and talent acquisition practitioners have never measured how much recruiter time goes to screening versus strategic work at all. You cannot allocate a cost you have never counted.
 
-Specialization drives the difference before any invoice arrives. Senior or scarce-skill roles demand longer sourcing cycles, more interview rounds, and heavier agency involvement, all of which inflate recruiter and hiring-manager time [25]. When talent is scarce (cybersecurity shortages are projected to reach over 85 million skilled professionals globally by 2030 [42]), teams spend far more hours searching and lean on paid channels or agencies, raising both internal and external costs [25]. Interview intensity alone can double the soft-cost load: senior technical and executive processes add rounds that entry-level and high-volume roles skip.
+### Interview hours are the largest unbilled line on the page
 
-What happens after the hire also widens the gap. Entry-level hires need substantial skills training, mid-level hires require moderate training plus acclimation to tools and culture, and executives bypass skills training but carry structured onboarding (stakeholder meetings, strategy briefings, relocation, and integration coaching) that imposes its own cost. High turnover compounds every line. Replacing an employee can cost half to twice their annual salary [43], so industries with chronic churn keep paying recruitment, assessment, and training costs on a recurring cycle.
+Interview time is the single biggest hidden cost in the soft half, and it has grown fast. Technical roles now average 17.6 interviews per hire, up 52% from roughly 11 in 2021, while business roles average 11.7, up 36% [32][33]. In hours, a technical hire consumes 23.3 hours of interview time against 12.2 for a business hire [34].
 
-A blended headline figure of $4,700 erases every one of these distinctions. A developer hire does not cost the same as a cashier, and the cost-control moves that matter for one are irrelevant to the other.
+The spread by function is wider still. Data roles top the chart at 24.9 hours per hire and engineering at 24.7, against 8.9 hours for customer support, a difference of more than 3x [35]. Those hours are senior salary, spent in a calendar rather than on a purchase order.
 
-## Why Smaller Companies Have a Higher Cost Per Hire, Volume Can Lower It
+Put a rate against them and the number stops being abstract. A recruiter running 15 open roles with three interviews per role per round burns over 45 hours of senior calendar time before a single offer goes out. At a blended loaded rate of $100 an hour, that is roughly $4,500 per role [27]. Nothing about that shows up on a sourcing invoice.
 
-Beyond industry, company size and hiring volume are equally powerful levers on cost per hire. The per-hire figure moves with how many roles you're filling and how big your organization is.  The number of roles filled at once changes cost as much as role type does, because a portion of recruiting spend is fixed while [the number of hires it gets divided across](https://testlify.com/an-ultimate-guide-to-plan-and-implement-volume-hiring/) is not.  Smaller companies tend to face higher per-hire costs despite spending less in total.  They lack scale, rarely have a dedicated recruiting team, and lean more heavily on agencies and job board postings to reach candidates. 
+### Applications per hire tripled while TA headcount fell 14%
 
-The denominator effect amplifies this gap. ATS licenses, recruiter salaries, and employer-brand spend are largely fixed. An enterprise organization spreads those costs across hundreds or thousands of hires a year, which drives the per-hire number down sharply. A firm making 5 to 10 hires a year divides the same kind of fixed spend across a tiny base, landing a far higher cost on each hire. [23][25]
+The second unbilled line is volume. The average recruiter now processes 291 applications per hire, up from roughly 100 in early 2021 [35]. Gem's 2026 Recruiting Benchmarks Report puts application volume up 93% year over year, against talent acquisition teams running about 14% less headcount than they carried in the prior hiring boom [36].
 
-Flat-rate hiring events are the clear exception. Cost per hire falls as volume rises in this channel because the event’s total spend is fixed while the number of hires it produces can vary.  The caveat: this only works for multi-role, hourly, and clinical hiring where interview volume is the bottleneck. 
+Those two pressures compound. Recruiters describe the squeeze in exactly those terms: fewer people internally, hundreds of applications per posting, and screening rather than sourcing as the real bottleneck. Hours spent reading and rejecting unqualified candidates are hours not spent selling the role or closing the offer, which is the work that actually brings the cost per hire down. None of it appears in a standard cost-per-hire formula, and that is the cost.
 
-## Referral Bonus vs. Recruitment Fee: Save $9K-$15K per Hire
+## The $500-a-Day Cost the SHRM Formula Leaves Out
 
-One direct way to slash external costs is to replace agency placements with employee referrals wherever possible. Employee referral bonuses typically run $1,000-$5,000 per successful hire [44], with a commonly cited average of $2,500 [45]. Agency fees, in contrast, are structured as 15 to 25% of first-year salary [14]. For a $60,000 role, that translates to a cost-per-hire saving of $9,000-$15,000 when the placement comes through a referral rather than an agency [14]. Beyond the fee difference, referred hires cost 40 to 60% less than agency placements and carry higher retention rates [8]. To realize those savings, the program design matters: pay the bonus within 30 days of the new hire’s start date and keep the nomination to a single form: slow payment and a painful submission process are what kill referral programs [14].
+Even a number that counts all those hours misses one more, because the SHRM/ANSI formula stops at what you spend. The money lost while the seat stays empty never enters it [9]. Vacancy cost for a standard professional role runs about $500 per day in lost output [9]. Put that against the current median time to fill of 63.5 days and a single opening costs roughly $22,000 before a recruiter invoice arrives [9].
 
-## Stop Using Averages, Measure Hard Costs vs Soft Costs Separately
+Revenue-carrying roles hurt more. An empty sales seat can cost $7,000 to $10,000 a month in deals that never close, and a senior sales vacancy at $2,500 a day reaches $112,500 over 45 days [9]. Northwestern University researchers found that leaving key sales roles open can cut company revenue by 5% or more [37].
 
-Controlling cost per hire comes down to measuring the full picture: separating hard and soft costs instead of chasing blended averages. Blended averages obscure the real picture. The widely cited ~$4,700 cost-per-hire figure mostly captures direct, invoiced expenses [46]. Add recruiter time, lost output, and onboarding, and the true cost of hire often runs two to three times higher [46]. Tracking only the invoice means managing the smaller half of the spend while flying blind on the larger half [46].
-The costliest line is a bad hire: Gallup puts replacement at 50% to 200% of salary [46]. One avoided mis-hire can save more than an entire recruiting campaign, so evidence-based screening, scoring skills up front with multiple signals, becomes the highest-impact move to control real cost [46]. Separate hard costs from soft costs in every budget, and prioritize quality of hire over volume of sourcing.
+This is why a slow, cheap process scores well on paper. Cut agency spend and the per-hire figure falls while the daily loss keeps running. The argument you take to finance is the loaded number: cost per hire plus vacancy cost [9].
 
-For a full breakdown of mis-hire costs, layer by layer and by role level, see [The Real Cost of a Mis-Hire](https://testlify.com/the-real-cost-of-a-mis-hire/).
+## Entry, Professional, Executive: What Each Hire Costs
 
-## SHRM Cost Per Hire Benchmarking Methodology
+With both halves priced, the blended national average is clearly the wrong number to budget against, because cost per hire moves in bands by seniority and the bands barely overlap. The median U.S. cost per hire sits near $1,633, while a retained executive search runs past $50,000 [38][9]. Same metric, same year, roughly a 30-fold spread. Here is what each band actually costs, and what drives the cost on each side of the hard/soft split.
 
-For those using published benchmarks to calibrate their own cost-per-hire calculations, here is a note on the SHRM data behind the figures in this article. The primary data source for updated cost-per-hire figures is the 2025 SHRM Benchmarking Reports, released October 15, 2025. Cite as: SHRM (2025). “2025 SHRM Benchmarking Reports” (or the specific report title for talent acquisition). Available at https://www.shrm.org/benchmarking [5].
+| Role band | Typical cost per hire | Main hard-cost driver | Main soft-cost driver |
+|---|---|---|---|
+| Entry-level and high-volume | $1,000-$3,000 [39] | Job board spend across high application volume [39] | Skills training to get the hire productive |
+| Professional individual contributor | $3,000-$6,000 [30] | Competitive sourcing and skills assessment [39] | Standard interview loops plus onboarding to tools and culture [9] |
+| Technical and engineering | $6,000-$10,000 [39] | Specialized screening under talent scarcity [39] | Full onsite panels, the highest individual contributor interview load [9] |
+| Manager and director | $6,000-$15,000 [30] | Agency dependence at 15-25% of first-year salary [30] | Longer processes and more interview rounds per hire [30] |
+| Senior and director-level | $15,000-$30,000+ [39] | Executive search fees [39] | Longer cycles and multi-stakeholder time [39] |
+| Executive, VP and above | $15,000-$50,000+ [30] | Retained fees at 25-35% of first-year compensation [40] | Structured integration: stakeholder meetings, strategy briefings, relocation |
+
+Industry moves the same band again. Engineering hires average $21,710 and professional services $20,707, against $8,574 for service roles [39]. Inside one company the spread holds: a specialized engineer can cost $20,000 to $35,000 while a support role at that same employer stays near $8,500 [41].
+
+### Scarcity, interview load and onboarding: what actually moves the number
+
+Three things push a hire up its band, and only one of them is the fee. Scarcity comes first. When the talent is scarce, recruiters spend more hours sourcing per hire and teams lean harder on paid channels and agencies, so internal and external costs rise together [10]. Cybersecurity is the standing example, with projections pointing to a shortfall of over 85 million skilled professionals globally by 2030 [42].
+
+Interview load is the second driver. Senior and specialized roles need more rounds, longer sourcing cycles, and more search-firm involvement, all of which consume recruiter and hiring manager hours [10]. Position level and role type are both named as direct inputs to the number, because a complex interview process pulls in more people [43].
+
+Onboarding is the third, and it does not shrink at the top. Entry-level hires need substantial skills training. Mid-level hires need moderate training plus onboarding to company tools. Executives usually skip the skills training, then run through structured integration instead: stakeholder meetings, strategy briefings, relocation support, and executive coaching, each carrying its own cost.
+
+## Why 8 Hires Cost Less Per Head Than 50
+
+Role band is only half the segmentation. The number of roles you fill at once moves cost per hire as much as role type does, because a large part of recruiting spend is fixed while the number of hires it gets divided across is not. A 40-person company filling eight roles in a quarter shows the arithmetic. Say it spends $6,000 externally on job board posts, two background checks, and one contingency agency fee, plus $9,000 of internal recruiter and hiring-manager time. That lands at $1,875 per hire [31], well under the SHRM benchmark, mostly because a company that size is not filling executive or specialized technical roles at the same rate as a large enterprise [31].
+
+Now run the same math at scale. A larger organization with an internal talent acquisition (TA) team spends $100,000 a year on HR salaries and hiring tools, adds $75,000 in external recruiting services, and makes 50 hires: $3,500 each [19]. Twice the per-head figure, on a far bigger denominator.
+
+That inversion is the trap. Smaller organizations tend to carry higher per-hire costs despite spending less in total, because they lack scale, run no dedicated recruiting team, and lean harder on agencies and job boards. At five to 10 hires a year, one search distorts the whole budget, while an enterprise spreads its ATS licenses, recruiter salaries, and employer branding across hundreds of hires [44]. The eight-hire quarter above looks cheap only because it dodged the expensive roles.
+
+### The 15-to-20-hire line where in-house recruiting starts paying for itself
+
+Whether agencies or in-house sourcing costs less is a question of volume, not of which model is better. The breakeven sits around 15-20 hires a year [45]. Below that, agency spend stays purely variable while an in-house team costs $146,000-$200,000 annually whatever it fills [45]. As one search firm puts it, in-house teams are a fixed cost in a variable-demand environment [45].
+
+Volume above that line changes the answer, and predictable, high-volume hiring is where in-house capacity lowers the number. Most organizations overspend by 40-60% because their sourcing model does not match their actual hiring volume [45]. Count the screening hours on the in-house side before you cross the line; those are the cost teams most often leave out of the comparison.
+
+## Take a Segmented Number to the Board, Not an Average
+
+Segment the figure by role level, department, and hiring type before you compare it to anything. Otherwise a bulk individual-contributor push and a single specialized search cancel each other out into a number that misstates both [10]. The same discipline applies to the period. Annual costs measured against a quarterly hire count, or hires counted as fractions of full-time roles, distort the result no matter how clean the inputs are [31].
+
+Then check the method itself. Organizations that applied the full ANSI/SHRM formula reported costs 34% higher than the figures they had been quoting internally, so a low number often means an incomplete one [9]. Include every hire in the period, successful searches and abandoned ones alike [9].
+
+One number will not survive a boardroom on its own. Pair cost per hire with time to fill and with quality of hire, measured as 90-day retention plus early manager performance scores [27]. Only 20% of organizations track quality of hire at all [44]. Without it, a cost reduction bought by lowering the bar looks like a win until the attrition shows up next quarter.
 
 ## Frequently asked questions
 
-**What's a realistic cost per hire for an entry-level role?**
+**What is the average cost per hire in the US?**
 
-Entry-level and high-volume roles carry a U.S. median cost per hire around $1,633 [9], while hospitality and food-service sectors can dip as low as $1,070 [39]. SHRM’s 2026 nonexecutive median is $1,300 [4]. These figures cover direct hard costs, with soft costs adding another 60 to 70% of the total [6].
+Median cost per hire in the U.S. sits near $1,633 [38]. That number covers non-executive roles. Executive hires run $15,000 at the median [4][5], and a retained executive search passes $50,000 [9].
 
-**Should I use median or average when setting a cost-per-hire budget?**
+**Does cost per hire include onboarding?**
 
-SHRM’s 2025 averages, $5,475 for nonexecutives, $35,879 for executives [1], differ sharply from its 2026 medians ($1,300 and $15,000 ), because a few very expensive C-suite searches pull the average up [5]. The organization switched to medians in its 2026 trend line to avoid that skew. For budgeting, use the median to avoid over- or under-allocation driven by outliers.
+No. Under the SHRM standard, counting stops at the accepted offer, so onboarding sits outside the formula. Vacancy cost is excluded too [9]. Track both separately if you want the full picture.
 
-**What drives the biggest hidden cost in hiring?**
+**What is the difference between cost per hire and time to fill?**
 
-Interview time is the largest line item no invoice captures: business roles now average 11.7 interviews per hire and technical roles 17.6, consuming 23.3 interviewer hours for a technical hire [10][11][12]. At a loaded rate of $100/hour, that alone adds $2,300+ in labor cost [14]. Vacancy loss adds another $500 per working day, with a median time-to-fill of 44 working days [18][15].
+Cost per hire measures money spent per hire. Time to fill measures days from opening to accepted offer, currently a median of 63.5 days [9]. Read them together, because a slow, cheap process still loses money.
 
-**How much can referrals cut hiring costs compared to agencies?**
+**How much does it cost to hire a software engineer?**
 
-For a $60,000 role, an agency placement at 15 to 25% costs $9,000-$15,000, while a referral bonus averages $2,500 [45][14]. That’s a direct saving of $9,000-$15,000 per hire, and referred hires also carry 40 to 60% lower overall cost [8].
+Budget $6,000-$10,000 for a technical hire on the standard band [39], and $21,710 as the engineering average [39]. Using an agency on a $120,000 salary adds $24,000-$36,000 [18].
 
-**What's the true cost of a bad hire and how can I prevent it?**
+**How can we reduce cost per hire without hurting quality?**
 
-Gallup puts the replacement cost of an employee at half to twice their annual salary [46]. Because soft costs make up 60 to 70% of total hire cost [6], a mis-hire can rapidly burn far more than the visible spend. The highest-impact prevention is evidence-based screening that scores skills before a single interview, so you avoid the hire that costs you the most [46].
+Referred hires cost 40-60% less than agency placements and stay longer [30]. Match your sourcing model to your real hiring volume [45]. Then track quality of hire, so the saving is not bought by lowering the bar.
 
-Every hire looks cheap if you only count the invoices. Separate hard from soft costs, and the real cost per hire often doubles, or triples. The fix, not a bigger budget, is a process that verifies job-readiness before the first manager hour disappears into an interview loop. Testlify’s 3,500+ validated skills assessments and AI-powered interviews give you that evidence, so your next hire costs what it should. Try Testlify free for 7 days, with no credit card, and start screening on skills, not on hope.
+The cost per hire that survives scrutiny is sourced and segmented: current edition, stated method, split by role band and volume. Interview hours are the largest unbilled line inside it.
+
+Testlify screens candidates on validated skills tests before the panel meets, so fewer people reach the expensive interview rounds. Its assessments are built by I/O psychologists (specialists in workplace behavior) and documented for EEOC compliance. Start the 7-day free trial, no credit card needed, and see how many interview hours come back.
 
 ## Sources
 
 1. https://interviewcost.com/shrm-cost-per-hire
-2. https://www.linkedin.com/posts/latonyahowell_2026-recruiting-executives-benchmarking-activity-7480651926959779840-I8la
-3. https://www.linkedin.com/posts/allisonrewired_youre-in-the-budget-meeting-defending-your-activity-7490017392996229121-po5v
+2. https://www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment
+3. https://www.shrm.org/about/press-room/shrm-releases-2025-benchmarking-reports--how-does-your-organizat
 4. https://www.shrm.org/topics-tools/research/recruiting-benchmarking/full-data-brief
-5. https://www.shrm.org/about/press-room/shrm-releases-2025-benchmarking-reports--how-does-your-organizat
-6. https://feeds.obra.co/blog/average-recruiting-cost-per-hire
-7. https://www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment
-8. https://www.teamed.global/insights/cost-per-hire-calculator-shrm-formula-and-benchmarks
-9. https://www.zippia.com/advice/cost-of-hiring-statistics-average-cost-per-hire/
-10. https://www.linkedin.com/posts/tadthornton_%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%82-activity-7478182864220782593-F7TK
-11. https://www.talentobserver.com/news/technical-hiring-interview-rounds-offer-acceptance-remote
-12. https://www.linkedin.com/posts/anthonymostak_in-q1-2026-the-average-time-spent-interviewing-activity-7469754373758316544-pa5D
-13. https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
-14. https://testlify.com/reduce-recruitment-costs-while-maintaining-quality-hires/
-15. https://testlify.com/hr-glossary/cost-per-hire-cph/
-16. https://www.willo.video/blog/cost-per-hire-definition-calculation-how-to-reduce
-17. https://www.hiretruffle.com/blog/cost-per-hire
-18. https://hiredaiapp.com/the-hidden-cost-of-slow-hiring-what-every-recruiter-needs-to-know-in-2026/
-19. https://engagedly.com/blog/average-cost-per-hire-employee/
-20. https://www.turahire.com/blog/cost-to-hire
-21. https://www.linkedin.com/posts/kirkseycrecruit_the-2026-recruiting-benchmarks-report-gem-activity-7482822560083156992-PLmN
-22. https://www.gem.com/blog/key-takeaways-from-the-2026-recruiting-benchmarks-report
-23. https://www.pin.com/blog/cost-per-hire-benchmarks/
-24. https://testlify.com/measuring-the-roi-of-talent-acquisition/
-25. https://juicebox.ai/blog/cost-per-hire
-26. https://www.preemploymentassessments.com/blog/hiring-costs/
-27. https://www.bryq.com/blog/skills-assessment-tools-pricing-2026
-28. https://whrg.com/blog/how-much-is-the-average-u-s-domestic-relocation-package/
-29. https://x0pa.com/glossary/cost-per-hire/
-30. https://www.aihr.com/hr-glossary/recruitment-fees/
-31. https://law-mates.com/contingency-vs-retained-legal-recruiting-whats-the-difference/
-32. https://bookspansearchpartners.com/how-do-executive-search-firms-get-paid/
-33. https://www.cfoselections.com/perspective/the-difference-between-retained-and-contingent-search
-34. https://www.hirecruiting.com/newsroom/how-much-do-executive-search-firms-charge/
-35. https://www.kore1.com/cost-to-hire-product-manager-2026/
-36. https://www.dover.com/blog/cost-of-hiring-agency-vs-in-house-vs-embedded-recruiting
-37. https://tgsus.com/executive-search-blog/executive-search-fees-search-firm-pricing/
-38. https://rentarecruiter.com/recruitment-agencies-vs-in-house-hiring-cost-comparison/
-39. https://recruiterflow.com/blog/cost-per-hire/
-40. https://jobfairx.com/employer/resources/cost-per-hire
-41. https://timeclick.com/cost-of-hiring-an-employee/
+5. https://www.linkedin.com/posts/allisonrewired_youre-in-the-budget-meeting-defending-your-activity-7490017392996229121-po5v
+6. https://www.linkedin.com/posts/latonyahowell_2026-recruiting-executives-benchmarking-activity-7480651926959779840-I8la
+7. https://www.shrm.org/topics-tools/news/shrm-benchmarking-report-4129-average-cost-per-hire
+8. https://www.shrm.org/topics-tools/news/benefits-compensation/shrm-hr-benchmarking-reports-launch-free-member-exclusive-benefit
+9. https://testlify.com/hr-glossary/cost-per-hire-cph/
+10. https://juicebox.ai/blog/cost-per-hire
+11. https://www.preemploymentassessments.com/blog/hiring-costs/
+12. https://www.bryq.com/blog/skills-assessment-tools-pricing-2026
+13. https://whrg.com/blog/how-much-is-the-average-u-s-domestic-relocation-package/
+14. https://x0pa.com/glossary/cost-per-hire/
+15. https://www.turahire.com/blog/cost-to-hire
+16. https://www.kore1.com/cost-to-hire-product-manager-2026/
+17. https://www.swydo.com/blog/agency-pricing/
+18. https://www.dover.com/blog/cost-of-hiring-agency-vs-in-house-vs-embedded-recruiting
+19. https://timeclick.com/cost-of-hiring-an-employee/
+20. https://www.aihr.com/hr-glossary/recruitment-fees/
+21. https://law-mates.com/contingency-vs-retained-legal-recruiting-whats-the-difference/
+22. https://www.cfoselections.com/perspective/the-difference-between-retained-and-contingent-search
+23. https://bookspansearchpartners.com/how-do-executive-search-firms-get-paid/
+24. https://www.hirecruiting.com/newsroom/how-much-do-executive-search-firms-charge/
+25. https://tgsus.com/executive-search-blog/executive-search-fees-search-firm-pricing/
+26. https://ikonsearch.com/feeds/blog/ea-ceo-recruiter-pricing
+27. https://testlify.com/reduce-recruitment-costs-while-maintaining-quality-hires/
+28. https://www.bamboohr.com/blog/5-reasons-why-an-employee-referral-program-is-the-best-way-to-hire-new-talent
+29. https://www.indeed.com/hire/c/info/5-ways-to-create-an-effective-employee-referral-program
+30. https://www.teamed.global/insights/cost-per-hire-calculator-shrm-formula-and-benchmarks
+31. https://www.hiretruffle.com/blog/cost-per-hire
+32. https://www.talentobserver.com/news/technical-hiring-interview-rounds-offer-acceptance-remote
+33. https://www.linkedin.com/posts/tadthornton_%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%BF%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%98%82-activity-7478182864220782593-F7TK
+34. https://www.linkedin.com/posts/anthonymostak_in-q1-2026-the-average-time-spent-interviewing-activity-7469754373758316544-pa5D
+35. https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
+36. https://tandemspace.com/blog/average-cost-per-hire-stats
+37. https://www.mheda.org/journal/the-high-cost-of-unfilled-positions/
+38. https://www.zippia.com/advice/cost-of-hiring-statistics-average-cost-per-hire/
+39. https://feeds.obra.co/blog/cost-per-hire-benchmark
+40. https://feeds.obra.co/blog/average-recruiting-cost-per-hire
+41. https://www.willo.video/blog/cost-per-hire-definition-calculation-how-to-reduce
 42. https://www.tierpoint.com/blog/cybersecurity/the-cybersecurity-workforce-shortage-overcoming-the-challenge/
 43. https://testlify.com/cost-per-hire-calculator/
-44. https://www.indeed.com/hire/c/info/5-ways-to-create-an-effective-employee-referral-program
-45. https://www.bamboohr.com/blog/5-reasons-why-an-employee-referral-program-is-the-best-way-to-hire-new-talent
-46. https://testlify.com/direct-vs-indirect-hiring-costs-whats-overlooked/
+44. https://www.pin.com/blog/cost-per-hire-benchmarks/
+45. https://rentarecruiter.com/recruitment-agencies-vs-in-house-hiring-cost-comparison/
