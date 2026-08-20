@@ -89,6 +89,20 @@ color:var(--pink)}
 .tabs a.on{background:#1c1a17;color:#fff;border-color:#1c1a17}
 .tabs .home{margin-left:auto;background:none;border:none;color:#fb7a00}
 .whatis{max-width:760px;margin:0 auto 6px;padding:16px 24px 0;color:#6b6459;font-size:15px}
+
+/* FAQ, collapsed by default: five long answers used to push the close off the page */
+details.faq{border-bottom:1px solid #eee5d4}
+details.faq summary{list-style:none;cursor:pointer;padding:15px 30px 15px 0;position:relative;
+ font-weight:600;font-size:17px;line-height:1.45;color:#1c1a17}
+details.faq summary::-webkit-details-marker{display:none}
+details.faq summary:hover{color:#fb7a00}
+details.faq summary::after{content:"+";position:absolute;right:4px;top:13px;font-size:22px;
+ font-weight:400;color:#b3aa9a;transition:.15s}
+details.faq[open] summary::after{content:"\2013";color:#fb7a00}
+details.faq[open] summary{color:#fb7a00}
+details.faq .a{padding:0 30px 18px 0}
+details.faq .a p{margin:0 0 10px}
+details.faq .a p:last-child{margin-bottom:0}
 </style></head><body><div class="wrap"><div class="pick">
 <h1>Testlify articles</h1>
 <p class="sub">The same four articles, twice. Version 0 is what the pipeline produced.
