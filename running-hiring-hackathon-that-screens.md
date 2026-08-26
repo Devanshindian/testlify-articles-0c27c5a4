@@ -1,223 +1,170 @@
 # Hiring Hackathon Judging: Rubric, Calibration, AI Rule
 
-The demos land, the panel takes notes, and then every judge turns out to have measured something different. A topline report with SHRM Labs found 45.8% of HR and talent acquisition practitioners call their own hiring process inconsistent. A hiring hackathon is a work sample test: real work, scored inside a hiring decision.
+The demos land, the panel takes notes, and hackathon judging turns into a room where every judge measured something different. In a SHRM Labs report, 45.8% of HR and talent acquisition practitioners called their own hiring process inconsistent.
 
-A score that changes with the judge is a hire that changes with the judge. Fix the scoring, not the event. Three things decide it: the rubric, a panel that agrees on how to read it, and the rule on AI.
+A score that changes with the judge is a hire that changes with the judge. The fix sits in the scoring, not the event. Three things decide it: the rubric, a panel that reads it the same way, and the rule on AI.
 
 ## Quick answer
 
-A hiring hackathon gives you a usable signal only if the scoring exists before the event does. Build the rubric from the job description, not from what the demos happen to show. Use five or six weighted criteria, and write down what a failing, an acceptable and a top submission looks like on each.
+Build the scoring before the event exists. Take five or six weighted criteria from the job description, not from what the demos happen to show. Write down what a failing, an acceptable and a top submission looks like on each.
 
-Then have judges score practice work privately and compare the numbers, so you can fix any wording two people read differently. Publish the AI rule with the brief: what candidates may generate, what they must disclose, what disqualifies them. Score how well AI was used, not whether it was.
+Have judges score practice work privately, then compare numbers and fix any wording two people read differently. Publish an AI rule with the brief: what candidates may generate, what they must disclose, what disqualifies them. Score how well AI was used, not whether it was.
 
 ## Your Hackathon Is a Work Sample Test, Not a Demo Day
 
-Ask candidates to build something real in a realistic environment and you have run a [work sample test](https://testlify.com/job-simulation/). It sits inside a hiring decision, so the scoring carries the same legal and practical weight as any other selection test.
+Ask candidates to build in a realistic environment and you have run a [work sample test](https://testlify.com/job-simulation/). That changes what your scoring has to survive.
 
-That is good news. Work samples show a standardized mean difference of roughly 0.38 between Black and white test-takers, against roughly 1.0 for cognitive ability tests, so the adverse impact risk is far lower (adverse impact is when a hiring step rejects one group at a much higher rate than another). But only if you score on job-linked criteria set in advance, worked out through structured analysis rather than guesswork.
+Work samples show a standardized mean difference of about 0.38 between Black and white test-takers, against about 1.0 for cognitive ability tests. So they carry far lower adverse impact risk: rejecting one group at a much higher rate than another. That holds only if you score on predetermined, job-linked criteria. Because the tasks come from the job itself, your rubric also becomes a content-validity argument under the Uniform Guidelines on Employee Selection Procedures (1978).
 
-Because the tasks come straight from the job, a rubric also meets the content-validity requirement in the Uniform Guidelines on Employee Selection Procedures (1978). It is a legal argument, not just a fair one.
+Designing the build task itself is a separate job, and we have set out [how to design a job-linked coding exercise](https://testlify.com/best-practices-for-designing-coding-assessments/).
 
-## The Rubric: Five or Six Criteria, Fixed Weights, One Total
+## The Judging Criteria: Five or Six, Weighted, One Total
 
-Score five or six criteria, not 10, and fix the weights before the event opens. Standard practice for a work sample is to name in advance the five or six skills the exercise tests, then pick one scale and stick to it. Too many criteria tire the judges and scores drift; too few and you cannot tell what went wrong.
+Score five or six criteria, not ten, and fix the weights before the event opens. Predefine the skills the exercise actually tests, and pick one scale. Too many criteria tire judges and lower consistency. Too few leave you unable to tell what went wrong. Pull them from the job description, not from what the demos show you.
 
-Pull those criteria from the job description, not from what the demos happen to show you. That is the difference between a rubric and a scorecard.
+Weighting stops a candidate who presents beautifully from finishing level with one who built the thing. Adjust this allocation to the role, keep it summing to 100, and publish it with the brief.
 
-### Weight the Criteria, Then Run the Same Math on Every Candidate
+| Criterion | What you score | Weight |
+|---|---|---|
+| Technical execution | Code quality, difficulty, how much of the demo is real  | 30% |
+| Problem solving | Approach, trade-offs, optimization  | 20% |
+| Feasibility and fit | Could it ship, does it fit how the team works  | 20% |
+| Testing | Common and corner cases, self-correcting bugs  | 15% |
+| Communication | Explains the approach while building  | 10% |
+| Originality | Novel idea, creative use of the theme or tools  | 5% |
 
-One formula, applied identically to every submission. Score each criterion on a fixed scale, divide by the maximum, multiply by that criterion's weight, and add the results into a total out of 100. Do it in a spreadsheet, then check the ranks look sane before anyone makes a call on them.
+(score ÷ maximum) × weight, summed across criteria = the total out of 100 
 
-Weighting is what stops a candidate who presents beautifully from finishing level with one who built the thing. Here is a working split for a build-style hackathon. Change the percentages to suit the role, keep them adding to 100, and publish them before the event.
+Run that in a spreadsheet, and sanity-check the ranks before anyone makes a call.
 
-| Criterion | What you are scoring | Weight | Score band anchors (1 / 3 / 5) |
-|---|---|---|---|
-| Technical execution | Code quality, technical difficulty, how much of the demo is real versus faked  | 30% | 1: no working build · 3: works on the happy path · 5: handles edge cases cleanly |
-| Problem solving | Understands the problem, sound approach, trade-off analysis, optimization  | 20% | 1: no evidence · 3: one workable approach · 5: weighs alternatives and picks well |
-| Feasibility and workflow fit | Whether the build could ship and fits how the team works  | 20% | 1: demo only · 3: shippable with rework · 5: ready to hand off |
-| Testing | Common and corner cases, self-correcting bugs  | 15% | 1: none · 3: happy-path tests · 5: corner cases covered |
-| Communication | Clarifies, explains the approach, communicates while building  | 10% | 1: cannot explain the build · 3: explains what · 5: explains why |
-| Originality | Novelty of the idea, creative use of the theme or tools  | 5% | 1: template output · 3: familiar idea, own execution · 5: an approach a judge would not have thought of |
+## 1-5 Rating Scale Definitions: What a 1, a 3 and a 5 Mean
 
-A 0 sits below the 1 band on every row. It means no evidence at all, not poor work. A missing artifact and a weak one are different findings.
+"Score from 1 to 5" is not a rubric. Vague criteria produce noisy scores however good the criteria are. Write one definition per number, per criterion, before the event. Three anchors hold [a five-point scale](https://testlify.com/hr-glossary/what-is-a-behaviourally-anchored-rating-scale-bars/) steady: failing, acceptable, top.
 
-## What a 1, a 3, and a 5 Actually Mean
+On problem fit:
 
-"Score from 1 to 5" is not a rubric. Judges need written descriptions of what [each point on the scale](https://testlify.com/hr-glossary/what-is-a-behaviourally-anchored-rating-scale-bars/) looks like, like the anchor column in the table above. Vague criteria produce noisy scores however strong the criteria themselves are.
+- **1**: solves something the brief did not ask for
+- **3**: addresses the stated problem with an obvious workaround
+- **5**: handles it, including the edge case named in the brief
 
-Three anchors hold a five-point scale steady: what a failing submission looks like, what an acceptable one looks like, and what a top one looks like. On a criterion like problem fit, a 1 reads "solves something the brief did not ask for." A 3 reads "addresses the stated problem with an obvious workaround." A 5 reads "handles the stated problem including the edge case named in the brief."
+Two and four sit between the written bands. Attach an example to each anchor, so a 5 means the same thing to every judge. A 0 sits below the 1 band. It means no evidence at all, not poor work.
 
-Two and four sit between the written bands. Attach a real example to each anchor, so a 5 means the same thing to every judge instead of whatever that judge privately calls a strong demo.
+## Submission Review Focus: What Makes a Project Stand Out, and the Common Score Reducers
 
-### Name the Evidence a Score Is Allowed to Rest On
+Say what a judge may look at: the submission and the stated requirements only, or outside knowledge too? Tight evidence rules cut disagreement between judges. Ask judges to write their reasoning first and the score second. That is more accurate and it leaves a record. Every low score quotes the evidence behind it.
 
-The rubric also has to say what a judge may look at. Only the submission and the stated requirements, or outside knowledge too? Does missing documentation cost points? May a judge credit what a candidate meant to build, or only what shipped?
+What lifts a submission is the specification the candidate wrote, the architectural call they made, and how well they debugged.
 
-Tight evidence rules cut disagreement between judges. Decide the edge cases in advance too: a working build that ignores a stated constraint fails on completeness, on instruction adherence, or on both.
+Common score reducers:
 
-Then make judges write. Ask for the reasoning first and the score second, which produces more accurate scoring and leaves a record of why the number landed there. Every low score carries a short rationale quoting the evidence behind it. Without that, you cannot tell later whether the rubric was wrong or the judge was.
+- No evidence at all on a criterion, which scores 0 rather than 1 
+- A build that ignores a stated constraint, once you have decided whether that fails completeness or instruction adherence 
+- Non-disclosure of AI, which employer codes treat as grounds for disqualification or a withdrawn offer [1]
 
-## Calibrate the Panel Before Anyone Scores a Real Candidate
+## The Judge Process: Calibrate the Panel Before Anyone Scores
 
-Calibration happens before live judging opens, and it is not the same job as writing the rubric. The hackathon judging rubric says what a strong submission looks like; calibration proves every judge reads that description the same way. Skip it and the disagreement does not go away, it just surfaces after a real candidate has been scored.
+Calibration runs before live judging, and it is separate from writing the rubric. The hackathon judging rubric says what a strong submission looks like. Calibration proves the panel applies it the same way.
 
-Run it as one 90-minute session, in this order:
+Run it as one 90-minute session:
 
-1. **Walk the rubric together:** read out each criterion, its weight and the scale. Take questions until the panel uses the same words for the same behaviors.
-2. **Score one or two practice submissions privately:** hand each judge an anonymized sample, past candidate work or a seeded practice build, and let nobody discuss it.
-3. **Put every score on one sheet:** all judges' numbers for the same submission, side by side, revealed only once everyone has finished.
-4. **Discuss only the outliers:** one judge gave a 2, another gave a 5 on the same criterion, so look at that gap. Leave the rows where everyone landed within a point.
-5. **Rewrite the ambiguous wording, not the scores:** you are not trying to agree on the right number for a practice item. You are hunting the sentence two judges read differently, and fixing it before it costs a real candidate.
+1. Walk the rubric together. Read out each criterion, its weight and the scale, and take questions.
+2. Score one or two practice submissions privately. Anonymized past work or a seeded build, no discussion.
+3. Put every score on one sheet, revealed only once everyone has finished.
+4. Discuss only the outliers. A 2 against a 5 on one criterion gets examined. Leave the rows within a point alone.
+5. Rewrite the wording, not the scores. You are hunting the sentence two judges read differently.
 
-The private-then-compare order does the work. Without it, the most senior voice in the room sets the answer before anyone else has looked at the evidence. When two judges still cannot agree, make each one point at something the submission actually shows. A feeling is not a justification [1].
+Private first, compare second. Otherwise the most senior voice sets the answer before anyone else looks at the evidence. When two judges still disagree, make each justify the rating with something the submission shows [2].
 
-### What Calibration Fixes, and What It Will Never Fix
+## What Calibration Will Never Fix
 
 Calibration fixes unwritten standards. It does not make the panel neutral.
 
-Judges hold back extreme scores early, saving room in case something stronger turns up, so the first submissions get marked harder than identical ones seen later. They also drift toward each other's numbers, and that gets worse on a panel that has not built trust before scoring begins.
+Judges avoid extreme scores early on, so the first submissions get marked more harshly than identical ones seen later. They also drift toward each other's numbers.
 
-Structure does narrow the gap. Anchored, structured scoring cuts the Black-White standardized mean difference in ratings from d = 0.56 to roughly d = 0.23. That comes from process design, not bias training, and it is a reduction rather than an erasure.
+Structure narrows where bias operates. Anchored, structured scoring cuts the Black-White standardized mean difference in ratings from d = 0.56 to about d = 0.23. In a 2012 Yale study, science faculty rated an identical application as more competent when the applicant was labeled male, and offered that person $4,000 more. Trained evaluators were not immune.
 
-It narrows the door bias comes through; it does not close it. In a 2012 Yale study in the Proceedings of the National Academy of Sciences, science faculty rated an identical application as more competent when the applicant was labeled male, and offered that person $4,000 more in starting salary. Trained evaluators were not immune.
+So use two independent readers per submission, and a second reader on any borderline result.
 
-So treat a calibrated score as an approximation of judgment, not a substitute for it. Two independent readers per submission, plus a second reader on anything borderline, does more for a close call than another round of alignment talk.
+## How to Calculate Inter-Rater Reliability
 
-## How to Calculate Inter-Rater Reliability, and Fix Splits
+Calibration tells you the panel talked. Agreement tells you the rubric worked. Double-score 10 to 20 percent of submissions, and settle every disagreement.
 
-Calibration tells you the panel talked. Agreement tells you the rubric worked. Double-score a slice of submissions, commonly 10 to 20 percent, and settle every disagreement rather than letting it pass.
+Use Cohen's kappa when two judges score the same work. Use Krippendorff's alpha (an agreement statistic that handles more than two raters and missing scores) for a larger panel. In recruiting practice, anything below 0.40 reads as inconsistent evaluation, tracked monthly.
 
-Measure it properly: Cohen's kappa when two judges score the same work, and Krippendorff's alpha (an agreement statistic that copes with more than two raters and missing scores) when the panel is bigger. In recruiting calibration practice, anything below 0.40 is read as inconsistent evaluation, tracked monthly, with dips investigated rather than ignored.
+Read the split, not just the coefficient. More than one point apart on the same criterion is your trigger to reconvene [2]. If it keeps happening on the same criterion, the rubric is the problem, not the panel [2]. Two defects cause most of it: dimensions that overlap, so "quality" and "completeness" partly mean the same thing, and anchors that give adjectives instead of a concrete threshold.
 
-Read the split itself, not only the coefficient. Two judges more than one point apart on the same criterion is your trigger to reconvene [1]. If it keeps happening on the same criterion, the rubric is the problem, not the panel [1].
-
-Two defects cause most of it. Dimensions overlap, so "quality," "impact" and "completeness" partly mean the same thing and judges score them inconsistently. Or the anchors are weak, offering adjectives where they should give a concrete threshold.
-
-Never average a split. Resolve it by discussion or a third reviewer, then log which criterion caused it, the decision, and the reasoning. That log becomes the precedent for the next ambiguous submission and the raw material for your next rubric revision. It is also what you reach for when a placement gets challenged, instead of asking judges to reconstruct their thinking from memory.
-
-### Re-Calibrate on a Schedule, Not Just Before the First Event
-
-Scores drift. After repeated rounds on the same role, averages tend to inflate toward "strong yes" or bunch in the middle, and both are bias signals rather than a sharper panel. A recurring session (quarterly is a reasonable cadence) re-anchors everyone to the written rubric.
-
-You do not need a standing meeting. Send three scored sample submissions by email or chat, have each judge rate them privately, then compare during a meeting you already hold. A judge who joins after the first calibration runs a short version before scoring anything live. Keep the rubric in a shared system, so each round is checked against the document and not against someone's memory of the discussion.
+Never average a split. Resolve it by discussion or a third reviewer, then log the criterion, the decision and the reasoning. That log is what you pull when a placement is challenged.
 
 ## Set the AI Rule Before Candidates Set It for You
 
-All of that assumes the submission is the candidate's own work. With no stated AI rule, your scores compare tool access, not skill.
+Everything above assumes the submission is the candidate's own work. With no stated AI rule, your scores compare tool access, not skill. Almost half of job seekers were already using ChatGPT for resumes and cover letters in a 2023 survey [3]. Code, a build plan and a demo script look the same whether a person or a model produced them.
 
-Candidates are already using these tools. A 2023 survey found almost half of job seekers were using ChatGPT to write resumes and cover letters [2], and 70% of them reported a higher response rate [2]. Legal guidance on the practice notes employers usually do not spot it [2].
+The line that holds is preparation versus substitution. AI may scaffold commodity work, but it may not produce the thing being judged. Publish that with the brief, not after submissions land.
 
-A hackathon submission is where it disappears completely. Code, a build plan and a demo script all look the same whether a person or a model produced them. Your panel cannot separate the candidate's own judgment from generated output unless the submission asks for it directly.
+Boilerplate has a test. Delete a block: if a template from the internet could replace it in five minutes, it is boilerplate. If deleting it breaks something only your product does, that is the feature code where the hiring signal lives.
 
-The instinct is to ban it. Some organizations do, making candidates agree to no AI use anywhere in the process, with disqualification if it is detected. Commentators call that extreme, since using AI to sharpen an application is now treated as a basic job-market skill rather than a violation.
+| AI use in a build submission | Policy tier | How judging treats it |
+|---|---|---|
+| Scaffolding: component setup, database connections, error wrappers, route registration  | Permitted where the brief allows [1] | Scored normally, no penalty  |
+| A write-up of past work in the README  | Permitted [1] | Never used against the candidate  |
+| Generated design rationale, where reflection is what you assess  | Disclosable [1] | Explained at the live defense |
+| Live prompting during a supervised demo or defense  | Prohibited [1] | Disqualifying |
+| Feature code or architecture decisions passed off undisclosed [1] | Prohibited [1] | Disqualifying |
 
-What candidates complain about is not the rule. It is that nobody publishes one, so the same behavior reads as too much AI to one judge and too little to the next. State the line.
+## An AI Disclosure Statement Example You Can Copy
 
-## What Candidates May Generate, and What Disqualifies
+A complete disclosure names three things: the tool, the task it did, and the human review that followed. Missing one makes it incomplete rather than absent, and your rubric should score it that way.
 
-The line that holds up is preparation versus substitution: AI may scaffold commodity work, but it may not produce the thing being judged. Publish that tier with the brief, not after submissions land, because nobody can build to a line they cannot see. Any restriction also needs a nondiscriminatory business reason decided in advance, never applied afterwards because a judge disliked how one team worked [2].
+Publishing has settled on a sentence that adapts almost word for word: "The author(s) used [NAME OF TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility".
 
-Running several tracks? Set the tier per track and post it on each track's brief [2]. A senior engineering track can carry a stricter no-generation rule than a product or analyst track [2].
+Put it in a mandatory field next to the code, not in terms-of-service language nobody reads. Two to four sentences is enough, and one consistent structure saves both sides guessing.
 
-### Boilerplate Is Fine. The Feature Code Is the Test.
+Scale the detail to how much AI shaped the graded work. A polishing pass needs one line: no new content was generated, and the author reviewed every edit. Ask for the rest category by category, so a judge scoring architecture can see whether AI touched architecture. A candidate who writes "used AI to help" scores lower than one who itemizes where AI entered the build.
 
-Boilerplate has a usable test. Delete a block: if a template from the internet could replace it in five minutes, it is boilerplate. If deleting it breaks something only your product does, that is the feature code where the hiring signal lives. Scaffolding is work most engineering teams already treat as commodity, not the skill the assessment exists to measure.
+## Spotting Undisclosed AI, and Scoring How Well It Was Used
 
-The harder question is who breaks the problem down. AI works well as a fast implementer given clear direction, and falls apart handed a whole scenario at once. A candidate who splits the problem and directs bounded pieces to a tool is showing the judgment you are testing. One who pastes in the brief and submits the output is not.
+The check that holds is the live defense conversation, not a detector score. AI produces polished work across a wide range of tasks, so only a conversation verifies the candidate understands what they submitted.
 
-### The Permitted and Prohibited List
+Flag these before that conversation:
 
-| AI use | Example in a build submission | Policy tier | How judging treats it |
-|---|---|---|---|
-| Code generators for scaffolding | React component scaffolding: imports, state declarations, prop-types  | Permitted where the brief allows it [3] | Scored normally, no penalty  |
-| Repeated setup and wiring | Database connection setup, error-handling wrappers, REST route registration  | Permitted where the brief allows it  | Scored normally, no penalty  |
-| Summarizing prior work | AI-assisted write-up of a past project in the submission README  | Permitted  | Never used against the candidate  |
-| AI drafting written reasoning for non-timed tasks | Generated design rationale where reflection is what you are assessing  | Disclosable  | Explanation required at the live defense |
-| Live prompting during a supervised round | Real-time answer generation in the demo or defense session  | Prohibited [3] | Disqualifying |
-| Bypassing test controls | Third-party help on a coding or aptitude test  | Prohibited  | Disqualifying |
-| Identity masking | Deepfakes, synthetic voice, or impersonation on a video defense  | Prohibited  | Disqualifying |
-| Passing AI-authored substance as your own | Feature code, architecture decisions, or write-ups submitted undisclosed [3] | Prohibited  | Disqualifying |
+- Generic content that never addresses the specific task, plus formatting inconsistencies inside one submission [3]
+- Two independent submissions that overlap in wording or structure [3]
+- A solution that arrives fully formed, with no commit history and no documented dead ends 
+- Line-by-line comments human developers rarely write 
 
-Two phrases carry over word for word. Say that permitted uses match how people now work and do not disadvantage other candidates. Say that disclosure will never be used against a candidate and only helps you assess the application properly. Keep the rest operational: what must be visible on screen, not what the rules stand for.
+None of these is proof, and [detection tools](https://testlify.com/how-to-prevent-cheating-in-online-interviews/) flag non-native English writers at higher rates [4]. Treat each tell as a question: walk me through why you chose this loop structure.
 
-## What a Complete AI Disclosure Statement Says
+Then score how well the candidate directed, checked and built on what the model returned. Use separate anchored line items, each needing evidence: prompting shown, output verified and debugged, disclosure specific. Grade them from the disclosure plus any trace they submit, such as a prompt log, git history, or their walkthrough.
 
-A complete disclosure, the middle tier in that table, names three things: the tool, the task it did, and the human review that followed [4]. Missing one makes it incomplete rather than absent, and your rubric should score it that way. Publishing has already landed on a sentence that transfers to a build submission almost verbatim: "the author(s) used [NAME OF TOOL / SERVICE] in order to [REASON]. After using this tool/service, the author(s) reviewed and edited the content as needed and take(s) full responsibility" [4].
-
-Give it its own mandatory field in the submission form, next to the code and the write-up. Buried in terms-of-service text, it goes unread and unwritten. Two to four sentences is enough. One fixed structure saves both sides work: the candidate stops guessing at phrasing, and the judge knows exactly what to look for.
-
-### Scale the Disclosure to How Much AI Shaped the Build
-
-How much detail you ask for should track how much AI shaped the graded work, not whether it was touched at all. A prose-polishing pass needs one confirming line: "no new content was generated, and all edits were reviewed by the author". AI that wrote or debugged judged logic needs specifics. Which files, which functions, which decisions.
-
-Ask for it category by category rather than as a single checkbox. Use the build-relevant buckets: scaffolding and boilerplate, debugging, code review, and documentation. Each maps to a different part of your rubric, so a judge scoring architecture can see whether AI touched architecture. A candidate who writes "used AI to help" scores lower on this line than one who itemizes where AI entered the build.
-
-### Attestation, Disclosure, and What Happens When They Hide It
-
-[Attesting to no AI use](https://testlify.com/candidate-honesty-policy-and-agreement/) and disclosing AI use are different policies, not two wordings of one [2]. An attestation is a ban on the honor system. A disclosure tier assumes some AI use and makes the extent of it the thing you score.
-
-Write the consequence down before the event. Employer codes already state that failing to disclose, or misrepresenting deliberately, may mean disqualification from the process or a withdrawn offer [3]. Put the matching point deduction or disqualification rule in the rubric in advance.
-
-## Spotting Undisclosed AI Use in a Submission
-
-A policy only holds if you can check it, and the check that works is the live defense conversation, not a detector score. AI produces polished work across a huge range of tasks, so only talking to the candidate shows whether they understand what they handed in. Everything below feeds that conversation.
-
-Patterns to flag before the candidate sits down:
-
-- Repeated phrasing and generic content that never touches the specific task set, plus formatting that shifts inside one submission [2].
-- Tone or writing style that changes within a single document, or across a candidate's materials [2].
-- Overlap between candidates, where two independent submissions share wording or structure [2].
-- A solution that arrives fully formed, with no commit history, no noted dead ends, no documented trade-offs.
-- Answers built to score maximally against a known rubric, like complexity analysis volunteered where nobody asked for it.
-- Over-documented code, with line-by-line comments human developers rarely write.
-
-None of these is proof. [Detection tools](https://testlify.com/the-ongoing-battle-technology-vs-cheating-in-online-tests/) misfire badly enough that no serious guide treats them as the only indicator of misconduct, and non-native English writers get flagged at higher rates. So turn every tell into a question: "walk me through why you chose this loop structure". What the candidate says next is the evidence you score.
-
-Scoring that conversation is its own discipline, and we cover it in full in [how to score video and audio interview responses](https://testlify.com/how-to-score-video-and-audio-interview-responses/).
-
-## Score How Well AI Was Used, Not Whether It Was
-
-That evidence needs its own line on the rubric, and the line is not "AI used: yes/no." Score how well the candidate directed the model, checked what came back, and built on it.
-
-Practitioners are split. One camp holds that the deliverable is the only thing worth judging and the route there is nobody's business. The problem with that is simple: a score that ignores process rewards whoever had the better tool.
-
-So score the behavior. Give the criterion its own anchored bands and a required evidence component, the same design that keeps every other criterion on your rubric from being gamed. In practice that means separate line items rather than one holistic AI score: prompting and iteration shown, output verified and debugged by the candidate, disclosure complete and specific.
-
-You grade them from the disclosure statement plus whatever process trace the candidate submits, such as a prompt log, git history, or a walkthrough of what they built versus what the model wrote. Most of it is easiest to judge during [the live defense](https://testlify.com/proctored-live-coding-projects/), where you watch the judgment happen. What separates a 5 from a 3 is not tool avoidance. It is who wrote the better specification, made the better architectural call, and debugged more effectively on top of generated output.
-
-### Stop Judges Penalising the Candidates Who Told You the Truth
-
-Disclosure costs the candidate something measurable. Across 16 studies with more than 27,000 participants, text labeled as AI-assisted was rated lower than identical text labeled human-written. Perceived quality did not explain the gap. Authenticity did: the work felt less like it came from a person.
-
-So promising that disclosure will not count against a candidate does not make it true. Anchor the bands, and make every AI-use score name the specific evidence behind it, exactly as the rest of your rubric already does. Otherwise you teach candidates to stop telling you.
+One warning. Across 16 studies with more than 27,000 participants, text labeled AI-assisted was rated lower than identical text labeled human-written. Authenticity explained the gap, not quality. So promising that disclosure will not count against a candidate is not enough. Make every AI-use score name its evidence, or you teach candidates to stop telling you.
 
 ## Build the Rubric Before You Book the Venue
 
 The event is the easy part. Hackathon judging holds up when the rubric, the calibrated panel and the AI rule all exist before submissions open.
 
-Testlify covers the screening either side of it. Our [3,500+ validated skills assessments](https://testlify.com/) are written by industrial and organizational psychologists, checked for adverse impact, and scored on the same criteria for every candidate. Start with the role your next hackathon is hiring for, and see what we already test before you write a brief.
+Testlify covers the screening either side of it. Our [3,500+ validated skills assessments](https://testlify.com/) are written by industrial and organizational psychologists, checked for adverse impact, and scored the same way for every candidate. Start with the role your next hackathon is hiring for.
 
 ## Frequently asked questions
 
 **How many judges do you need on a hiring hackathon panel?**
 
-Enough for two independent reads of every submission, so three to five for most events. A bigger panel adds scheduling cost, not signal. Bring in a third reader only on borderline results.
+Enough for two independent reads of every submission, so three to five judges. A bigger panel adds scheduling cost without adding signal. Bring in a third reader only on borderline results.
 
 **Is a hiring hackathon better than a take-home assignment?**
 
-A hackathon shows how someone works and lets you question them live. A take-home costs candidates less time and travel. Pick the hackathon when collaboration and judgment under pressure are the skills you are hiring for.
+A hackathon shows how someone works and lets you question them live. A take-home costs candidates less time. Choose the hackathon when collaboration and judgment under pressure are the skills you are hiring for.
 
 **Do you have to pay candidates for a hiring hackathon?**
 
-Pay when the event runs long or the work has commercial value. A few hours of assessment work is normally unpaid. A full day deserves a stipend, and never ship a candidate's build without paying for it.
+Pay when the event runs long or the work has commercial value. A few hours of assessment is normally unpaid. A full day deserves a stipend, and never ship a candidate's build without paying.
 
 **Should you share hackathon judging scores with candidates?**
 
-Share the criterion-level feedback, not the leaderboard. The rationales your judges already wrote turn into usable feedback with almost no extra work. Keep other candidates' scores private, and say up front what you will share.
+Share the criterion-level feedback, not the leaderboard. The written rationale your judges already recorded becomes usable feedback with no extra work. Keep other candidates' scores private, and say up front what you will share.
 
 ## Sources
 
-1. https://www.scu.edu/provost/institutional-effectiveness/assessment/doing-assessment/using-rubrics/
-2. https://www.klgates.com/Should-Job-Applicants-be-Permitted-to-Use-Artificial-Intelligence-3-27-2024
-3. https://careers.fidelityinternational.com/working-here-overview/candidate-code-of-conduct-use-of-artificial-intelligence-ai/
-4. https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals
+1. https://careers.fidelityinternational.com/working-here-overview/candidate-code-of-conduct-use-of-artificial-intelligence-ai/
+2. https://www.scu.edu/provost/institutional-effectiveness/assessment/doing-assessment/using-rubrics/
+3. https://www.klgates.com/Should-Job-Applicants-be-Permitted-to-Use-Artificial-Intelligence-3-27-2024
+4. https://lawlibguides.sandiego.edu/c.php?g=1443311&p=10721367
