@@ -1,168 +1,158 @@
-# Type D Personality Isn't a Hiring Signal: Use This Instead
+# Type D Personality: What the Research Supports for Hiring
 
-Someone has called a candidate on your shortlist type D, and the phrase sounds clinical enough to act on. It is not. The type D personality label comes from heart research, where it was built to predict cardiac deaths, not job performance. Acting on it is risky too, because the Americans with Disabilities Act bars health questions before a job offer.
+A candidate came across as guarded and downbeat, and someone on the panel called it Type D. Now you have to decide whether that read counts for anything.
 
-A sharper read on the person across the table will not fix this. A structured interview will: every candidate gets the same questions, and every answer gets the same 1-5 score.
+Type D exists, but it came out of cardiology, not hiring. Its famous claim, that it predicts death in heart patients, fell apart when researchers pooled 19 studies covering more than 11,000 patients. And the moment a read like that shapes a hiring decision, you pick up exposure under disability law. What holds up is a structured interview scored against criteria written in advance, plus a plan for managing the person once they start.
 
 ## Quick answer
 
-Type D is a medical-psychology label for someone who feels a lot of negative emotion and hides it. A self-report questionnaire with fixed cut-offs assigns it, never an hour of reading a person. It was built on heart patients, and its famous mortality finding collapsed once researchers pooled more than 11,000 of them.
+Type D means two traits at once: a steady pull toward negative emotions, and holding those feelings back for fear of disapproval. It is scored by a 14-item questionnaire, not judged by eye, and it was built to study heart patients. Its best-known claim, about survival after heart disease, weakened once bigger studies tested it.
 
-Nobody has ever tested it against job performance, and candidates answer a mood questionnaire however they like. Ask every candidate for real examples of past work instead, and rate each answer on a fixed scale. The score then stops depending on how the person came across.
+Nothing in the evidence touches how well anyone does a job. Ask every candidate the same questions, score the answers against criteria you wrote in advance, then manage what the person actually does at work.
 
-## What Type D Means: Distressed, and Where It Started
+## Type D Personality Traits: Both, or It Isn't Type D
 
-The D stands for *distressed*. Type D is a construct from medical psychology, and it needs two traits at once: negative affectivity and social inhibition [1].
+Type D is one specific thing: negative affectivity and social inhibition in the same person, measured by a 14-item questionnaire called the DS14 [1]. Either trait on its own is not Type D. The D stands for distressed.
 
-Negative affectivity is a steady tendency to feel worry, irritability, gloom, anger and anxiety, across time and across situations [1]. Social inhibition is holding those feelings back around other people, for fear of being rejected [1]. One makes the feeling. The other hides it.
+Negative affectivity is a steady tendency to feel worry, irritability, gloom, anger and anxiety, across time and situations [1]. Social inhibition is holding those feelings and opinions back around other people, out of fear of being rejected or disapproved of [1]. One is what a person feels. The other is what they do with it in front of an audience.
 
-Both have to be high [1]. Someone anxious but open about it does not qualify. Neither does someone reserved but even-tempered.
+The label rests on both together, never on either alone [1]. Someone who worries constantly but says so freely is not Type D. Neither is someone reserved and calm.
 
-Johan [Denollet](https://www.sciencedirect.com/science/article/abs/pii/S0191886910000942), a professor of medical psychology at Tilburg University in the Netherlands, wrote the construct in 1995 [2]. He built it on what he saw in cardiac patients, plus [existing personality theory](https://testlify.com/hr-glossary/big-five-personality-traits/) [1]. That origin explains everything the label cannot do later.
+Johan [Denollet](https://www.researchgate.net/publication/8057591_DS14_Standard_Assessment_of_Negative_Affectivity_Social_Inhibition_and_Type_D_Personality), a professor of medical psychology at Tilburg University in the Netherlands, defined Type D in 1995. He built it from clinical observations of cardiac patients and existing personality theory [1]. That origin decides everything a hiring manager might want to do with the label.
 
-Both traits stay fairly steady across four years, so this is how a person tends to be, not how they seem on a Tuesday afternoon.
+The DS14 has two 7-item scales, one per trait, each item scored 0 to 4. You are Type D only if you score 10 or more on both. Denollet set that cut-off as a median split in a sample of cardiac patients.
 
-Denollet has also said plainly that Type D is not a psychiatric disorder or a marker of psychopathology [1]. These are normal personality traits, and a Type D person does not necessarily meet the criteria for depression or any other clinical condition [1]. People misread it anyway.
+## The Mortality Finding That Failed to Replicate
 
-### The [DS14](https://www.researchgate.net/publication/8057591_DS14_Standard_Assessment_of_Negative_Affectivity_Social_Inhibition_and_Type_D_Personality): Fourteen Questions and Two Cut-Offs
+The finding that made Type D famous was that it predicts death in heart patients. Then researchers pooled 19 prospective studies and more than 11,000 cardiovascular disease patients, and found Type D is not a risk factor for mortality in that population at all [2].
 
-You get the label from a questionnaire, not from watching someone. The DS14 is the standard test and the most widely used one. It asks 14 questions on a rating scale, seven per trait. Negative affectivity gets items like "I am often irritated"; social inhibition gets items like "I find it hard to start a conversation".
+The early numbers looked strong. Denollet followed cardiac rehabilitation and coronary artery surgery patients. In one group of over 300, about 27% of the Type D patients had died within 10 years, against 6% of the others.
 
-Each item scores 0 to 4, so each half runs from 0 to 28. You are Type D if you score 10 or more on both halves. Denollet drew that line as a median split in a sample of cardiac patients.
+Bigger studies could not reproduce that. A large heart-failure sample showed no prognostic value for mortality, and patients treated with intracoronary stents showed no link to major cardiac events. Reviewing the reversal, researchers concluded the earlier, smaller studies "may have inadvertently reached exaggerated or false conclusions". A 2023 analysis found smaller studies reported bigger Type D effects than large ones, which the authors flagged as a possible sign of publication bias.
 
-So it is a yes or no, not a place on a scale. The literature defends the split as useful "from a clinical perspective where dichotomous treatment decisions have to be made". Clinical is the word doing the work there. Nobody earns the label by seeming quiet in a room. They earn it by scoring twice above a line drawn in a cardiology ward.
+So even in cardiology, its home ground, the construct's headline claim is contested. A label whose best-supported finding fell apart under scrutiny is a poor thing to stretch into a use nobody has tested.
 
-## Type D Was Built on Heart Patients, and It Didn't Hold
+## No Type D Study Ever Measured Job Performance
 
-Every foundational study on Type D used cardiac patients, never job applicants or employees. Denollet followed people in cardiac rehabilitation and people recovering from coronary artery surgery. The questionnaire was built to sort that group, and to predict medical outcomes: another heart attack, a sudden cardiac death, a death inside the follow-up window.
+No study behind the Type D label has ever used job performance, hiring, or workplace conduct as an outcome. It was developed to predict cardiac events, mortality, and transplant rejection in heart patients. It tells you who gets sicker, not who does the work.
 
-The early numbers were striking, which is why the label traveled. In one group of more than 300 cardiac rehabilitation patients, about 27% of the Type D patients had died within 10 years, against 6% of the rest. Other early work reported up to a fourfold rise in death, repeat heart attack or sudden cardiac death, whatever the state of the disease already. Those findings tell you about sick hearts. They tell you nothing about who will do the job well.
+Some of the research does touch work, which is where the confusion starts. A 2010 review reports Type D linked to more absence-leave and higher vital exhaustion. Read that outcome again: self-reported tiredness and days missed, studied by health psychologists as signs of strain. Not a measure of how well anyone does a job.
 
-Prevalence says the same thing. Across several studies, roughly 38.5% of patients in cardiac populations came out as Type D [2]. That is a big share of people already under medical care, and no equivalent figure exists for a hiring pipeline.
+The rest of the work-adjacent evidence sits further into clinical ground. A systematic review of eight studies found Type D strongly associated with suicidal thoughts and behaviors across populations and countries. That is a mental-health finding, and mental health is exactly what a hiring decision is neither equipped nor permitted to screen on.
 
-### Then the Headline Finding Failed to Replicate
+The DS14 has never been tested against a job-performance or personnel-decision criterion at all. But the label looks like a personality type: a name, a two-letter code, a defined trait profile. That is how it keeps getting pulled into hiring conversations.
 
-The mortality link, the one result that made the label famous, did not survive better testing. A high-powered meta-analysis pooling more than 11,000 cardiovascular disease patients across 19 prospective cohort studies found that Type D is not a risk factor for their death. A large heart-failure sample found no value in predicting mortality, and a study of patients treated with intracoronary stents found no link to major cardiac events.
+### A Self-Report Questionnaire Is the Easiest Thing in Hiring to Game
 
-Researchers reading the failures concluded that the earlier, smaller studies had overrated what Type D predicts. A 2023 analysis showed how it happened: smaller studies reported bigger Type D effects than larger ones [3]. The authors flag that as a possible sign of publication bias, where strong results get published and null ones stay in the drawer [3].
+The DS14 is a self-report questionnaire, and it asks about negative affectivity and social inhibition. Those are the two things a candidate is under the most pressure to hide from an employer. People answer with what they think an employer wants to hear, not their real disposition, so the score is shaky before you do anything with it.
 
-That is the evidence at home, with the right patients, the right outcome and decades of follow-up. Borrowing it for hiring asks it to carry weight it never carried anywhere.
+None of this makes [personality assessment](https://testlify.com/pros-and-cons-of-personality-tests-in-hiring-process/) worthless. Some instruments were built and validated for selection and hold up. Even for those, the standard guidance is that results add insight rather than make the hiring decision for you. Type D was never validated for employment decisions at all, so using it to screen skips that caution entirely.
 
-## Type D Was Never Tested Against Job Performance
+## Calling a Candidate Type D Can Cross the ADA Line
 
-Nobody has ever tested Type D or the DS14 against job performance. It was never the question the researchers were asking.
+The moment a Type D read shapes a hiring decision, the problem stops being scientific and turns legal. The Americans with Disabilities Act (ADA) generally bars employers from asking about health conditions before a conditional offer, and it defines a banned medical examination partly by whether a test is designed to reveal an impairment or mental health condition [3]. Congress named invisible disabilities such as epilepsy, heart disease, and mental illness as exactly what it feared would get screened out this way [3].
 
-The work-adjacent findings are health findings in work clothes. A widely cited 2010 review reports that Type D brings more absence leave and higher vital exhaustion. Both are self-reported signs of a person under strain, studied by health psychologists. Neither measures competence, output or fit.
+The DS14 is an instrument whose entire evidence base is cardiovascular disease risk. The line the Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/laws/guidance/enforcement-guidance-preemployment-disability-related-questions-and-medical)) draws runs straight through that. Psychological tests designed to identify a mental disorder or impairment are medical examinations; tests measuring traits such as honesty, preferences and habits are not. Type D is a health-psychology construct, which puts it on the wrong side of the split.
 
-The rest sits deeper in clinical ground. A systematic review of eight studies found Type D strongly linked to suicidal thoughts and behaviors across countries and populations. That is a mental-health finding, and it is the ground a hiring decision is not equipped, or permitted, to screen on.
+You do not even have to hand out the DS14. In *Kroll v. White Lake Ambulance Authority*, the Sixth Circuit held that requiring an employee to attend counseling could count as a medical examination. What made it one was a record tying the request to mental-health issues, even though nobody used clinical language. Call a candidate guarded or distressed, then act on it, and it can read the same way.
 
-The label travels because of its packaging. A name, a two-letter code and a fixed trait profile look, from the outside, like a hiring-ready category.
+A defensible screen has to clear a bar Type D cannot reach. [Compliance guidance for personality testing](https://testlify.com/hr-ensure-pre-hiring-assessments-comply-with-regulations/) asks you to show a clear link between the traits a test measures and the tasks of the job. Type D's validated links run to coronary disease and psychological distress. You are also expected to check whether your hiring tools screen out qualified people with disabilities.
 
-### It Is a Self-Report Test, and Candidates Answer Strategically
+### You Never Have to Call It a Disability for the ADA to Apply
 
-People who argue about [personality testing](https://testlify.com/pros-and-cons-of-personality-tests-in-hiring-process/) rarely argue about good or bad. The line they draw is between a test built for one job and checked against performance in it, and a generic label that sorts people into types. Type D fails both tests. Even for properly validated instruments, the guidance is that results add insight rather than make the decision, and no candidate should be rejected on a personality test alone.
+Since 2008, a candidate is covered if you act against them because of an actual or perceived impairment. They do not have to prove the impairment limits a major life activity, only that it is not both transitory and minor. So the question is never whether the candidate really has a condition. It is whether you acted because you thought they did.
 
-Then there is the answering problem. Candidates give the answer they think you want, not their honest one, so self-report results are shaky from the start. Type D is measured entirely by self-report, 14 questions on negative affectivity and social inhibition. Mood and disposition are easy to fake. A candidate who has heard the term can score however they like.
+Denollet has been explicit that Type D is not a psychiatric disorder and describes normal personality traits [1]. That protects the construct. It does not protect you, because the test turns on your perception, not on the clinical literature.
 
-## Where This Label Crosses the ADA Line
+This happens at scale. Roughly 76% of companies with more than 100 employees use some form of personality testing [4]. In 2018 the EEOC settled with Best Buy over allegations that its application-stage assessments adversely affected candidates by race and national origin.
 
-Unreliable is the smaller problem. The [Americans with Disabilities Act (ADA](https://testlify.com/hr-glossary/americans-with-disabilities-act-ada/)) bars you from asking about a health condition before you make a conditional job offer. A Type D read of a candidate walks straight into that rule.
+Personality itself is not protected, and courts accept legitimate fit concerns. That cover disappears the moment the trait works as a proxy for an impairment you think you see.
 
-The ban is wider than most managers expect. It covers any question likely to draw out information about a disability, including indirect ones about symptoms, treatment or a candidate's general disposition. The ADA counts emotional or mental illness as a mental impairment [4].
+## You Can't Spot Type D Personality in a Job Interview
 
-The Equal Employment Opportunity Commission ([EEOC](https://www.eeoc.gov/laws/guidance/enforcement-guidance-ada-and-psychiatric-disabilities)) draws a clean line for questionnaires. A test of personality traits such as honesty, preferences and habits is not a medical examination; a test designed to spot a mental disorder or impairment is. Type D sits on the wrong side of it.
+Nothing you see in an interview tells you whether a candidate is Type D, because the two traits that define the label look exactly like ordinary nerves. Picture a stranger sitting across from three people who decide whether they get paid next month.
 
-It was never a workplace traits instrument. It is a health-psychology construct made to flag cardiovascular and psychological risk, the exact territory that definition targets. Denollet's own line that this is not psychopathology [1] will not save you, because your exposure follows from what you perceive and act on.
+Guardedness in a high-stakes, evaluative meeting is not a psychological profile. It is the expected reaction to the room. Behavioral inhibition, one trait sometimes folded into Type D descriptions, is the tendency to withdraw from unfamiliar situations. A first-round interview is unfamiliar by definition.
 
-You do not even need a questionnaire to get there. In *Kroll v. White Lake Ambulance Authority*, the Sixth Circuit held that making an employee attend counseling could count as a medical examination, once the record tied the request to mental-health issues. Nobody used clinical language, and it did not matter.
+What separates a trait from a bad hour is persistence, not intensity. Type D descriptions say that these people feel the traits more consistently over time than the general population, who feel a variety of them at times. Both halves of the profile stay relatively stable across a four-year period. One conversation cannot establish anything about four years.
 
-Calling a candidate guarded or distressed and then acting on it can read the same way. Since 2008, the ADA's regarded-as prong covers anyone who suffers a prohibited action because of a perceived mental impairment, with no need to show it limits them substantially. Turn the candidate down after privately filing them under distressed, and your perception is the claim.
+And the label is not assigned by impression anyway. It comes from the DS14, a scored questionnaire compared against population norms built from 2,508 respondents. You are not holding that questionnaire, you have no comparison group, and you have met the person once.
 
-## Interview Nerves Look Exactly Like the Profile
+Experienced interviewers will tell you manner is signal. Other experienced interviewers will tell them they are scoring nerves. The way out is to stop reading the room and start measuring the work.
 
-That private label usually comes from the room, not from a questionnaire, and it does not hold up. You cannot spot a Type D personality across one hour, because the two traits that define it look exactly like a nervous candidate.
+## Run a Structured Interview and Score the Answer
 
-One shows up as anxiety, irritability and a habit of scanning for trouble. The other leaves a person holding back what they feel, tense and unsure around other people. Read that again. It describes almost anyone sitting across from a stranger who decides whether they get the job.
+A structured interview means every candidate for the same role answers the same questions, in the same order, judged against the same scoring criteria written in advance. That format strips out the impressionistic read: the confident tone, the warmth, the easy rapport that would otherwise mark a quiet candidate down for reasons unrelated to the work.
 
-What separates a real trait from ordinary nerves is how often it shows up, not how hard. Everyone feels these things sometimes. The profile belongs to people who feel them more often and more consistently over time. One hour in one room cannot show you that.
+The type of question matters as much as the order. [Behavioral questions](https://testlify.com/hr-glossary/behavioral-based-interview/) ask what someone actually did in a specific past situation, not what they would hypothetically do. Research puts them at 55% predictive of future on-the-job behavior, against 10% for traditional opinion-based interviewing. A question that demands a checkable account of past action moves your attention from how this person came across to what this person did.
 
-Denollet's DS14 assigns the label by scoring answers against population norms drawn from thousands of respondents. You have no test, no norms, and no chance to watch the person twice.
+With a guarded candidate, the bias almost never lives in the questions. It lives in how you score the answer.
 
-A quiet manner fits several unrelated things: careful thinking, boredom, low interest, plain fear. So do not discount demeanor a little. Stop treating it as evidence, and measure something you can actually score.
+### Score the Answer, Not the Room
 
-## Ask Behavioral Interview Questions, Then Score Them 1-5
+A rubric replaces "I liked her energy" with documented, comparable indicators at each level. Write the anchors before the interview, and never adjust them afterwards to fit how someone performed. Five to seven questions across roughly five core competencies is one recommended range.
 
-Replace the label with a scored interview. Ask every candidate the same job-specific questions in the same order, and rate each answer against criteria you wrote before anyone walked in. Ask what the person actually did in a past situation, not what they would do in a made-up one. [Past-behavior questions](https://testlify.com/hr-glossary/behavioral-based-interview/) are reported as 55% predictive of on-the-job behavior, against 10% for traditional opinion-based interviewing.
-
-The reason is simple. You can check a real account of past work. A hypothetical answer only rewards whoever performs confidence best in the room.
-
-The rubric below is where a quiet manner stops counting. Each level is tied to something you can point at in the answer, so warmth, energy and chattiness have nowhere to get in.
-
-| Score | What this level means | What the answer has to show |
+| Score | Rating | What the candidate's answer shows |
 |---|---|---|
-| 5 | Exceptional  | Detailed, specific example with measurable outcomes; mastery-level skill; articulates lessons learned  |
-| 4 | Strong  | Clear, relevant example with positive outcomes; solid competency, minor gaps in depth  |
-| 3 | Adequate  | Relevant example, but lacks detail or measurable outcomes; baseline competency  |
-| 2 | Below expectations  | Vague or off-topic example; does not explain specific actions or impact  |
-| 1 | Insufficient  | No relevant example, or the example reveals a significant skill gap  |
+| 5 | Exceptional | Detailed, specific example with measurable outcomes; mastery-level skill; articulates lessons learned  |
+| 4 | Strong | Clear, relevant example with positive outcomes; solid competency, minor gaps in depth  |
+| 3 | Adequate | Relevant example but thin on detail or outcomes; baseline competency  |
+| 2 | Below expectations | Vague or off-topic example; does not explain specific actions or impact  |
+| 1 | Insufficient | No relevant example, or the example reveals a significant skill gap  |
 
-Write down what a 2 sounds like next to what a 4 sounds like, before the first interview. Otherwise your 4 and your colleague's 4 are different things.
+Read down that last column. Every anchor points at something you can check in the work: a specific example, a measurable outcome, reasoning the candidate can explain. None of them points at delivery.
 
-You can still push. Probe a thin or hesitant answer with as many follow-ups as it needs. The one constraint is that a follow-up never changes the rubric you score against. A guarded answer that opens up under a good follow-up gives you the same evidence a chattier candidate offered unprompted, and it counts the same.
+A hesitant answer that names the actions taken and what changed scores a 4. A fluent, warm answer with no example in it scores a 2.
 
-Score the substance that came out across the whole exchange, not how readily the candidate volunteered it. One more habit: write your score down before the debrief starts. The damage happens in the room afterwards, when a senior voice pulls everyone else's ratings towards it.
+Push on a thin answer with follow-ups. The one rule is that a follow-up never changes the rubric the answer is scored against. A guarded first response that opens up under a good follow-up gives you the same evidence a chattier candidate volunteered unprompted, and it counts the same. Score the substance surfaced across the whole exchange, not how easily it came out.
 
-## What This Person Is Like to Work With, and What Helps
+## You Hired Them. Now Manage the Behavior, Not the Label
 
-Say the interview is behind you and someone on your team shows this pattern week after week. You have what you can see, not a label, and nothing here lets you assign one.
+Score the interview well and you make an offer. The label stops mattering the moment the person starts, because now you can watch what they actually do. Most managers stop at the assessment: the score names something, then nothing changes on Monday.
 
-The hard side is described as a cluster: sadness, irritability when things stray from a plan they set themselves, a focus on what is wrong, negative self-talk, and steering clear of people they do not already know. That is practitioner observation, not validated research. Treat it as behavior to respond to, not a trait to predict from.
+Here is the opposite, worked through one hire. Call her Priya, an operations analyst who is thorough, quiet in group settings, and quick to name what might go wrong. You have not typed her and you never will. Every move below answers something she has done.
 
-The same profile brings strengths. These are the organized, thoughtful, caring people on a team, bothered by mess in the work environment. They are usually the last ones still going after everyone else has quit.
+- **Ask what is behind the flag.** When Priya says a plan will not hold, ask which step she expects to break. Understand what drives the negative read before you try to redirect it.
+- **Match the work to what she has shown you.** Fitting the task and the team beats trying to change the person. Fit it to strengths she has demonstrated on the job, never to a profile you have read into her manner. Routing someone into narrower work because you have decided they are distressed is the perception-driven decision that carries the legal exposure above.
+- **Name her as the systems owner.** If the team struggles to stay organized, someone like Priya brings the tools and habits that pull everyone else into a system.
+- **Set goals in two-week blocks, not annual ones.** Short-term goal-setting builds clarity about what matters most, and teaches a person to look ahead with more hope and confidence. Give Priya one visible win by the end of the month.
+- **Say out loud that the support role counts.** Reassuring someone of their worth to the people around them takes time and patience, not [a single onboarding chat](https://testlify.com/how-to-foster-new-hires-for-success/).
 
-Conditions matter more than character here. Repetitive work suits this profile rather than straining it, because repetition is comfortable and the stability is welcome. Low-risk work with standard, non-negotiable procedures fits well. High turnover, or a place that changes every month, does not, because constant change breeds unease.
+Priya steadies a room in group settings, and creates the harmony that goes missing on teams focused only on hitting targets.
 
-Use that only when the person tells you it fits. Holding work back because you have privately filed them under distressed is the same regarded-as exposure, and it does not stop at the offer.
+Watch one thing. A willingness to help can be taken advantage of, and it needs monitoring. The person who never says no is the person you have to protect. Check her load yourself instead of waiting for her to raise it, and none of that needs her DS14 score.
 
-On a team, this person steadies everyone. If the group cannot stay organized, they are the one who brings the system that pulls the rest into better habits.
+## Test The Skills The Role Actually Needs
 
-## Managing a Type D Person: Five Moves, in Order
+Nobody can pin a type D personality label on a candidate from one interview, and the label was never built to predict job performance anyway. What you can measure is the work itself: the decisions the role asks for, judged the same way for every candidate.
 
-Start with why the behavior is happening, not with the behavior itself. The approach practitioners recommend works towards helping the person think more positively over time, and they are blunt that it takes patience, not one conversation.
-
-1. **Find the driver first.** Work out what sits behind the negative talk or the pulling back. The same quiet manner can mean too much work, an unclear brief, or something outside the office entirely. Keep the conversation on the work, never on their health.
-2. **Tell them they matter.** Say plainly where their work helps other people in the organization. Managers assume this is obvious and then never say it out loud.
-3. **Pay for their confidence.** Put budget behind training or a coach, so growth is something you fund rather than something you ask them to summon.
-4. **Set short-term goals.** Small, near targets make a person's own priorities clear and teach them to look ahead with more hope and confidence.
-5. **Watch that their restraint is not exploited.** People who hold a lot in absorb extra work and small slights without complaining, and that can be taken advantage of, so keep an eye on it.
-
-None of this is a cure, and none of it is screening under another name. It is ordinary management, applied on purpose to someone who will not tell you when something is wrong. Start Monday with move one: ask, then listen without filling the silence. It still does not replace hiring on evidence in the first place.
-
-## What to Measure When the Label Tells You Nothing
-
-The type D personality label came out of cardiology wards, and it cannot tell you who will do this job. Neither can a quiet hour in an interview room. Evidence can: the same questions for everyone, scored the same way, plus a direct test of the skills the role needs. That last part is what we built Testlify for, with [3,500+ skills assessments](https://testlify.com/) covering 4,500+ job roles across 50+ industries. Start a free trial, run one on the role you are hiring for, and let the shortlist come from what candidates can actually do.
+That is what we built Testlify to do. Our [situational judgment tests](https://testlify.com/situational-judgment/) drop candidates into the everyday calls your team makes and score how they handle them. Set one up for the role you are hiring for now, and let the evidence build your shortlist instead of the manner.
 
 ## Frequently asked questions
 
-**What are type A, B, C, D personalities?**
-
-Type A means competitive, Type B relaxed, Type C emotionally suppressed. Type D pairs constant negative emotion with hiding it [1], and only Type D has a questionnaire behind it. None of them predicts job performance.
-
-**How many behavioral interview questions should I ask each candidate?**
-
-Four to six covers most roles. Write one past-behavior question per competency the job needs, ask every candidate the same set in the same order, and score each answer 1-5. Follow-ups do not count.
-
 **What is the best job for a type D personality?**
 
-Stable, repeatable work with low turnover suits it: repetition is comfortable  and non-negotiable procedures fit well. Avoid roles built on constant change. That is advice for someone picking their own job; as a manager you cannot route anyone on it.
+There is no research-backed match, because no Type D study has measured job performance. Popular guidance points to stable, procedural work on a supportive team, but nothing behind the label ever tested that. Hire for what the role actually asks.
 
-**Which personality type has the highest IQ?**
+**What is the difference between type D personality and introversion?**
 
-None. Personality is how someone tends to behave; IQ measures reasoning ability. No type reliably predicts a higher score, so if reasoning matters for the role, test it directly.
+Introversion is about where someone draws energy, and a quiet person can be perfectly content. Type D needs distress: steady negative emotion plus holding it back for fear of disapproval [1]. A calm, reserved candidate is not Type D [1].
+
+**What are type A, B, C, D personalities?**
+
+Four labels from separate research traditions, not one system. Type A is driven and impatient, Type B relaxed, Type C compliant and emotion-suppressing, Type D negative and socially inhibited. None of them was built to predict job performance.
+
+**Is type D personality a mental illness?**
+
+No. Johan Denollet, who defined it, is explicit that Type D is not a psychiatric disorder and describes normal personality traits [1]. It was studied as a risk marker in heart patients, not as a diagnosis.
+
+**Can type D personality change over time?**
+
+Both halves of the profile stay relatively stable across a four-year period. Stable is not the same as fixed. The label was never meant as a permanent verdict on anyone.
 
 ## Sources
 
 1. https://www.researchgate.net/publication/8057591_DS14_Standard_Assessment_of_Negative_Affectivity_Social_Inhibition_and_Type_D_Personality
-2. https://www.sciencedirect.com/science/article/abs/pii/S0191886910000942
-3. https://research.tilburguniversity.edu/files/67317509/PrePub_Lodder_2022_Type_D_personality_as_a_risk_factor_for_adverse.87.pdf
-4. https://www.eeoc.gov/laws/guidance/enforcement-guidance-ada-and-psychiatric-disabilities
+2. https://research.rug.nl/en/publications/type-d-personality-as-a-risk-factor-for-adverse-outcome-in-patien/
+3. https://www.eeoc.gov/laws/guidance/enforcement-guidance-preemployment-disability-related-questions-and-medical
+4. https://hbr.org/2015/07/ace-the-assessment
