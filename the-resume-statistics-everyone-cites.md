@@ -1,137 +1,191 @@
 # The Curriculum Vitae Statistics Everyone Cites Are Outdated
 
-You cite curriculum vitae statistics in a deck, and someone asks where the number came from. Too often, the honest answer is a blog post that said "studies show." Six of the most-cited ATS rejection numbers trace to no study at all. The famous six-second resume scan is a decade old, and its own source quietly revised it upward years ago.
-
-A number missing from most roundups: 83% of AI-assisted job seekers admit to inventing or exaggerating resume skills. Every stat below carries its real year and source, not just the figure itself.
+You put curriculum vitae statistics in a deck, and someone asks where the number came from. Too often the honest answer is a blog post that said "studies show." Six of the most-quoted ATS (Applicant Tracking System) rejection numbers trace back to no study at all. The famous six-second resume scan is a decade old, and the firm behind it raised the figure years ago. Most roundups also skip this: 83% of job seekers who use AI tools admit they invent or puff up skills.
 
 ## Quick answer
 
-Most resume statistics in circulation are outdated, undated, or blended across surveys measuring different things in different years. The six-second scan comes from a study its own source later revised to 7.4 seconds, and the most-quoted lying rate comes from one 2021 survey taken during an unusually tight labor market. Several of the most-cited ATS rejection numbers trace to no study at all, and the bigger gap most roundups skip is that 83% of AI-assisted job seekers admit using the tool to invent or embellish skills, not draft faster. Any number worth citing needs its year and source attached.
+Most resume numbers in hiring decks are old, undated, or blended from surveys that asked different questions in different years. The six-second scan comes from a study its own source later raised to 7.4 seconds. The most-quoted lying rate is one July 2021 survey taken in a very tight job market, and several of the most-cited ATS rejection numbers trace to no study at all. Cite the year, or drop the number.
 
-## The 6-Second Resume Scan Is a Decade Out of Date
+## TheLadders Already Revised Its Own 6-Second Stat
 
-The "6-second resume scan" comes from a 2012 TheLadders eye-tracking study that timed 30 recruiters, finding an average of six seconds per resume before an initial decision. TheLadders revised that number itself: a 2018 follow-up using hidden timing and eye-tracking found recruiters actually spent 7.4 seconds.
+The six-second resume scan comes from a 2012 eye-tracking study [TheLadders](https://www.hrdive.com/news/eye-tracking-study-shows-recruiters-look-at-resumes-for-7-seconds/541582/) ran with its own recruiters. Six seconds was the average look before a fit or no-fit call.
 
-The 2018 update never disclosed how many recruiters took part, how it selected them, or which resumes and job postings it used. None of it was peer-reviewed, so nobody outside TheLadders can check the numbers. One review goes further, arguing there is "a strong chance this study was never even carried out".
+In 2018 it ran a two-stage follow-up: one stage timed recruiters who did not know they were being timed, the other tracked their eyes [1]. The new average was 7.4 seconds, about a second more over six years.
 
-Either way, the figure is an average, not a per-resume rule. A senior role might be rejected in a fraction of a second while a close match gets much longer. A 2025 eye-tracking study using hidden equipment found the same reading pattern TheLadders described, so the behavior looks real even if the exact number is shaky. Cite it as "TheLadders, 2018, 7.4 seconds," not "studies show six seconds." A scan this short decides where attention goes, not whether a claim is true, it cannot verify anything on the page.
+That fix has sat in TheLadders' own research for years. The six-second figure was still being quoted in 2023 pieces, and six reads as a catchier headline than seven point four. The gap even grew its own genre: "beat the six-second CV" quizzes, mostly from sites selling resume templates.
+
+Many pages that repeat the number never link to a study. They just write "studies have shown".
+
+## What Critics Say the First Studies Got Wrong
+
+The 2012 version named its sample: 30 recruiters. The 2018 update never says how many took part or what kit was used. None of it was peer-reviewed, so the numbers rest on TheLadders' word alone.
+
+It is also an average, not a rule per resume. A fresh graduate aiming at a leadership job may be dropped in a fraction of a second, while a close match gets a longer look. So cite it with a year: a look that short decides where eyes go, not whether a line is true.
 
 ## How Long Recruiters Actually Spend on a Resume
 
-TheLadders' 7.4 seconds was never the only measurement of screening time, and other researchers found it depends heavily on resume length. Jan Tegze had 114 recruiters review three resumes of different lengths: the short one averaged 17 seconds, the mid-length 27 seconds, and the longest 46 seconds. One recruiter spent over two minutes on it. Heat maps showed attention concentrated on the first page, whatever the resume's total length.
+Read time tracks CV length. In a 2023 study, Jan Tegze, of LinkedIn's Top Voices group, had 114 recruiters read three CVs of different lengths.
 
-A separate study run through InterviewPal's AI-assisted review tool measured an average first scan of 11.2 seconds, longer than the "six-to-eight second" figure usually cited, because the tool shows job-post context alongside the resume. Median total review time reached 1 minute 34 seconds.
-
-Where recruiter attention actually goes, by section:
-
-| Section | Share of gaze time |
+| CV length | Average read time |
 |---|---|
-| Experience | 38%  |
+| Shortest | 17 seconds  |
+| Mid-length | 27 seconds  |
+| Longest | 46 seconds  |
+| Longest, slowest reader | 136.2 seconds, 22.7x the six-second figure  |
+
+Heat maps from the same study show recruiters camped on page one, with later pages only skimmed. Page one decides whether a resume gets a second look.
+
+## Where Recruiter Attention Actually Goes
+
+A study run on InterviewPal's review tool covered recruiters in tech, finance, marketing and health care roles across Southeast Asia. Their first scan averaged 11.2 seconds, "notably higher than the '6-8 second' benchmark often cited".
+
+The tool matters: it showed job-post context and key skills beside the resume, so this was not a plain human scan.
+
+| Resume section | Share of gaze time |
+|---|---|
+| Work history | 38%  |
 | Summary and headline | 24%  |
 | Skills | 18%  |
-| Education | 11%  |
+| Schooling | 11%  |
 | Layout and design | 9%  |
 
-Layout draws the least attention of any section, even though it gets the most attention in resume advice. Screening speed also depends on which pass a resume is getting, a second, closer read takes longer by design, and technical or regulated roles take longer to check than general ones. Clear metrics and simple formatting earn a slower, more favorable read; dense, inconsistent formatting accounted for 43% of screening-stage rejections.
+Layout drew the least of the five. Yet dense text and messy layout made up 43% of the [resumes recruiters dropped at screening](https://testlify.com/resume-screening-every-recruiter-should-know/).
 
-## The Resume-Lying Numbers Nobody Agrees On
+## The 2021 Survey Behind the 32% Lying Stat
 
-The most-quoted lying stat, roughly one in three, comes from a single [ResumeBuilder](https://www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/) survey of 1,250 US adults in July 2021: 32% admitted to lying on a resume [1]. That was a tight labor market, with the US adding 934,000 jobs that month [1], not a stable, timeless rate.
+Screening time tells you how closely a resume gets read. It says nothing about whether the words hold up, and that is a separate, equally blended set of resume statistics.
 
-What people lie about most, among those who admitted it:
+The one-in-three lying figure comes from one [ResumeBuilder](https://www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/).com survey of 1,250 US adults, where 32% admitted lying [2]. It was fielded in July 2021, a month the US added 934,000 jobs as pandemic hiring bounced back [2]. It gets quoted as a constant, but it is one moment in a very tight job market.
 
-| What's exaggerated | Share |
+They named three areas most often:
+
+1. Years on the job, 46% 
+2. School record, 44% 
+3. [Puffed-up skills](https://testlify.com/candidate-dishonesty/), 40% 
+
+## Why People Lie, and Who Lies Most
+
+The motive is plain: 72% lied to improve their odds of getting hired, and 41% were covering a firing or a bad exit [2]. Another 40% added false lines to beat ATS keyword filters.
+
+| Group | Share who admit lying |
 |---|---|
-| Years of experience | 46%  |
-| Educational background | 44%  |
-| Skills or abilities | 40%  |
+| Earning $100,000-$149,000 | 49%  |
+| Earning under $99,999 | 25%  |
+| IT roles | 55%  |
+| Finance roles | 45%  |
 
-Most said they lied to improve their odds, 72%, to cover up being fired, 41% [1], or to beat ATS keyword filters, 40%. Lying rates varied sharply by income and industry: 49% among people earning $100,000-$149,000 versus 25% under $99,999, and 55% in IT versus 45% in finance.
+A rate this uneven was never one national number. It hides very different groups, caught in one survey window during one hiring rush.
 
-Later figures don't agree with each other or with 2021. A widely cited "55% lied in 2022" number isn't a real data point, it only appears as a comparison baseline inside a 2025 StandOut-CV report. That 2025 report found 64.2% of US adults had lied on a resume at some point, while a separate 2025 ResumeBuilder survey found 44% admit to lying during a hiring process, a 20-point gap because one asks about a lifetime, the other about one job search. In the UK, [Cifas](https://www.cifas.org.uk/newsroom/false-qualifications-cv-fraud) found just 10% admit to lying in the past year [2], and its fraud database classified 33% of 2023 cases as false employment applications, down from 44% in 2022, a shift in case mix, not proof that fewer people lied.
+## Why the Lying Rates Swing So Wildly
 
-## AI Resumes Went From Rare to Routine
+These rates swing by tens of points across sources. They rarely ask the same thing: whether you ever lied in your career, whether you lied in one hiring process, or in the past year. Employer surveys ask managers if they caught someone; fraud files count proven cases, not confessions.
 
-How many resumes are AI-written now matters more than any lying survey, because it changes what a resume even is. Employ's 2025 Job Seeker Nation Report found 52% of applicants use AI to write or polish their resume, up from almost nothing three years earlier.
+One much-repeated figure is not a data point at all. The 55% pinned to 2022 first shows up inside a 2025 [StandOut-CV](https://standout-cv.com/usa/stats-usa/study-fake-job-references-resume-lies) report, which frames its own finding as "up from 55% in 2022". Quote it and you are quoting a marker to compare against, not a survey.
 
-| Year | AI-resume adoption |
+2025 alone gave us the biggest cluster of dated lying figures, and they clash. StandOut-CV found 64.2% of US adults had lied at some point [3], while ResumeBuilder's 2025 survey found 44% admit lying during a hiring process. They sit 20 points apart because one asks about a lifetime, the other about one hiring run.
+
+## Resumes Written by AI Went From Rare to Routine
+
+None of the figures above count a newer thing: how much of a resume the writer did not write. Employ's 2025 Job Seeker Nation Report found 52% of applicants use AI to write or polish theirs.
+
+| Year | Where AI resume use stood |
 |---|---|
-| 2022 | Negligible, ChatGPT had just launched  |
-| 2023 | Searches for "AI resumes" up 1,592%, though adoption lagged  |
-| Late 2024 | 30-40% of applications at some tech companies  |
-| 2025 | 52% of all applicants  |
-| 2027 (projected) | AI-written resumes overtake human-written ones among under-30 applicants  |
+| 2022 | Tiny share; ChatGPT had only just launched  |
+| 2023 | Talk outran use; searches for "AI resumes" rose 1,592% [3] |
+| Late 2024 | 30-40% of resumes at some tech firms, per ResumeLab and Jobscan  |
+| 2025 | 52% of applicants  |
+| 2027, projected | AI resumes pass human ones among job seekers under 30  |
 
-Three years took AI-assisted writing from a novelty to the format roughly half of applicants use.
+Three years took AI writing from a novelty to the way half of applicants work.
 
-## Can Anyone Actually Spot an AI-Written Resume?
+## Can Hiring Managers Spot a Resume Written by AI?
 
-Hiring managers don't agree with themselves on this. In one 2024 survey, 80% say they discard resumes they believe are AI-generated, yet only 74% say they can reliably spot one [11]. Three separate 2025 surveys each asked a different question and got a different number [13].
+Hiring managers cannot agree with themselves, let alone with each other. In one 2024 survey, 80% bin resumes they believe AI wrote, yet only 74% say they can spot one for sure [11]. Three more 2025 surveys, from Resume.io, Resume Now and Resume Genius, each asked a different question and got a different answer [13].
 
-What actually triggers rejection: writing that reads generic with no personalization, 62% per one survey [13]; outright suspicion of AI use before reading further, per another [13]; and tone that sounds too polished to be the candidate's own [33]. Standalone [AI-detection tools](https://testlify.com/detect-fake-resumes-in-hiring/) do no better, independent testing puts their false-positive rate at 30-50%, and light edits to AI-drafted text often slip past them [33].
+Two things make them act:
 
-The bigger risk is fabrication, not detection: 83% of job seekers who use AI in their search admit to using it to exaggerate or invent skills, not just draft faster. A separate survey found 73.4% would consider using AI to help lie on a resume. Three patterns give it away: uniform action-verb bullets, because that's how the models were trained to write them; suspiciously round achievement numbers, like "reduced costs by 30%"; and claims that don't match the role's seniority, like "led a team of 40" for an intern posting. None proves fabrication alone, but stack all three and it's worth a direct follow-up question.
+- **Nothing tailored to the job**: 62% of managers in the Resume Now survey drop a resume once it reads as generic [13].
+- **Tone, not errors**: the tell they name most is writing too smooth and too cold to be the person's own [33].
 
-For the complete process of confirming those claims before an offer goes out, see our guide to [resume verification](https://testlify.com/resume-verification-process/).
+The tools built to catch this do no better. Their false-flag rate runs 30-50%, so up to half the resumes they flag were written by a person [33]. Light edits often walk an AI draft past them [33].
 
-## Why Most Resumes Get Rejected Before a Human Reads Them
+## How Often AI Resume Help Turns Into Lying
 
-97.8% of Fortune 500 companies use an [Applicant Tracking System](https://testlify.com/hr-glossary/resume-parsing/), ATS, software that logs, sorts, and routes every application before a recruiter opens it. It now does more than store and match keywords, it reads work history and skills and assigns a grade before a human sees the resume, and 79.3% of Fortune 500 hiring already runs through AI-ranking features.
+The sharper question is how often help tips into invention. Among job seekers who use AI, 83% admit using it to stretch or invent skills on a resume, cover letter or skills test. A 2023/2024 survey found 73.4% would consider using AI to help them lie on a resume in the year ahead [3].
 
-But the ATS almost never rejects a resume by itself. An Enhancv survey found 92% of these systems don't auto-reject on formatting or content, and only 8% of recruiters set up any auto-rejection logic, typically a below-75%-keyword-match cutoff. What actually keeps a resume from reaching a human is volume: [Workday](https://newsroom.workday.com/2024-09-10-Workday-Global-Workforce-Report-Job-Market-Tightens-as-AI-Reshapes-Hiring-Processes)'s platform processed 173 million applications in the first half of 2024, up 31% year-on-year, while job openings on the same platforms grew only 7% [3]. Recruiters work down a ranked list until the role fills, and it often closes before the list runs out, no algorithm rejected the rest, they were simply never seen.
+Three tells recur, all from how the models were trained:
 
-None of the specific rejection numbers that circulate hold up under a check for source, date, or sample size:
+- **Same bullet shape:** every bullet opens with an action verb, the default these models learned.
+- **Round-number wins:** "Cut costs by 30%" turns up more often than odd numbers would, because round figures fill the training data.
+- **Claims that make no sense:** a model cannot tell that "led a team of 40" is absurd for an intern role, so it writes the line anyway.
 
-| Claim | Cited source | What's missing |
+No single tell proves anything. All three at once, on a resume whose scope does not match the level of the job, is a reason to ask directly.
+
+For the full method of checking a claim like that before an interview, see our guide to [resume fraud verification](https://testlify.com/detect-fake-resumes-in-hiring/).
+
+## The ATS Doesn't Reject Resumes, Volume Does
+
+97.8% of Fortune 500 firms run an Applicant Tracking System, or ATS: software that logs, sorts and routes every resume before a recruiter opens it. AI now reads the substance too, work history, years on the job, skills, and grades the person into a tier before a human looks. Among Fortune 500 employers, systems with live AI ranking handle 79.3% of hiring.
+
+That ranking is not what rejects people. An Enhancv survey of US recruiters found 92% of these systems do not drop a resume on layout or content by themselves. The 8% who set up such a rule usually cut resumes under a 75% keyword match.
+
+Volume is what keeps a resume from a human. [Workday](https://newsroom.workday.com/2024-09-10-Workday-Global-Workforce-Report-Job-Market-Tightens-as-AI-Reshapes-Hiring-Processes)'s platform took in 173 million resumes in the first half of 2024, up 31% on the year [4]. Openings on the same platforms grew only 7%, to 19 million, so resumes arrive about four times faster than roles open [4].
+
+Recruiters work down a ranked list until the role is filled, which often happens long before the list runs out. No code rejected the rest. Nobody saw them.
+
+We have written up how an ATS actually reads a resume in our guide to [resume parsing](https://testlify.com/what-is-resume-parsing/).
+
+## The ATS Rejection Numbers You've Probably Cited Aren't Real
+
+None of the ATS rejection figures people quote come with a named method, a sample size or a dataset. They spread because they sound about right.
+
+| Claim | Cited source | What is missing |
 |---|---|---|
-| ATS auto-rejects 20-60% of resumes | Cornell  | No methodology or sample size  |
-| ATS auto-rejects up to 75% | Cornell  | No traceable primary source  |
-| 98% of resumes get rejected | CareerLauncher  | No date or methodology  |
-| 70% rejected at initial screening | LinkedIn  | Undated; doesn't isolate ATS from human screening  |
-| Fewer than 1 in 10 reach the hiring manager | Uncredited  | No date, sample, or methodology  |
-| An "ideal" resume scored 43% relevancy | Bersin & Associates  | No year for the test  |
+| ATS drops 20-60% of resumes before a human looks | Cornell  | No method, no sample size  |
+| ATS drops up to 75% of resumes | Cornell  | No first source to trace  |
+| 98% of resumes sent to an online job post get rejected | CareerLauncher  | No date, no method  |
+| 70% of resumes are rejected at the first screen | LinkedIn  | Undated, and the screen could be a person, not software  |
+| Fewer than 1 in 10 resumes reach the hiring manager | Not named  | No date, sample or method  |
+| An "ideal" resume scored 43% on average across [ATS tools](https://testlify.com/hr-glossary/applicant-tracking-system-ats/) | Bersin & Associates  | No year for the test  |
 
-A number with no year, sample, or published method isn't evidence, it's a figure someone borrowed from another blog. Once a lie is caught, it costs the job: ResumeBuilder found nearly half of hired liars in its sample eventually lost the offer [1], and ResumeLab found 65% of people caught lying were either not hired or terminated [4].
-
-For a full walkthrough of how these systems actually read and structure a resume, see our guide to [resume parsing](https://testlify.com/what-is-resume-parsing/).
+Each of these runs in trade pieces as settled fact. A number with no year, no sample and no method is not proof. It is a claim borrowed from a blog that borrowed it too.
 
 ## Key Takeaways
 
-- The six-second scan is really 7.4 seconds, and even that number's own methodology is undisclosed.
-- Recruiters spend 17 to 46-plus seconds on a first pass depending on resume length, concentrated on the first page.
-- Experience draws 38% of recruiter attention; layout, the thing most advice focuses on, draws just 9%.
-- Lying rates range from 10% (past year, UK) to 64.2% (ever, US), depending on what's being asked [2].
-- 52% of applicants now use AI to write their resume, and 83% of AI-assisted seekers admit to inventing or exaggerating skills with it.
-- The ATS rarely auto-rejects anyone, volume does: 173 million applications hit Workday's platform in six months, against 7% growth in openings [3].
-- Most cited ATS-rejection percentages, from 20% to 98%, trace to no published study at all.
+- Date every number. "TheLadders, 2018, 7.4 seconds" beats "studies show six seconds".
+- Read time is an average, not a rule. It ran from 17 to 136 seconds on CV length alone.
+- The 32% lying rate is one July 2021 snapshot, from a very tight job market [2].
+- Half of resumes now get AI help, and 83% of those users admit stretching skills.
+- Volume blocks resumes, not code. 92% of these systems drop nothing by themselves.
+- Checks still catch the rest: 65% of those caught lying were not hired or were fired.
 
 ## What to Do Before the Next Deck Goes Out
 
-None of this means the resume is dead, only that its numbers deserve scrutiny before they land in a report. The safest way to close the gap between a curriculum vitae statistic and actual ability is to test it directly.
+None of this means the resume is dead. It means the numbers deserve a hard look before they land in a report. The surest way to close the gap between a curriculum vitae statistic and real skill is to test the skill.
 
-That's the problem we built Testlify to solve. Our 3,500+ skills assessments span roles from entry-level to executive, so a team can verify skill directly instead of relying on a resume claim. Start there before the next number goes into a deck.
+That is the problem we built Testlify to solve. Our 3,500+ skills assessments cover roles from the first rung to the top job, so your team can check a skill instead of trusting a resume line. Start there before the next number goes into a deck.
 
 ## Frequently asked questions
 
 **What are red flags on a CV?**
 
-Uniform action-verb bullets, suspiciously round percentages, and achievements that don't fit the role's seniority often signal AI-written content. Watch too for dense, inconsistent formatting, the trait most tied to screening rejections.
+Bullets that all share one shape, oddly round numbers, and wins that do not match the level of the job. Also watch for job titles that clash and dense, badly laid-out text.
 
 **Can ATS detect ChatGPT resume?**
 
-Most ATS platforms score for job fit and keywords, not AI authorship. Standalone AI-detection tools carry a 30-50% false-positive rate, and light edits to AI-drafted text often slip past them [33].
+Most ATS tools score a resume for job fit and keyword match, not for who wrote it. Standalone AI checkers carry a 30-50% false-flag rate, and light edits to AI text often slip past them.
 
 **Should you disclose that AI helped write your resume?**
 
-Not necessarily, but some hiring managers auto-dismiss a resume the moment they suspect AI was used [13]. What actually gets resumes rejected is generic writing and claims that don't hold up under a follow-up question, not the tool used to draft it.
+Telling them is not what decides it. Some managers bin a resume the moment they suspect AI, before reading on [13]. What gets you dropped is generic writing and claims that fold under one question.
 
 **What’s the ideal resume length?**
 
-One page under 10 years of experience, two pages beyond that. Longer resumes get more total attention, but only the first page gets a close read.
+One page under 10 years of work, two pages beyond that, is the common guideline. Longer CVs get more total attention, but only page one gets a close read.
 
 ## Sources
 
-1. https://www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/
-2. https://www.cifas.org.uk/newsroom/false-qualifications-cv-fraud
-3. https://newsroom.workday.com/2024-09-10-Workday-Global-Workforce-Report-Job-Market-Tightens-as-AI-Reshapes-Hiring-Processes
-4. https://www.hrdive.com/news/more-than-a-third-of-people-admit-to-lying-on-resumes/570565/
+1. https://www.hrdive.com/news/eye-tracking-study-shows-recruiters-look-at-resumes-for-7-seconds/541582/
+2. https://www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/
+3. https://standout-cv.com/usa/stats-usa/study-fake-job-references-resume-lies
+4. https://newsroom.workday.com/2024-09-10-Workday-Global-Workforce-Report-Job-Market-Tightens-as-AI-Reshapes-Hiring-Processes
