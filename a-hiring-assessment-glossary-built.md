@@ -1,111 +1,141 @@
 # Skills Assessment Terms Explained From the Recruiter's Seat
 
-You are running a skills assessment this week, and the vendor's page keeps repeating words like validity, cut score, and adverse impact. None of them say what changes on the screen in front of you. Guessing at those words carries a cost. Most hiring calls run on gut feel dressed up as data.
+You are running a skills assessment this week, and the vendor's page keeps saying validity, cut score, adverse impact. None of it tells you what changes on your screen. Guessing costs you: 44.5% of HR and hiring staff say nobody ever checks that their tests work at all.
 
-A misread term can cost you a cut score you cannot defend, or wrongly cost a candidate the job. This glossary explains each word from the seat of the person running the test, not the candidate taking it.
+Read one word wrong and you get a cut score you cannot defend, or a cheating flag that costs a good person the job. This page explains each term from the seat of the person running the test.
 
 ## Quick answer
 
-This glossary explains the terms you meet while running a skills assessment, in plain language. It has every candidate do the same task, so you can compare results directly. Tests split into four main types: hard-skills, work-sample, cognitive-ability, and personality.
+A skills assessment is a scored test every person sits the same way, so you can compare them. Validity asks whether the test measures what it claims; reliability asks whether the score would hold up if they sat it again. A cut score is a judgment call, not a fact in the data, and the four-fifths rule flags adverse impact when one group passes at less than 80% of the top group's rate. A cheating flag is evidence for a person to read, never an auto reject.
 
-A cut score is a judgment call about who advances, not a fact hiding in the data. The four-fifths rule flags adverse impact when a group's selection rate falls below 80% of the top group's rate. NYC Local Law 144 then forces you to audit and disclose any automated tool making that call.
+## What Is a Skills Assessment, and Why Companies Use Them
 
-## What Counts as a Pre-Employment Assessment
+A skills assessment is any scored test you give before you make an offer. Every person sits the same test, marked the same way. A resume records what someone claims; the test records what they can do.
 
-A pre-employment assessment is a structured, scored test that has every candidate perform the same task, so you can compare results directly. A resume records what a candidate claims. An assessment records what they can actually do.
+That is why 56% of employers now use these tests to check what people know and can do. Of those, 78% say the hires that followed were better, SHRM found. You stop buying claims and start buying proof.
 
-More than half of employers, 56%, now use pre-employment assessments to gauge candidates' skills. Of those, 78% say the hires that followed were better, according to SHRM. That is the business case in one line: better hires, fewer guesses.
+## Types of Skills Assessment Tests
 
-## The Test Types, and Which One to Run
+Every test sits on a scale of fidelity, meaning how closely it looks like the real job. A work sample or an assessment centre puts a person in job conditions and marks what they do. A paper test only asks whether they know the right move.
 
-Tests split by fidelity: how closely they resemble the real job. High-fidelity tests, like an assessment centre or a work sample test, put a candidate inside real conditions. Low-fidelity tests, like a situational judgment test (SJT), ask what the right move would be on paper.
+- **Skills tests**: a piece of the real job, like a typing test for an admin role 
+- **Cognitive tests**: reasoning, numbers, words, and how fast someone learns
+- **Judgment tests (SJTs)**: a scene, say an angry customer, and which reply is right 
+- **Personality tests**: whether someone will do the job, not whether they can 
+- **Structured interviews**: the same questions live, marked against one rubric
+- **Physical, drug and background checks**: a fact, not a skill
 
-Hard-skills tests check whether a candidate can already do the job, like a typing test. [Cognitive-ability tests](https://testlify.com/types-of-aptitude-tests/) check how someone reasons and learns, one of the strongest predictors of performance across role types [1]. Personality tests check work style and traits like conscientiousness, not ability.
+Big reviews put cognitive tests among the strongest signs of who will do well, whatever the role [1].
 
-| Type | What it measures | Best roles | Funnel stage |
-|---|---|---|---|
-| Skills / job knowledge | Can they do the task today  | Data entry, support, technical  | Pre-application, under 10 min  |
-| Cognitive ability | Reasoning, learning speed  | Trainees, early-career, ops  | Post-screen, under 45 min  |
-| Personality | Work style, reliability  | Retail, sales, frontline  | Post-screen, alongside cognitive  |
-| Situational judgment | Decisions in real scenarios  | Call center, hospitality, retail  | Before interviews  |
-| Work sample | Actual task performance  | Senior, specialist roles  | Reserved for finalists  |
-| Integrity / reliability | Rule-following, dependability  | Cash handling, safety-sensitive  | Early screening, 5-10 min  |
+We have broken down where cognitive and aptitude tests hold up and where they leave gaps in our [guide to aptitude tests in hiring](https://testlify.com/advantages-and-disadvantages-of-an-aptitude-test/).
 
-No single test carries the whole picture. Combining methods predicts performance best. Run the cheap, scalable test first, then save the expensive work sample for finalists. Keep the whole sequence, interviews included, under 2.5 hours, or candidates take a faster offer elsewhere.
+## How Employers Choose Which Test to Run
 
-We cover cognitive-ability and aptitude testing in full in our [complete guide to aptitude tests](https://testlify.com/aptitude-tests/).
+Before you shop, run a job analysis. Name how people most often fail in this role, and the two or three signals that would catch it. Skip it and you bolt one model onto every role, and nobody trusts the result.
 
-## A Proctoring Flag Is Evidence, Not a Verdict
+| Test | Best for | When to run it |
+|---|---|---|
+| Skills or job knowledge | Data entry, support, tech roles  | At the front, under 10 min  |
+| Cognitive | Trainees, early-career, ops roles  | After the first screen, under 45 min  |
+| Personality | Retail, sales, frontline roles  | After the first screen  |
+| Judgment (SJT) | Call centre, hotels, retail  | Before the interview  |
+| Work sample | Senior or specialist roles  | Finalists only  |
 
-A proctored assessment uses a person, software, or both to confirm who is testing and keep conditions the same for everyone. The point is evidentiary: a score is only as good as the evidence behind it.
+No single test carries the whole picture. Mixing methods beats picking one, as Schmidt and Hunter showed in 1998. Run the cheap test first to cut the pool, then keep the work sample for whoever is left.
 
-[AI proctoring](https://testlify.com/ai-powered-proctoring/) flags behavior that looks suspicious: a second voice, an unauthorized tab, or eye movement that suggests reading rather than recalling. That flag is a lead for a person to review, never an automatic reject.
+## Validity and Reliability: What Validated Really Means
 
-A false positive is a flag raised by behavior that looks suspicious but was not cheating:
-- A glance away to think 
-- Lips moving while reading 
-- A family member walking through the background 
-- A disability-related movement 
+Validity just means a test measures what it claims. When a vendor says validated, ask which of three kinds they mean, because the three do not promise the same thing.
 
-Route every flag above a set threshold to a person before it counts, and false-positive rates drop under 5%.
+[Construct validity](https://testlify.com/hr-glossary/construct-validity/) asks whether the test measures the trait it names, like how someone thinks. Content validity asks whether the questions match the work the job needs. That is the kind with legal weight: the Uniform Guidelines and the [EEOC](https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures) require a test to fit the job it screens for. A sales trait test given to a coder fails, unless the coder has to sell.
 
-## Setting a Cut Score
+Criterion validity asks whether high scorers do better on the job, judged by a boss's rating. Only this kind closes the gap for a hiring call. Score people when they apply and check them a year later: that is predictive. Score staff whose work you already know and that is concurrent, faster but weaker.
 
-A cut score is the point on a test that separates candidates who move forward from those who do not. It is a judgment, not a fact hiding in the data. People draw that line, through a defined process, to serve a purpose.
+Reliability is the other half. Sit the same test twice and a steady test hands back nearly the same number. Below about.70, do not lean on it. And a study run only on people already hired, a range-restricted sample, reports a smaller link to job performance than the real one.
 
-Raise the cut and the candidates who pass are stronger, but fewer remain. Lower it and the pool widens, but so does the risk you let through. That trade-off happens whether you make it on purpose or by default.
+## The Norm Group Decides What a Percentile Means
 
-Many roles use more than one test, so you need a rule for combining them. A compensatory model lets strength in one area offset weakness in another. A conjunctive model requires clearing every test on its own, with no offset.
+A [70th percentile score](https://testlify.com/percentile-scores/) does not mean someone got 70% of the questions right. On a hard test, that person may have got fewer than 60% right. Read the rank as a percentage and you reject people who cleared the bar.
 
-## Adverse Impact and the Four-Fifths Rule
+Norming turns a raw score, the count of right answers, into a spot within a reference group. That group is the norm group, and groups differ: all working adults, graduates, or only people who already do the job. A coder at the 60th percentile against all adults can fall to the 40th against other coders. Match the norm group to the role before anyone starts testing.
 
-Adverse impact is what a test produces when it screens out one protected group at a materially higher rate than another [2]. It is a property of the outcome, not of intent. A cut score can produce it even when nobody meant to.
+## How to Set a Cut Score
 
-The four-fifths rule flags it. Divide each group's selection rate, hires divided by applicants, by the top group's rate. Below 80%, the ratio flags potential adverse impact and calls for a closer look.
+A cut score is the point that splits who moves on from who does not. It also goes by cut-off, cutpoint, and pass mark. One mark below and a person is out, on work that was nearly the same.
 
-Example: 100 white applicants, 50 hired, a 50% rate. 50 Black applicants, 15 hired, a 30% rate. Divide 30% by 50% and you get 60%, under the 80% line, so the test shows adverse impact.
+That point is a judgment, not a fact hiding in the data. No test holds a natural line between good enough and not; people draw it on purpose. Raise the cut and those who pass are stronger, but fewer are left. Lower it and you get more people and more risk, by choice or by default.
 
-A failed ratio is not a verdict, and a cut score that fails it is not automatically illegal. The employer must then show the test is [job-related and consistent with business necessity](https://testlify.com/hr-glossary/job-relatedness/). That standard comes from [Griggs v. Duke Power](https://www.laborandemploymentlawcounsel.com/2013/09/to-test-or-not-to-test-part-ii-hiring-tests-in-a-slow-growth-economy-why-when-how-and-how-not-to-test/) (1971), later written into the Civil Rights Act of 1991 [3].
+The formal way to place the line is a standard-setting study, where experts decide what counts as a pass. The usual method is Angoff: each expert rates every question on how many just-good-enough people would get it right.
+
+Many tests carry more than one cut. Under a compensatory rule, one cut applies to the combined score, so a strong area covers a weak one. Under a conjunctive rule, they must clear each test on its own.
+
+## How to Calculate Adverse Impact With the Four-Fifths Rule
+
+Adverse impact is what a test produces when it screens out one protected group at a much higher rate than another [2]. It is about the outcome, not the intent: a cut score can do this with nobody meaning it to.
+
+The four-fifths rule, also called the 80% rule, puts a line on it. Divide the people hired from a group by everyone who applied from it, and you get that group's selection rate. Below 80% of the top group's rate, the ratio flags adverse impact and calls for a closer look.
+
+A company screens 100 white applicants and hires 50, a 50% rate. It screens 50 Black applicants and hires 15, a 30% rate. Divide 30 by 50 and you get 60%, well under the line, so the test shows adverse impact against Black applicants.
+
+A failed ratio is not a verdict. You then have to show the test is [job-related and consistent with business necessity](https://testlify.com/hr-glossary/job-relatedness/), a phrase from Griggs v. Duke Power in 1971. The rules sit in the Uniform Guidelines, adopted by the EEOC in 1978.
 
 ## Is Your Screening Stack an AEDT Under NYC Local Law 144?
 
-An automated employment decision tool (AEDT) uses machine learning, statistics, or AI to score or rank candidates, substantially assisting a hiring decision. NYC Local Law 144 covers any tool that fits this description, enforceable since July 5, 2023.
+An automated employment decision tool (AEDT) is any computer process built on machine learning, stats, or AI. It turns applicant data into a score, rank, or piece of advice used to help or replace a hiring call. New York City wrote that into Local Law 144, in force since July 5, 2023. If a tool does more than sort information, and its output shapes who moves on, it likely counts.
 
-It likely covers:
-- Resume screening scored against past hires 
-- AI-scored assessments that replace paper tests 
-- Video interviews scored on speech or pace 
-- Cognitive or personality tests feeding your applicant tracking system automatically 
+That covers tools most recruiters already run:
 
-A bias audit is an independent check for race, ethnicity, or sex bias. It must run once a year, with results posted publicly and candidates given 10 business days' notice. Skip either step and NYC can fine you $500 to $1,500 per violation. The law forces disclosure; it does not set a pass or fail line for the audit itself [4].
+- Resume screeners scored on which past hires did well 
+- Video interview tools that score words, pace, or how someone speaks 
+- Thinking and personality tests whose number feeds your hiring system on its own 
+
+A bias audit is an outside, neutral test of whether an AEDT could hurt someone's odds by race, ethnic group, or sex. It runs once a year, with results posted in public and people told at least 10 working days ahead. Miss either step and the city can fine you $500 to $1,500 each time. The law only makes you show the numbers; it never sets a pass mark.
+
+## Reasonable Accommodation and Essential Functions
+
+A reasonable accommodation is a change to how you run a test, not to what the test measures. The Americans with Disabilities Act ([ADA](https://www.ada.gov/resources/testing-accommodations/)) wants scores to show what someone can do, not what their condition blocks [3]. In practice that means extra time, a reader, or a screen-reader format.
+
+Essential functions are the core duties of a job, not the side ones, and that is what you may hold fixed [4]. Draw the line in the job analysis, before you pick a test. Nobody has to say disability or ADA to make a request. Treating a rough one as no request is how employers land in trouble.
+
+For a fuller look at how these requests are handled in practice, see our guide on [accommodating candidates with disabilities in skills assessments](https://testlify.com/hr-accommodate-candidates-with-disabilities-in-skills-assessments/).
+
+## A Proctoring Flag Is Evidence, Not a Verdict
+
+A [proctored assessment](https://testlify.com/proctored-exams-key-features/) is a secure test watched by a person, by software, or both. The point is proof: if someone can quietly paste an answer from a chatbot, the score tells you nothing. It runs in three modes, each trading cost against goodwill.
+
+| Mode | How it runs | The trade |
+|---|---|---|
+| Live | A person watches the webcam and can stop the test  | Feels safest, costs most, still open to human error  |
+| Recorded | The session is taped and reviewed later  | Less intrusive, but judged with no context  |
+| Software | It flags what looks odd for a person to read  | Scales furthest, throws the most false flags  |
+
+A flag is evidence for a person to read, never an auto reject. A false positive is a flag raised by something that only looked like cheating. Think of a glance away to think, or a family member walking past. So use a mix: software catches at scale, a person makes the final call.
 
 ## Putting the Vocabulary to Work
 
-Knowing these terms doesn't remove the judgment calls behind a cut score or an adverse-impact ratio. What changes is that you can read a vendor's page, question a number, and defend the choice you make.
-
-At Testlify, we build our skills assessments with I/O psychologists and document them for [EEOC](https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures) compliance, so the evidence is there when you need it. Start by browsing our [3,500+ skills assessments](https://testlify.com/) to find the test that matches your role.
+Knowing these words does not remove the judgment calls behind a cut score, a validity claim, or a cheating flag. What changes is that you can read a vendor's page, question a number, and defend the call you make. At Testlify, we build our skills assessments with I/O psychologists and write them up against EEOC rules. Start with our [3,500+ skills assessments](https://testlify.com/) and find the test that fits the role you are hiring for.
 
 ## Frequently asked questions
 
 **What is a skills assessment?**
 
-A structured, scored test that has every candidate perform the same task, so you can compare results directly. It measures what someone can do today, like a typing test for an admin role.
+A scored test that has every person do the same task, so you can compare them directly. It shows what someone can do today, like a typing test for an admin role.
 
 **What is involved in a skills assessment?**
 
-A job analysis to name the role's core tasks, a scored test matched to those tasks, and often proctoring to confirm the result is genuine.
+A job analysis to name the core tasks, a test matched to them, a norm group to read the score, and often proctoring to confirm the result is real.
 
 **Can you give me an example of a skills assessment?**
 
-A typing test for an admin role, a coding test for a developer, or a case study for a specialist hire. Each has the candidate do a piece of the real job.
+A typing test for an admin role, a coding test for a developer, or a case study for a specialist. Each has the person do a piece of the real job.
 
 **How much do skills assessments cost?**
 
-Pricing varies by vendor, usually charged per candidate rather than per seat. Costs commonly range from a few dollars to over $50 per assessment, based on job complexity and volume.
+Most vendors charge per person tested, not per seat. Costs run from a few dollars to over $50 per test, based on how hard the job is and how many you run.
 
 ## Sources
 
 1. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02227/full
 2. https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures
-3. https://www.laborandemploymentlawcounsel.com/2013/09/to-test-or-not-to-test-part-ii-hiring-tests-in-a-slow-growth-economy-why-when-how-and-how-not-to-test/
-4. https://iapp.org/news/a/practical-considerations-for-bias-audits-under-nyc-local-law-144
+3. https://www.ada.gov/resources/testing-accommodations/
+4. https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XIV/part-1630
