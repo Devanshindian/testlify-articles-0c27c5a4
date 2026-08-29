@@ -1,158 +1,126 @@
 # The Real Cost Per Hire in 2026: $4,700 Is Two Editions Old
 
-Ask three bosses what a hire costs and you get three numbers, each said with full confidence. Every cost per hire figure comes from a report, a year and a method, and most of the ones people quote have lost all three. The $4,700 still sitting in budget decks describes a job market that has gone.
+You are halfway through a budget review when someone asks what a hire costs you. You give a number. Someone across the table gives a different one from a different deck, and neither of you can say which report it came from.
 
-The bills tell you less than half the story too. About 60% of what a hire costs is time your own managers spend, and no ledger records it. The number you can defend is current, tied to a report, and split into both halves.
+That is the state of most cost per hire figures in circulation. They have been cut loose from the year, the survey and the method that made them mean anything. And even the well-sourced ones describe less than half of what a hire actually takes out of your business.
 
 ## Quick answer
 
-Cost per hire is what you spend to find, test and hire one person, divided by the hires made in the same window. The benchmark most teams quote comes from a dead SHRM cycle; the current one is $5,475 for a hire below the C-suite (your top bosses). Reports also mix average figures with medians, so two numbers for the same year can look like they clash. Either way, the figure counts only what someone billed you, and the screening and interview hours cost more than the bills do, so build it by role level and by hiring volume.
+Cost per hire is what you spend to source, assess and hire one person, divided by the number of people you hired in the same period. The benchmark most teams still quote has been superseded twice. The current average for a non-executive hire is $5,475.
 
-## The $4,700 Cost Per Hire Is Two SHRM Editions Old
+Even that number only counts what somebody sent you an invoice for, and the invoiced side is the smaller side. Most of what a hire costs is interviewer and hiring-manager time that no accounting system records. So build your own figure by role band and by how many hires you make.
 
-The current benchmark for a hire below the C-suite is $5,475, from [SHRM](https://www.shrm.org/about/press-room/shrm-releases-2025-benchmarking-reports--how-does-your-organizat)'s 2025 Benchmarking Report. [SHRM](https://www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment) redoes the series each fourth quarter, so the next one is not due until about October 2026. Plan your 2026 budget against that figure.
+## The $4,700 Cost Per Hire Figure Is Two SHRM Editions Old
 
-The $4,700 everyone quotes is not wrong so much as dead. It comes from a SHRM piece dated April 11, 2022 [1]. The survey behind it ran from April to November 2021, so it describes a market five years gone. SHRM's own 2025 release says the new study updates that 2022 work [2].
+The $4,700 in your budget deck is not wrong, it is answering a question about a hiring market that has moved on. The figure comes from a [SHRM](https://www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment) article published in April 2022, which reported the average cost of a hire as nearly $4,700 [1]. It has been repeated in enough blog posts since that it now reads like a permanent fact about hiring, rather than one survey's answer in one year.
 
-An older figure is still going around too: $4,129, from the Human Capital Benchmarking Report for fiscal year 2015. So the two most-quoted numbers in hiring content are not one stale stat. They are two dead cycles, ten years apart, both treated as live.
+The number to plan a 2026 budget against is $5,475 for a non-executive hire, from SHRM's 2025 Benchmarking Report. That is the live edition of the same series, so it replaces the older figure rather than competing with it. The gap between them sounds like a rounding error on one requisition. Multiply it across a year of hiring and it is a variance nobody budgeted for.
 
-## Why SHRM Reports $35,879 and $10,600 for the Same Hire
+The follow-up question is the bigger problem. When your CFO asks which report the number came from and what year it covers, "the SHRM number" is not an answer, and the pause while you look it up costs you the rest of the slide. Write the report and the year beside the figure. Four extra words buy you the right to be believed about the rest of the deck.
 
-Both are current SHRM numbers, and neither is wrong. One is an average, the other a median, and they come from two different reports [3]. A few very costly top searches pull an average up, and a median ignores them [2].
+## Why One Report Says $35,879 and Another Says $10,600
 
-| Figure | Report | Average or median |
-|---|---|---|
-| $35,879, C-suite | 2025 Benchmarking Report  | Average  |
-| $5,475, below C-suite | 2025 Benchmarking Report [2] | Average  |
-| $10,600, C-suite in 2025 | 2026 Recruiting Executives brief  | Median  |
-| $15,000, C-suite in 2026 | 2026 Recruiting Executives brief  | Median  |
-| $1,300, below C-suite in 2026 | 2026 Recruiting Executives brief  | Median  |
+Go looking for what an executive hire costs and you can find $35,879 and $10,600 in the same afternoon, both current, both from SHRM. Neither is a mistake, and neither corrects the other. One is an average, from the 2025 Benchmarking Report, and the other is a median, from the 2026 Recruiting Executives brief [2].
 
-So never set an average from one series against a median from the other. Read down one column at a time.
+That difference decides what each number is good for. An average adds every search together and divides, so a handful of punishing C-suite searches pull it upward even when the rest of the year was ordinary. A median ignores how extreme the outliers are and asks only which search sat in the middle. The average tells you what your year cost, and the median tells you what your next search will probably cost.
 
-The C-suite median climbed from $5,000 in 2017 to $10,600 in 2025, then $15,000 in 2026 [3]. Every other role barely moved. SHRM puts that down to a cooling job market, not a change in method. That flatness is why the old figure went unchecked for so long.
+The direction those numbers move matters more than either one alone. The executive median has climbed from $5,000 in 2017 to $10,600 in 2025, and the 2026 series puts it at $15,000 [2]. Whatever senior hiring cost when you last set a budget, it costs more now, and the rise is concentrated at the top of the org chart rather than spread evenly across it.
+
+So the working rule is a boring one. Never set a figure from one series against a figure from the other. If last year's slide used an average, this year's uses an average. Mix them and you present a trend that exists nowhere except in your spreadsheet.
 
 ## How to Calculate Cost Per Hire, and Where the Count Stops
 
-[Cost per hire](https://testlify.com/cost-per-hire-calculator/) is all the in-house and outside spend it takes to find, draw in, test and hire one new person. Divide it by the hires you made in that period. The formula SHRM and ANSI treat as the standard is short:
+Underneath every benchmark above sits one short piece of arithmetic. The standard SHRM and ANSI treat as definitive is CPH = ([Total Internal Recruiting Costs](https://testlify.com/hr-glossary/cost-per-hire-cph/) + Total External Recruiting Costs) / Total Number of Hires. Three inputs and one division, and every argument you will have about the result is an argument about what belongs in the first two buckets.
 
-Cost per hire = (total in-house hiring costs + total outside hiring costs) / total hires 
+The internal bucket is everything your own organization pays for: recruiter salaries and their loaded overhead, hiring manager and interviewer time, HR administrative time, recruiting technology, and referral bonuses. Almost none of it generates a document you can point at, because it is already sitting inside payroll. That is why it is the half that gets quietly left out.
 
-The in-house side is what your own team pays for: recruiter pay, manager and interview time, HR admin, hiring software, and referral bonuses. The outside side is what you pay other people: job ads, agency or search-firm fees, checks and tests, sign-on bonuses, and moving costs.
+The external bucket is everything you pay somebody else: job board postings, advertising, agency or retained search fees, background checks and assessments, sign-on bonuses, and relocation. These arrive with a date, a vendor and an amount attached, so your finance system will hand you most of this list in an afternoon.
 
-Under the SHRM standard the count stops at the offer the person accepts, so onboarding falls outside it.
+Then there is the boundary, which matters more than either list. Under the SHRM standard the count stops at the accepted offer, so onboarding falls outside it. Training, ramp time and the cost of a hire who quits in month six are all real costs, and none belong here. Keep them as their own metrics, or you lose the ability to compare one quarter with the next.
 
-One quarter, worked: 15 hires, $30,000 in-house, $25,000 outside. That is $55,000 over 15 hires, or $3,667 each.
+Worked through, it is less intimidating than it sounds. Say you made 15 hires last quarter, spent $30,000 internally and $25,000 externally: that is $55,000 across 15 hires, or $3,667 each. The arithmetic takes a minute. Agreeing with your CFO on what goes in each bucket is the work.
 
-## Hard Costs vs Soft Costs: You Only See 30-40%
+The cost of a hire who does not work out is its own subject, and we have covered it in full in our [breakdown of what a mis-hire really costs](https://testlify.com/the-real-cost-of-a-mis-hire/).
 
-Only 30-40% of what a hire costs shows up as a bill. The rest, about 60%, is the hours team leads and managers spend reading resumes and running interviews [1]. So a figure built from receipts catches well under half the spend.
+## Hard Costs vs Soft Costs: You Only See 30-40% of the Bill
 
-Hard costs are easy to name, because someone billed you for them. Job ad spend, agency fees, test tools, hiring software, moving packages, and payroll taxes all land in the ledger.
+Only 30 to 40% of what a hire costs ever arrives as an invoice. The rest, roughly 60% of the total, is time department leaders and managers spend screening applications and running interviews [1]. So a figure assembled from receipts is not a slightly incomplete picture of your hiring spend. It is the minority of it.
 
-[Soft costs](https://testlify.com/direct-vs-indirect-hiring-costs-whats-overlooked/) behave differently. They sit inside salaries and calendars you already pay for, so no separate charge ever shows up. A manager who spends six hours on interviews this week still costs what they cost last week.
+Hard costs are the easy half precisely because somebody billed you for them. The job ads, the assessment tools, the agency fee, the software subscription: each lands in the ledger with a date and an amount, and you can defend every line because a vendor already did the counting.
 
-That is why most cost per hire tools stop at the bill. They are built on the fields a finance system can export, and finance has no field for an engineer's afternoon. Work only from the bills and you are trimming the smaller half.
+[Soft costs](https://testlify.com/direct-vs-indirect-hiring-costs-whats-overlooked/) behave nothing like that. A hiring manager who spends six hours in interviews this week costs your company exactly what she cost last week, to the cent. The money moved out of her own work and into hiring, and no system recorded that it moved. The spend is real, the impact is real, and there is no transaction to point at.
 
-## What the Bills Cover: Ads, Checks and Software
+This is also why the standard cost-per-hire calculator stops at the invoice. It is built on the fields a finance system can export, and a finance system has no field for an engineer's Tuesday afternoon. So most teams spend their effort on the smaller half of the bill. Trimming a job board contract is a saving, and it is worth less than one panel interview you did not need to run.
 
-Three lines make up most of the billed side before any agency gets involved.
+## A Technical Hire Costs 23 Interview Hours Before Anyone Is Paid
 
-- **Job ads:** LinkedIn contract posts run $200-$1,000 a month per slot, and ZipRecruiter Standard plans $299-$399. Posting on three boards at once puts you in the $800-$1,500 a month range.
-- **Checks and tests:** basic screening runs $20-$40, a full check passes $100, and each past job or school you check adds $15-$25. Skills tests add about $50 a head.
-- **Hiring software:** an applicant tracking system (ATS, the tool that holds every applicant) runs $250-$3,000 a month.
+The uninvoiced half of a hire is mostly one thing, and it is hours in interviews. A technical hire averages 23.3 hours of total interview time, against 12.2 hours for a business hire [3]. That is close to three working days per engineer, taken from people whose actual job is shipping product, and spread across enough calendars that nobody feels the whole of it.
 
-One warning on the ad line. That money goes per click, not per hire, so the same budget buys a different number of hires each quarter.
+Price those hours and the number stops being abstract. A recruiter carrying 15 open roles with three interviews per role per round burns more than 45 hours of senior calendar time before a single offer goes out, and at a blended loaded rate of $100 an hour that is $4,500 of interview labor. Every input there is a rate you already pay, which is why the figure survives a budget review.
 
-## Agency Fees Run 15-25% of Salary, 40-50% at the Top
+The useful thing about counting hours is that hours have obvious levers. You cannot negotiate your engineers' salaries down, but you can cut a panel from five interviewers to three, batch a round into one afternoon instead of three weeks of scheduling, and decide in advance what each stage tests so two of them stop testing the same thing.
 
-Agency fees are the biggest outside cost for mid-level and senior roles, and they rise with pay. The published band is 15-25% of first-year base pay from manager through VP, and other benchmarks stretch it to 30%. In practice, quoted deals sit near the top of that band.
+The biggest lever sits earlier than any of that. Every hour of interview time gets committed the moment somebody decides a candidate deserves a panel. If ten people reach the final round and only two ever had a real chance, you paid for eight sets of interviews to learn something a [structured screen](https://testlify.com/technical-screening/) could have told you in an hour.
 
-On a $120,000 role, the fee alone runs $18,000 to $36,000. That one line beats most published cost per hire benchmarks for a whole hire.
+There is a wider set of levers than the ones above, and we have written a full guide to [reducing recruitment costs without losing hire quality](https://testlify.com/reduce-recruitment-costs-while-maintaining-quality-hires/).
 
-How you pay changes with the level. Contingency, the default at mid-level, means you pay only if someone gets hired, and the trade is weaker reach into people who are not job hunting. [Retained search](https://testlify.com/hr-glossary/executive-search/) is exclusive, paid in stages, and priced near 30-35% of pay. C-suite searches hit 40-50% of first-year pay, with admin and search costs on top.
+## Cost Per Hire by Role: $1,500 at Entry Level, $250,000 for a Retained Search
 
-## Soft Costs: 23 Hours of Interviews per Hire
+A blended company-wide average is the least useful number in this article, because nobody hires an average. The bands sit two orders of magnitude apart, and the band you are opening a requisition in is the only one that matters to the budget conversation ahead of you.
 
-The unbilled half of a hire is time, and it is the larger half. It is your managers' hours, work lost while a seat sits empty, ramp time, and the mess when a hire fails. Only the first sits inside cost per hire, because the count stops at the accepted offer.
+| Role band | Typical cost per hire in 2026 | What drives the number |
+|---|---|---|
+| Entry-level | $1,500-$3,500  | High-volume sourcing, short interview loops |
+| Mid-level professional | $3,500-$8,000  | Standard loops, a mix of agency and direct hires |
+| Engineering and technical | $6,000-$23,000  | Full onsite panels, the highest cost of any individual contributor |
+| Senior management | $10,000-$30,000  | Executive search, longer processes, far more interview time |
+| Executive, retained search | $50,000-$250,000  | Retained fees charged against first-year total compensation |
 
-Interview time is the biggest hidden cost in most hiring budgets, and it rises with the role. A tech hire takes 23.3 hours of interview time against 12.2 for a business hire [4]. Tech roles now take 17.6 interviews each, up 52% from about 11 in 2021.
+One line item does most of the work in that spread, and it is [the agency fee](https://testlify.com/hr-glossary/contingency-recruitment/). On a $120,000 role, the fee alone runs $18,000 to $36,000 depending on the rate you agreed. Set that against the benchmarks earlier in this article: one vendor invoice on one mid-senior role is larger than the entire published cost of an average hire.
 
-Batching interviews into one booked day, rather than spreading them over weeks, is the main lever you have. Volume works against you too: recruiters now sort 291 applications per hire, up from about 100 in early 2021 [4]. In our topline report with SHRM Labs, 25.2% of HR and talent teams said they had never measured recruiter time spent on screening.
+Junior and high-volume roles are usually filled without an agency at all, so that line never appears. Senior and specialized roles rarely have the option, because the people worth hiring are not reading your careers page. That difference, more than panels or software or advertising, is most of the distance between the top and bottom of the table.
 
-For the other levers on that unbilled half, see our guide to [cutting recruitment costs without lowering quality](https://testlify.com/reduce-recruitment-costs-while-maintaining-quality-hires/).
+So the honest answer to "what does a hire cost us" is a question back: which role. Quote the band and name what puts a role at the top of it, and your number survives the manager who wanted one headline figure.
 
-## Cost Per Hire by Role: $1,500 Junior to $250,000 Retained
+## Your Hiring Volume Sets the Number, Not Your Company Size
 
-Both halves rise with the role, so a blended average tells you little about the job you are about to open.
+A large share of recruiting spend is fixed, while the number of hires you divide it across is not. That one sentence explains most of the variation between companies that otherwise look identical. Your applicant tracking system, your recruiter's salary and your careers site cost the same whether you fill forty roles or four.
 
-| Role level | Cost per hire, 2026 |
-|---|---|
-| Junior | $1,500-$3,500  |
-| Mid-level | $3,500-$8,000  |
-| Engineering and tech | $6,000-$23,000  |
-| Manager and director | $6,000-$15,000  |
-| Senior management | $10,000-$30,000  |
-| C-suite, retained search | $50,000-$250,000  |
+Work it through with the numbers. A 200-person company making 40 hires against $120,000 of total recruiting spend lands at $3,000 per hire [4]. Freeze half those requisitions in a slow quarter, keep the same team and tools, and the identical operation now runs at $6,000 per hire, with nobody having done anything worse than before.
 
-Read the spread, not the midpoint. The US median sits near $1,633, well under any blended average. Junior and high-volume roles pull it down, while top searches pull it up.
+This is why smaller companies look expensive on this metric and mostly are not. They are not worse at hiring, they just have a small denominator, so every fixed cost lands harder. A low total recruiting budget is not evidence of efficient hiring, and reading it as one is how teams cut the tooling holding the process together.
 
-## What Pushes a Role Up Its Band
-
-Hotels, food service, arts and leisure fill a role for about $1,070, factories for about $3,497, and schools and public bodies for about $4,160. Health and social care runs $9,000-$12,000, where you have to check licenses. Tech sits above average, up to $35,000 for a software engineer.
-
-The same split shows up inside one firm. A niche engineer can run $20,000 to $35,000 while a support role at the same employer stays near $8,500. When skills are scarce, recruiters spend more hours per hire and teams lean harder on paid ads and agencies.
-
-## Hiring Volume, Not Company Size, Sets Your Cost Per Hire
-
-Level is one axis; volume is the other. A large share of hiring spend is fixed, and the number of hires you divide it by is not. So the same budget gives you very different costs per hire.
-
-A 200-person firm making 40 hires on $120,000 of spend lands at $3,000 a hire. A smaller firm spends less overall and still pays more per hire, because it has no hiring team of its own and leans on agencies. Firms under 50 people often run past $7,500 a hire. A big employer spreads software, recruiter pay and brand work over hundreds of hires.
-
-So a small hiring budget is not proof of tight hiring. It usually means you divided by a small number.
-
-That is also the whole in-house question. Your own team costs $146,000 to $200,000 a year whether it fills 30 roles or three, while agency spend moves with the count. Below roughly 15-20 hires a year the agency is cheaper.
-
-## Four Ways a Cost Per Hire Number Stops Holding Up
-
-- Match the window on both sides. A year of spend divided by a quarter of hires is not a cost per hire. Count hires whole, never as part-time slices [3].
-- Split before you compare. A bulk hiring push and one niche search, averaged together, misstate both.
-- Count every search, not just the wins. All costs in a period go over all hires in that period, failed searches included.
-- Read cost next to [quality of hire](https://testlify.com/roi-of-smarter-hiring/). Only 20% of firms track the two together, and a cheap hire who quits at month six was never cheap [2].
-
-The first three protect the math. The fourth protects the decision, because cost falls fastest when you drop the bar.
-
-We have broken the full price of a hire who does not work out into its layers in [our guide to mis-hire costs](https://testlify.com/the-real-cost-of-a-mis-hire/).
+The build-or-buy decision runs on the same arithmetic. Below roughly 15 to 20 hires a year, paying agencies per placement works out cheaper, and above that a fixed internal team wins. Treat it as a midpoint rather than a hard threshold, because your own crossover depends on whether hiring stays steady enough to keep a recruiter busy through a quiet quarter.
 
 ## Cut the Interview Hours Before You Cut the Budget
 
-You now have a cost per hire you can defend: current, tied to a report, and split into both halves. The unbilled half is where most of the money sits, and it shrinks when fewer of the wrong people reach a panel. That is the work Testlify does before your interview calendar fills: our [3,500+ skills assessments](https://testlify.com/) score every applicant against the same job-related tests, so managers spend their hours on a shortlist, not a pile. Start the 7-day free trial, no credit card needed.
+You now have a cost per hire you can defend: current, tied to a named report and year, and split into the half that gets invoiced and the half that does not. The uninvoiced half is the bigger one, and it shrinks for exactly one reason: fewer of the wrong candidates reach a hiring panel. That is the work Testlify does before your interview calendar fills up. Our [3,500+ skills assessments](https://testlify.com/) score every candidate against the same job-related criteria, so managers spend their hours on a shortlist instead of a pile. Start the 7-day free trial, no credit card required, and compare the interview hours on your next role against the last one.
 
 ## Frequently asked questions
 
 **What is the average cost per hire in the US?**
 
-The current SHRM benchmark is $5,475 for a hire below the C-suite, from the 2025 Benchmarking Report. The US median sits near $1,633, because high-volume junior roles pull it down.
+The current SHRM benchmark is $5,475 for a non-executive hire, an average from the 2025 Benchmarking Report. The US median sits nearer $1,633, because high-volume entry-level hiring pulls it down.
 
 **How do you lower cost per hire without dropping hiring quality?**
 
-Cut interview hours before you cut spend. Screen harder early, batch your panels into one day, and pay for referrals. Referred hires cost 40-60% less than agency ones.
+Cut interview hours before you cut spend. Screen harder and earlier, batch your panels into one day, and pay for referrals. Referred hires cost 40-60% less than agency placements and stay longer [4].
 
 **Does cost per hire include onboarding costs?**
 
-No. Under the SHRM standard the count stops at the offer the person accepts, so onboarding sits outside it. Track training and ramp time on their own.
+No. The count stops at the accepted offer, so onboarding sits outside it. Track training and ramp time as their own number, or you lose the ability to compare one quarter with the next.
 
 **What is the difference between cost per hire and time to fill?**
 
-Cost per hire is money spent per filled seat. Time to fill is the days from opening the role to an accepted offer. A slow fill raises cost: an empty seat loses about $500 a day.
+One measures money per filled seat, the other measures calendar days from open requisition to accepted offer. They move together, because a slow process pushes you toward agencies and sponsored listings, which are the expensive channels.
 
 **How much does it cost to replace an employee who leaves?**
 
-Replacing someone is a separate number, and folding it into cost per hire breaks both figures. Common guesses run from six to nine months of the leaver's pay.
+That is a separate metric, and folding it into cost per hire breaks the comparison. Common estimates run from six to nine months of the departing person's salary, and go higher for senior and specialized roles.
 
 ## Sources
 
 1. https://www.shrm.org/topics-tools/news/talent-acquisition/real-costs-recruitment
-2. https://www.shrm.org/about/press-room/shrm-releases-2025-benchmarking-reports--how-does-your-organizat
-3. https://www.hiretruffle.com/blog/cost-per-hire
-4. https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
+2. https://www.hiretruffle.com/blog/cost-per-hire
+3. https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
+4. https://www.teamed.global/insights/cost-per-hire-calculator-shrm-formula-and-benchmarks

@@ -1,155 +1,136 @@
-# AI Recruitment Tools Ranked by Bias-Audit Evidence
+# AI Recruitment Tools Ranked by Bias-Audit Survivability
 
-Sign off on AI recruitment tools and your name goes behind a claim the vendor cannot prove: that the tool cuts bias. New York City's Local Law 144 says an outside firm must test these tools before you use one on a New York job seeker. Two of the five platforms here have no bias-audit record at all. One of them, Workday, is fighting a live lawsuit with nothing to set against it.
+Legal has one question about the AI recruitment tools you want to buy, and it is not about features. Can you show this thing does not reject one group of candidates far more often than another? The vendor's deck says the model reduces bias. That is a sentence, not evidence, and a plaintiff's lawyer will pull it apart first.
+
+This comparison ranks five platforms hiring teams get asked about by name: Pymetrics, Eightfold AI, HireVue, iCIMS and Workday. The test is not which one screens candidates best. It is which one has published something you could forward to legal without flinching.
 
 ## Quick answer
 
-None of the five has a clean record. Pymetrics ranks first: an outside team found no group screened out at a far higher rate, with one gap left open. Eightfold AI is second, with full Local Law 144 results it says do not prove the model is bias-free; HireVue is third with two audits it will not show you, iCIMS fourth with no public audit, and Workday last, in court. A pass only proves what got tested, so ask before you sign.
+None of these five platforms has a clean audit record. Pymetrics comes closest, because it gave outside researchers real access and let them publish whatever they found. Eightfold published its New York City audit in full, then said plainly that the result does not make its model bias-free. HireVue has been audited twice and shows almost none of it, while iCIMS shows its summary only to customers who ask for it. Workday has published nothing at all while it defends a discrimination case, so ask for the audit before you sign, because an audit only ever proves what it was pointed at.
 
-## How We Ranked These AI Hiring Tools
+## How We Ranked These AI Recruitment Tools for Audit Survivability
 
-All five were scored on the same five things.
+Surviving an audit means three things at once, and most vendors manage one of them. An outside party has tested the tool and the result is public. The vendor will say what its score actually weighs. And no live lawsuit sits there undercutting whatever the audit found.
 
-- Outside bias audit: has an outside firm tested the tool, or is it just the vendor's word?
-- [AEDT status](https://testlify.com/hr-glossary/algorithmic-accountability/): does it count as an AEDT (a hiring tool that scores or ranks people for you) under Local Law 144?
-- Four-fifths rule results: are the pass rates by race and sex made public?
-- Legal risk: is anyone suing, or has a watchdog been asked to look?
-- Scoring openness: does the vendor say what the score weighs?
+These are not the biggest names in [recruiting AI tools](https://testlify.com/top-ai-recruiting-tools-for-improved-hiring-process/). They are the ones compliance and legal ask about by name when a purchase order lands on someone's desk. Between them they automate the parts of hiring a recruiter used to do by hand: sourcing candidates, screening resumes, scheduling interviews, and running the interview itself. Speed is how all of it gets sold, and a shortlist that arrives by Friday is a useful thing to buy.
 
-Every score traces to a vendor's own words, an outside test, or a court file. Where nothing exists, that is a gap, not a pass.
+Plenty of familiar tools sit outside this ranking, and not because they are any safer. Sourcing engines built on semantic search, and scheduling and messaging chatbots like Paradox, have published no equivalent audit result either. Read that absence as a finding rather than a clean record.
 
-## AI Recruiting Tools at a Glance: Who Has the Audit Evidence?
+Every score below traces to something a vendor published, an outside party tested, or a court filed. None of it comes from marketing copy, because copy is free and an audit is not. Where a vendor has published nothing, the table says so and stops there. Silence is not a clean record, and reading it as one is the mistake this comparison argues against.
 
-Three of the five have proof a legal team can read before you sign.
+| Tool, best evidence first | Published audit evidence | Legal exposure |
+|---|---|---|
+| Pymetrics | Outside audit, findings public | None named |
+| Eightfold AI | Local Law 144 audit published in full | None named |
+| HireVue | Two audits, summaries only | FTC complaint from a privacy group |
+| iCIMS | Says audits exist, publishes none | None named |
+| Workday | None published | Active collective action |
 
-| Rank | Tool | Outside bias audit | Four-fifths results | Legal risk |
-|---|---|---|---|---|
-| 1 | Pymetrics | Yes, with full access given | Every group cleared 80% | None named |
-| 2 | Eightfold AI | Yes, published in full | Cleared on every group tested | None named |
-| 3 | HireVue | Two, summaries only | Not shown | FTC complaint |
-| 4 | iCIMS | Says two; none published | Not shown | None named |
-| 5 | Workday | None published | None published | *Mobley v. Workday* |
+## 1. Pymetrics: The Bias Audit That Went Furthest, Except on Score Reuse
 
-## 1. Pymetrics: The Cleanest Bias Audit, and Its One Gap
+Pymetrics sells a set of 12 short games built on cognitive science experiments. They measure things like risk tolerance and how fast someone learns a rule, and a candidate plays them instead of sending a resume. The company marketed the product as entirely bias free. That is a very large claim, and it is why the audit that followed matters.
 
-Pymetrics sells 12 games built on brain-science tests that score traits like risk appetite and learning speed. It has sold the product as "entirely bias free."
+Rather than treat outside researchers as intruders picking at a locked box, Pymetrics handed them access to the platform. The team worked under a university grant and was paid up front, so nobody could argue the fee shaped the finding. They also held the right to publish whatever they saw, whether Pymetrics liked the result or not.
 
-That claim is why the audit counts. Pymetrics gave outside researchers full access, on a grant through Northeastern University, paid up front. They read the source code by hand and kept the right to publish what they found.
+The auditors read the source code and ran the scoring themselves rather than accepting a report on trust. Every demographic group's selection rate landed above the federal line, and no demographic data had entered the training pipeline at all. This is the rare case where the evidence and the marketing claim meet.
 
-Every group's pass rate reached at least 80% of the top group's, and no race or sex data went into training. One gap remains. Pymetrics reuses a score for up to 330 days, so a score from one firm can resurface at another with no fresh test.
+One finding kept it short of a clean record. Pymetrics reused an applicant's score for up to 330 days, so a result produced for one employer could resurface at another company months later. That second employer never got a fresh test against its own applicants, and probably never knew to ask. Put the question to any vendor plainly: do you recycle scores across clients, and for how long?
 
-## 2. Eightfold AI: The NYC Local Law 144 Audit It Published in Full
+## 2. Eightfold AI's NYC Local Law 144 Audit, and What It Didn't Prove
 
-BABL AI ran Eightfold's Local Law 144 audit with its own Criterion Audit Framework, a method based on financial audit practice.
+Eightfold's matching model ranks candidates against a role from inside the hiring workflow. New York City's [Local Law 144](https://testlify.com/new-york-city-bias-audit/) says a tool like that has to be audited by an outside party first. Eightfold went through that audit, then applied the same standard everywhere its model runs, not only where the city could reach it.
 
-The audit covered more than 29 million scored job seekers, from January 2024 to December 2025. The race and sex data came from what people chose to share. Eightfold published the whole thing, not a summary. It split results by sex, by the seven race groups the law names, and by every mix.
+The audit was not a spot check. It drew on more than 29 million candidate assessments recorded between January 2024 and December 2025, using demographic details candidates had volunteered. Eightfold then published the whole thing rather than a summary, including every number, every group and every finding. A reviewer can open it and check the arithmetic without asking anyone's permission.
 
-Eightfold still will not call it a clean bill of health. It says the audit does not prove the model is bias-free, and that no audit can.
+Most vendors leave the next part out. Eightfold says the audit does not certify its matching model as bias-free, and that no audit can make that claim. That is a vendor telling you where its own evidence stops, which is worth more than a warranty nobody can honour. The result says nothing about candidates who never shared their demographics, and nothing about bias the tested categories miss.
 
-## 3. HireVue: The Most Audited Tool, and the Least Open
+## 3. HireVue Under NYC Local Law 144: What the Audits Withhold
 
-HireVue films answers and boils gestures, pose, tone, pace and word choice down into one score. Its own top scientist told the *Washington Post* that face movements alone can make up 29% of it [1]. Tools that read faces, tone or word choice fall under Local Law 144.
+HireVue films a candidate answering set questions, then scores how they said it as well as what they said. Its own chief industrial-organizational psychologist, Nathan Mondragon, told the Washington Post that facial movements alone can account for 29% of a candidate's employability score [1]. The recruiter reading the shortlist sees one clean number, with no way of knowing how much of it came from a face.
 
-In 2019 the privacy group EPIC took HireVue to the Federal Trade Commission. The complaint said HireVue sold the tool as bias-free with no basis.
+HireVue has commissioned more audits than anyone else in this ranking. Two came from O'Neil Risk Consulting and Algorithmic Auditing in 2021, and neither was ever released in full [2]. That is the difference between being audited and being able to prove it.
 
-Two audits by O'Neil Risk Consulting followed in 2021, and neither was released in full. You can read a summary only after handing over your details and promising not to copy it. HireVue still will not show a person their own score. No public audit with pass-rate numbers exists for its video scoring.
+What the public can read is a summary, and only after handing over personal information and agreeing not to reproduce it [2]. Try walking that into a procurement review. You cannot forward it, you cannot quote it, and nobody can check whether the scope covered the roles you hire for.
 
-## 4. iCIMS Under NYC Local Law 144: No Public Audit Record
+So the most audited tool here is not the most defensible one. A regulator asking what the model weighs will not accept the answer that an auditor once looked and was satisfied.
 
-iCIMS has no outside audit summary, no [EEOC](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines) finding and no lawsuit on public view, in either direction.
+## 4. iCIMS: The Audits It Says Exist, But Won't Show You
 
-The law does not attach to iCIMS as a firm. It attaches to the features you switch on. In a November 2024 blog post, iCIMS said only one Talent Cloud AI tool counts as an AEDT: Candidate Ranking using Role Fit. Sourcing and chatbots did not, so coverage turns on what you turned on.
+iCIMS is a large hiring platform with AI switched on in several places, and coverage does not attach to the company as a whole. It attaches to the features an employer has turned on. iCIMS reviewed its own Talent Cloud tools and concluded that one of them, Candidate Ranking using Role Fit, counts as an [automated employment decision tool](https://testlify.com/hr-glossary/algorithmic-accountability/).
 
-iCIMS says it paid for outside audits of that feature in 2022 and 2023, both with good results. It hands the summary to buyers who ask and has not published one. An unpublished audit is not a proven pass.
+That distinction is your exposure, not a technicality. Two companies can buy the same platform, switch on different modules, and end up with different obligations. You find out which side of the line you are on by inventorying what your recruiters actually enabled.
 
-## 5. Workday: No Bias Audit, and the Most Legal Risk
+iCIMS says it commissioned outside bias audits of Candidate Ranking in November 2022 and November 2023, and that both came back favourable. It also says it gives the audit summary to customers on request, which is another way of saying it has never published one. No methodology, no scoring breakdown, no demographic numbers.
 
-No bias-audit results, no Local Law 144 summary and no four-fifths numbers exist for Workday's AI hiring features. Its own site still sells "unbiased, AI-driven candidate grading" without saying what the model weighs.
+Read that combination carefully, because it is easy to round off in either direction. An unpublished audit is not the same as no audit, and no audit is not the same as a demonstrated pass. If you are evaluating iCIMS, ask for the summary before anything is signed.
 
-A court ruling cuts against you too. On May 28, 2026, a judge held that bias-test data for its Candidate Skills Match tool can stay hidden under lawyer-client privilege. The judge agreed the data was proof of possible bias, and let it stay hidden anyway.
+## 5. Mobley v. Workday: The Lawsuit With No Bias Audit
 
-An outside firm did run Local Law 144's math on HiredScore Spotlight in March 2026. Workday's own page says that study is not meant to meet any buyer's legal duty.
+Derek Mobley is an African American man over 40 with a disability. He says he applied for more than 100 jobs at employers running Workday's screening platform and was rejected by every one, often with no human opening the application [3]. He sued the vendor rather than the employers.
 
-## What Mobley v. Workday Changed for AI Hiring Tools
+The case has since grown well past one applicant. On May 16, 2025, Judge Rita Lin granted conditional certification of a collective action covering everyone aged 40 and over who applied through the platform since September 2020 and was denied a recommendation. No verdict has been reached, and Workday has not been found to have done anything.
 
-Derek Mobley, a Black man over 40 with a disability, applied for more than 100 jobs through firms using Workday's screening tool. He says he was turned down every time, often with no person reading the file. He argues Workday is liable as an "agent" of those firms, and that its picks hit people harder by race, age and disability.
+Here is what Workday has to set against that. No published bias-audit results, no Local Law 144 disclosure summary, and no adverse-impact outcomes for its AI hiring functions exist in public. Its own recruiting pages, meanwhile, advertise unbiased candidate grading.
 
-The court let that theory stand. In July 2024 it threw out Workday's claim that it merely carries out what employers set. In May 2025, Judge Rita Lin let the case run as a group claim under the federal age-bias law. It is open to everyone 40 and over turned down since September 2020.
+That combination is why Workday sits last. You are asked to accept a fairness claim with no public evidence behind it, while a court decides whether the tool screened out people over 40.
 
-No court has ruled on whether the tool really did that. What is settled is narrower and still large: the vendor, not only the employer, can be named.
+## How the Four-Fifths Rule Decides Whether a Tool Passed
 
-## What NYC Local Law 144 Asks of You, and What It Costs
+Every audit above rests on the same piece of arithmetic, so here is what it does. The four-fifths rule, also called the 80% rule, is the federal test regulators use to flag [adverse impact](https://testlify.com/hr-glossary/disparate-impact/) [4]. Work out what share of each group was hired, divide the lowest by the highest, and anything under 0.80 needs investigating.
 
-Local Law 144 does not ban AI in hiring. It puts three duties on you before you use an AEDT [2]. An outside firm must run the [bias audit](https://testlify.com/new-york-city-bias-audit/), and it cannot be older than a year. You post the results in public, and you tell the job seeker at least 10 business days out.
+A worked example makes it concrete. Take 135 applicants who all sit the same written test, 72 of them non-minority and 63 minority. Seven of the first group and three of the second get hired, a selection rate of 9.7% against 4.8%. Divide one by the other and the ratio is about 0.495, well under the line, which reads as adverse impact against minority applicants.
 
-What counts as an AEDT turns on what it does, not what it is called. If it scores, ranks or picks people, it is in scope; plain storage and keyword search are not.
+Now cut those same 135 people by sex instead of race. On that split the ratio lands near 0.91 and the tool passes. Same candidates, same test, same day, opposite verdict.
 
-Fines run from $500 to $1,500, and each day and each missing item counts on its own. Yet the State Comptroller found the city agency missed about 17 of every 18 breaches. Weak enforcement is not low risk: private suits need no agency.
+This is why a vendor saying it passed the audit is an incomplete sentence. Passed on which cuts, and on samples big enough to mean anything? A published audit lets you check. A summary that reports a pass and stops there does not, and that gap separates the top of this ranking from the bottom.
 
-## The Four-Fifths Rule, and How to Run It
+## Which of These AI Hiring Tools Fits the Risk You're Managing
 
-The four-fifths rule, also called the 80% rule, is the federal test for [adverse impact](https://testlify.com/hr-glossary/disparate-impact/): one group screened out at a far higher rate [3]. Anything under 0.80 is a flag.
+No platform wins across the board, because each one fails in a different place. The useful question is which risk you are managing first: proof you can hand to legal, a lawsuit you want no part of, or a scoring model nobody outside the vendor has ever seen.
 
-Find each group's pass rate, meaning hires divided by people who applied. Take the highest as the mark, divide every other rate by it, then compare to 0.80. Below, 135 people sit the same written test. The pool passes on sex and fails on race in the same round.
+- **Documented evidence with the fewest caveats:** Pymetrics. Outside researchers tested it and published what they found, and the only gap is score reuse.
+- **An audit you can open and read:** Eightfold AI. The full results are public, and the vendor is honest about their limits.
+- **Audit activity rather than transparency:** HireVue. Two commissioned audits, neither released in full, so the evidence stays out of reach.
+- **A thin public record:** iCIMS, and any vendor like it. Demand the audit first, and ask which modules count as covered tools.
+- **Live litigation you want no part of:** Workday. Nothing published, and a collective action still running.
 
-| Group | Pass rate | Ratio | Clears 0.80? |
-|---|---|---|---|
-| Non-minority (the mark) | 9.7% (7 of 72)  | 1.00 | Yes |
-| Minority | 4.8% (3 of 63)  | 0.495  | No |
-| Female (the mark) | 7.8% (4 of 51) [4] | 1.00 | Yes |
-| Male | 7.1% (6 of 84) [4] | 0.91  | Yes |
+One caution before you take any pass at face value. New York City's own guidance says a bias audit reports defined outcome metrics, and does not prove the tool is fair in every job or every decision. It was never designed to be a fairness certificate.
 
-Run it for each group on its own, and for mixes such as Black women. A tool can look level on race and on sex and still hurt one mix.
+So put the audit request in the procurement conversation, not in the follow-up email after the purchase order clears. Ask for the summary, the demographic breakdowns, and the date the model last changed. A vendor with the evidence sends it over that afternoon.
 
-## What a Passing Bias Audit Doesn't Prove
-
-A clean Local Law 144 result is not a fairness stamp. The city's own guidance says the audit reports set numbers and does not prove the tool is fair in every job. The law sets no pass or fail line at all; it asks for disclosure, not a result.
-
-An audit covers only the tool as it stood on the day it ran. A vendor can change the model, the training data or the score cut-off without setting off a new one.
-
-A pass says nothing about whether the tool picks good people either. As one review of a friendly audit put it, a tool can clear the bar and still not find the best qualified women.
-
-For the wider question of what makes an assessment fair in the first place, we have a full guide to [bias in employment assessments](https://testlify.com/ensure-bias-free-employment-assessments/).
-
-## What to Ask a Vendor Before You Sign
-
-You carry the risk, not the vendor: buying an outside tool never moves the duty off the firm using it. The EEOC pulled its 2023 guidance in January 2025, but Title VII did not change, and people can still sue. So do the work before you sign:
-
-- **A reason per score:** ask for a plain-words "why this person ranked here", not just a number.
-- **Controls you can tune:** set weights and cut-offs per role, each setup written down and checked on its own.
-- **Proof behind the numbers:** if a vendor claims 95%, ask what it was measured against: recruiter clicks, real hires, or a labelled set.
-
-Then keep a person in the loop. A reviewer who waves through a pick in under 60 seconds is not judging anything, and a court will look at that.
+For the wider question of what keeps an assessment itself fair, we have a full guide to [building bias out of employment assessments](https://testlify.com/ensure-bias-free-employment-assessments/).
 
 ## Building the Evidence Trail Yourself
 
-The pattern across the AI recruitment tools here is the same: the proof is thin, and a pass only covers what got tested. A hiring process that holds up needs job-related proof from day one, not an audit filed after the fact. At Testlify, we build tests that work-science experts have checked, that we test for adverse impact, and that we write up for EEOC rules. Browse our [3,500+ assessments](https://testlify.com/) to see what that looks like before anyone asks.
+The pattern across every one of these AI recruitment tools is the same: the audit evidence is thin, and even a clean pass only covers what it was pointed at. A hiring process you can defend needs job-related evidence built in from the start, not a certificate filed after somebody complains.
+
+At Testlify, we build assessments validated by I/O psychologists, checked for adverse impact, and documented for [EEOC](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines) compliance. Explore our [3,500+ assessments](https://testlify.com/) to see what evidence-based screening looks like before a regulator ever asks for proof.
 
 ## Frequently asked questions
 
 **Which AI tool is best for recruitment?**
 
-No one tool wins. Pymetrics has the fullest public audit proof. Workday is being sued, and Eightfold says its own audit does not prove the model is bias-free. Match the tool to your risk.
+No single platform wins outright. Pymetrics has the most complete published audit evidence, Eightfold says its own audit does not certify the model as bias-free, and Workday is defending a live discrimination case.
 
 **How to use AI tools for recruitment?**
 
-Read a vendor's published audit before you sign, then keep a trained person reviewing every score instead of letting the tool reject on its own. Renew the audit each year.
+Read the vendor's published audit evidence before you sign, then keep a trained person reviewing every score instead of letting the system auto-reject anyone. Treat the audit as a yearly renewal.
 
 **Does NYC Local Law 144 apply if my company isn't based in New York?**
 
-Yes, if the person lives in one of the five boroughs. What counts is where they live, not where you are based, even for a remote job.
+Yes, if the candidate lives in one of the five boroughs. Coverage follows where the candidate lives, not where your company is headquartered, and it still applies to a fully remote role.
 
 **Is an ATS the same thing as an AI recruitment tool?**
 
-No. An ATS (applicant tracking system) runs the hiring workflow. An AI hiring tool adds scoring or ranking inside it. Workday and iCIMS build that scoring into their ATS.
+No. An applicant tracking system moves candidates through the hiring workflow. An AI recruitment tool scores or ranks them. Workday and iCIMS do both, which is why buyers often miss the scoring part.
 
 **What's the difference between AI recruitment tools and skills-based assessments?**
 
-AI recruitment tools score resumes, video or chat to rank people. Skills tests check them on real job tasks against a fixed rubric, which gives proof that is easier to defend.
+AI recruitment tools score resumes, video or chat automatically to rank people. Skills-based assessments test candidates on the actual work, marked against a fixed rubric, which leaves evidence that is easier to defend.
 
 ## Sources
 
 1. https://www.brookings.edu/articles/for-some-employment-algorithms-disability-discrimination-by-default/
-2. https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page
-3. https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines
-4. https://pmc.ncbi.nlm.nih.gov/articles/PMC8628344/
+2. https://epic.org/documents/comments-of-epic-on-the-eeocs-draft-strategic-enforcement-plan-for-2023-2027/
+3. https://www.shrm.org/topics-tools/news/technology/workday-ai-lawsuit-wake-up-call-hr
+4. https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines
