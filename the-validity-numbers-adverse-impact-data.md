@@ -1,112 +1,132 @@
 # The Disparate Impact Numbers Behind Every Hiring Test
 
-You run a hiring test that works. The people who score well go on to do well in the job. Your managers stop complaining about bad hires, and the whole question feels settled. Then someone pulls the pass rates apart by race, and almost everyone the test screened out came from one group. The fact that your test predicts performance turns out to be half the question you needed to answer.
+You picked the assessment with the best evidence behind it. Six months later a rejected candidate's lawyer wants to know why that test screened out women at a much higher rate than men. Nobody in your company set out to discriminate. That is the situation the law calls disparate impact.
 
-That gap between groups has a name. The [EEOC](https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines) calls it disparate impact, and nothing about it requires anyone to have intended anything. What follows sets the validity numbers for cognitive, personality, and situational judgment tests next to the rules that judge them. The point is to let you defend the test you chose with a specific figure, rather than a general statement about fairness.
+Underneath it sits an uncomfortable pattern. The assessments that predict job performance best also produce the widest gaps between demographic groups. What follows sets the validity number beside the gap number for each type of test. That is what lets you defend a specific choice with evidence, rather than a general promise of fairness.
 
 ## Quick answer
 
-Disparate impact is what happens when a hiring step nobody designed to discriminate ends up rejecting one protected group far more often than another. The usual first check is the EEOC's four-fifths rule: compare the share of each group that got through your screen. If the lower rate falls under 80% of the higher one, the step is flagged. That flag starts a conversation rather than settling one. The EEOC treats the threshold as a rule of thumb, not a legal standard [1].
+Disparate impact happens when a hiring step rejects one protected group at a far higher rate than another, whatever the employer intended. The EEOC's four-fifths rule is the usual first test for it. A ratio under 80% is a reason to look harder, not a verdict.
 
-The trade-off underneath it is stubborn. Cognitive ability tests predict job performance better than any other single method, and they also open the widest race gap of any format. Personality and situational judgment tests predict less and open a narrower gap. Score banding, mixed batteries, and video delivery all shrink the gap without throwing away the prediction you paid for.
+Cognitive ability tests predict performance better than anything else and carry the widest race gap of any format. Personality and situational judgment tests predict less and divide candidates less. Score banding, mixed batteries and video delivery all shrink the gap without giving up the prediction. The defensible position is a written reason for every cutoff you set.
 
-## What Is Disparate Impact, and What the Four-Fifths Rule Really Flags
+## The Four-Fifths Rule: A Flag, Not a Finding
 
-[Disparate impact](https://testlify.com/hr-glossary/disparate-impact/) is discrimination by outcome rather than by intent. A hiring step applies the same way to every candidate, and the people it filters out still come disproportionately from one protected group. Nobody in the room wanted that result, which is exactly why it can sit inside a process for years. There is no bad actor to catch, only a number nobody thought to run.
+Disparate impact, also called [adverse impact](https://testlify.com/hr-glossary/disparate-impact/), has nothing to do with what anyone meant. A rule that reads the same for everybody can still fail one group far more often than another. That outcome alone puts a hiring process under review. A height requirement written for safety rejects more women than men. A test written to measure reasoning can do the same to a racial group, without containing one biased question.
 
-The standard first check is the EEOC's four-fifths rule, and the arithmetic fits on the back of an envelope. Say a screening tool advances 50% of the men who take it and 33% of the women. The lower rate is only about two-thirds of the higher one. That sits under the 80% line the rule draws, so the tool is flagged for adverse impact. Notice what you are not comparing: not how many men and women applied, but the share of each group that got through.
+The usual first check is the four-fifths rule. Work out the share of each group your process advances, then divide the lower rate by the higher one. Say a tool selects half of the men who apply and a third of the women. That lands well below the four-fifths line, and the rule flags it as adverse impact.
 
-That flag is weaker than it sounds and more useful than it looks. The EEOC calls four-fifths a rule of thumb rather than a legal standard [1]. Clearing 80% is not a defence, and failing it is not a finding against you. Treat it as a smoke alarm. It tells you where to look, and what happens next depends on whether you can explain the gap it found.
+What that flag is not is a finding. The [EEOC](https://www.eeoc.gov/newsroom/eeoc-highlights-record-breaking-results-agency-reports) calls the four-fifths threshold a rule of thumb rather than a legal standard [1]. Clearing it does not make a test lawful, and falling under it does not make you liable. It tells you which step of your funnel you will have to justify. A court wants that justification in the language of the job, not the language of statistics.
 
-Which means you want to be the one running the ratio, on every screening step you own, before anyone else does. A plaintiff's lawyer can compute the same number out of your own hiring records. The difference between a process you can defend and one that costs you usually comes down to two things. Did you see the figure first, and did you write down what you did about it?
+We have written up the practical side of running those checks, and the job analysis that backs them, in our guide to [avoiding bias in employment testing](https://testlify.com/best-practices-to-avoid-bias-in-employment-testing/).
 
 ## The Real Predictive Power of Cognitive Ability Tests
 
-No hiring method has more evidence behind it than the [cognitive ability test](https://testlify.com/hr-glossary/cognitive-ability-test/). Frank Schmidt and John Hunter pulled together 85 years of personnel selection research in 1998. They reported a correlation of 0.51 between general mental ability and job performance, the strongest single predictor of any method they studied. A correlation is not a percentage, so 0.51 does not mean the test is right half the time. It means that as scores go up, performance ratings tend to go up with them, and nothing else tracked performance as closely.
+No hiring method has more evidence behind it than the cognitive ability test. Schmidt and Hunter's 1998 meta-analysis gathered 85 years of personnel selection research. It reported a correlation of 0.51 between [general mental ability](https://testlify.com/hr-glossary/g-factor/) and job performance, the strongest single predictor of any method studied.
 
-Then the field checked its own homework. A 2022 reanalysis by Paul Sackett and colleagues applied stricter statistical corrections to the same studies. The estimate for general mental ability fell from 0.51 to 0.31. That is a large drop. If 0.51 is still sitting in your vendor deck or your hiring policy, you are quoting a number the research community has moved off.
+A correlation is not a percentage, and reading it as one is where most hiring managers go wrong. It says the test's ranking and a supervisor's ranking a year later move together, some of the time, across large groups. It never promises that your top scorer is your best hire. Treat it as a way to improve the odds over fifty hires.
 
-The correction changed the size of the claim, not the order of the methods. Both analyses still put general mental ability at the top of the validity ranking. So here is the honest sentence to put in front of a general counsel. Cognitive testing is still the best single predictor anyone has measured. Its link to performance holds up, but it is more modest than the industry advertised for two decades.
+### A 2021 Correction Revised the Industry's Benchmark Numbers Down
 
-Use 0.31 as your working figure. It survives scrutiny, and it sets the baseline every other assessment type here gets measured against. It also stops you promising something in a compliance review that the literature will not back.
+That 0.51 was the figure the industry quoted for two decades. Then a 2022 reanalysis by Sackett and colleagues applied stricter corrections to the same research. The validity estimate for general mental ability fell from 0.51 to 0.31.
 
-## Why Cognitive Tests Carry the Widest Adverse Impact Gap
+Nothing about the tests themselves changed. What changed was the adjustment the original researchers had made for the limits of their samples, which turned out to be generous. The practical difference is large. A vendor still quoting 0.51 in a sales deck is quoting a number the field has moved off. Opposing counsel can find that out as easily as you can.
 
-The format that predicts best also opens the widest gap. Roth and colleagues, in 2001, measured a standardized mean difference of d = 1.10 between Black and White candidates on cognitive ability tests. A d of 1.10 means the two score distributions sit more than a full standard deviation apart. In plain terms, an average score in one group lands near the top sixth of the other. Draw a line anywhere near the middle and the two groups pass at very different rates.
+So cite the lower one. Write 0.31 into the file where you record why you chose this test, next to the reason you chose it. Cognitive ability still predicts better than anything else on the shelf, and that is the claim worth making. A modest number you can defend beats a bigger one you cannot.
 
-This is a race and ethnicity problem specifically, not a general fairness problem. Male and female candidates score within d = 0.00 to 0.10 of each other on cognitive tests. That is close enough to nothing that it will not move a selection ratio. Useful to know before you spend a compliance budget, because the exposure sits in one place and you can look there first.
+## Why Cognitive Tests Carry the Widest Adverse-Impact Gap
 
-Put those two facts next to the arithmetic from earlier and the risk stops being hypothetical. With a gap that size, a fixed cutoff score on a cognitive test tends to produce a four-fifths violation on its own. Not because the test is broken, and not because anyone picked a discriminatory threshold. One line drawn through two distributions that far apart cuts them at different points.
+The evidence sets up a trade. Roth and colleagues, in 2001, found a standardised mean difference of d = 1.10 between Black and White candidates on cognitive ability tests. That is the largest and most stubborn gap of any common assessment format.
 
-## Two Fixes That Narrow the Gap Without Losing the Prediction
+A d of 1.10 measures the distance between two group averages in standard deviations. At that size the two score distributions barely overlap near the top. Set one cutoff and rank everyone against it. The group scoring lower on average is thinned out at every stage, before a human reads a single answer. You do not need a biased item to get there, only one test and a fixed line.
 
-The first fix is score banding. Rather than ranking candidates strictly by raw score, you treat everyone inside a defined range as tied and choose among them on other grounds. Two candidates a few points apart stop being ranked against each other over a difference the test cannot reliably measure. The cutoff stops doing the sorting by itself.
+### What Narrows the Gap Without Sacrificing the Validity Above
 
-The second fix is to stop letting one test decide. Pair the cognitive measure with a structured interview, a work sample, or a conscientiousness measure, and read the set together. A candidate who is average on the reasoning test and excellent on the work sample now has somewhere to show it. Your decision no longer rests on the one format with the largest known gap.
+The first adjustment is score banding. Rather than ranking strictly by raw score, you treat everyone inside a defined range as tied. The cutoff stops doing your sorting for you. A recruiter facing a band of forty near-identical scores chooses among them on interview evidence or a work sample. The test still removes the people who could not do the reasoning at all.
 
-Neither fix closes the gap, and a vendor promising you that is selling something. Both shrink it while keeping the prediction you were paying for. Write down which fix you chose and why, because that reasoning is the part a court asks to see.
+The second is to stop asking one test to carry the whole decision. Pair the cognitive test with a structured interview, a work sample, or a conscientiousness measure, and score all of them. One test type gives a candidate exactly one way to fail. A battery gives her three ways to show she can do the work, and a strong work sample can carry a middling reasoning score.
 
-## Personality Tests: A Smaller Gap and a Different Legal Problem
+Neither adjustment closes the gap, and you should distrust any vendor who claims otherwise. Both shrink it while keeping the prediction the research bought you. Pick one, run it on a live requisition, and record what your selection rates looked like before and after. That record is what you want in your hand if anyone asks.
 
-Personality testing predicts performance modestly, and the model you pick decides whether it is defensible at all. Conscientiousness is the trait most consistently linked to job performance, and the Big Five framework that measures it has strong peer-reviewed backing. The Myers-Briggs Type Indicator, which sorts people into 16 fixed types, does not have that backing for hiring decisions. If your process runs on four-letter types, you have a tool that is enjoyable in a workshop and awkward in a deposition.
+## Personality Tests Predict Performance, Modestly
 
-Where personality earns its place is beside the cognitive test rather than instead of it. A conscientiousness measure combined with general mental ability reaches a composite validity of R =.60. That beats either piece on its own, and it is the practical argument for the mixed battery described above. You get more prediction and a narrower gap out of the same hour of a candidate's time.
+Personality testing predicts job performance, and it predicts it modestly. Conscientiousness is the trait most consistently linked to performance, and it carries a validity of about r =.31. That is durable, and it is nowhere near enough to hire on by itself.
 
-The legal risk here comes from somewhere else, the Americans with Disabilities Act. A personality questionnaire that probes mood, anxiety, or anything else reading as health territory can function as a medical examination. That means it can screen out applicants with mental disabilities and put you on the wrong side of the ADA. Read your own item list with that in mind. A question about how often you feel down is not a personality item, it is a symptom check.
+Where it earns its place is next to something else. Combine a conscientiousness measure with a general mental ability test and the pair reaches R =.60. That is the same battery the section above recommends for narrowing the gap, which is a rare piece of luck. The arrangement that predicts best also spreads your legal risk.
 
-The remedy is smaller than most employers expect. An applicant with a mental disability can ask for a different assessment, or to skip the personality test entirely [2]. That request counts as a reasonable accommodation, meaning an adjustment the employer is required to make. Building the route in ahead of time costs you a line in the candidate instructions and one prepared alternative. Building it after a complaint arrives costs a great deal more.
+Which personality model you buy matters as much as whether you buy one. [The Big Five](https://testlify.com/hr-glossary/big-five-personality-traits/), which scores five traits on a continuous scale, has strong peer-reviewed backing for hiring decisions. The Myers-Briggs Type Indicator, which sorts people into sixteen fixed types, does not. Teams love the MBTI because a four-letter result is fun to talk about at an offsite. Put it in a hiring decision and you are sorting people on an instrument its own research base will not support.
 
-## Situational Judgment Tests and the Gap That Moves
+### The ADA Adds a Second Kind of Legal Exposure
 
-A situational judgment test drops a candidate into a workplace scene. A colleague misses a deadline, or a customer escalates, and the test asks what they would do next. The most cited estimate of how well that predicts job performance is around.34, from McDaniel and colleagues in 2001. That sits close to the corrected cognitive figure. It is why these tests get sold as the balanced option: respectable prediction, less of the reasoning-test problem.
+Personality tests carry a second problem that has nothing to do with race. A test probing mood or anxiety can function as a medical exam under the Americans with Disabilities Act, screening out applicants with mental disabilities. A medical exam before a job offer is off limits. So the question is not whether the questions felt intrusive. It is what they are actually measuring.
 
-The adverse impact case for them looks good at first. The Black-White gap on situational judgment tests runs around d = 0.38, roughly a third of the gap on cognitive ability tests. If you needed one number to justify moving a high-volume screen onto an SJT, that is the number you would reach for.
+Read your own item bank with that in mind. An item asking how often a candidate feels overwhelmed is asking about a symptom. An item asking how she would plan a week with three competing deadlines is asking about the job. The second measures much the same trait through work behaviour.
 
-The catch is where the 0.38 came from. It was measured on incumbents, meaning people already doing the job, and incumbents cleared a hiring bar once already. Run the same test on real applicants and the Black-White gap nearly doubles, to about 0.66 [3]. Your pool is applicants, not incumbents. Plan around the larger figure, and ask any vendor quoting you 0.38 which sample produced it.
+A test that produces this effect is not automatically unlawful. An employer can keep using it where it is job-related and consistent with business necessity. That phrase is the entire defence, and you cannot assemble it after a complaint lands. It means a job analysis on file that names the traits the role needs. You write it before choosing the test, not after somebody challenges it.
 
-Design choices then move the number again, occasionally in directions that feel backwards. Video-delivered SJTs open a smaller gap than written ones, even though video shows a candidate's race to whoever scores them. The reading load appears to matter more than the visibility does. If you are already filming candidate scenarios, that is a reduction you get without paying for it.
+## Situational Judgment Tests: A Supplement, Not a Substitute
 
-For the design side of that, see our full guide to [situational judgment tests and hiring bias](https://testlify.com/how-sjts-eliminate-hiring-bias/).
+A [situational judgment test](https://testlify.com/common-criticisms-of-situational-judgement-test/) drops a candidate into a workplace scene and asks what they would do. Your best account manager has just promised a client a delivery date operations cannot meet, and the candidate picks their next move. Estimates cluster around.34 for predicting job performance. The most cited comes from McDaniel and colleagues in 2001.
 
-## Disparate Impact Liability Survives the 2025 Executive Order
+### Do SJTs Add Anything Beyond Cognitive Ability and Personality?
 
-None of this is new law. The doctrine goes back to Griggs v. Duke Power Co., the 1971 Supreme Court case that grew out of a challenge to an early cognitive-style test used to sort workers. The company did not have to intend anything for the Court to find the practice unlawful. That idea has been sitting in employment law for more than fifty years.
+A little, and less than you would hope. With a cognitive test already in your battery, adding a situational judgment test lifts predictive power by roughly.03 to.08. The gain over a personality measure is about as modest.
 
-In 2025 the enforcement picture changed. [Executive Order 14281](https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/) told federal agencies to pull back from disparate impact enforcement. The EEOC then stopped investigating charges brought on disparate impact grounds alone [4]. Read only that headline and it looks like the exposure left with the enforcement.
+That small number settles something practical. If you are building a process from nothing and can afford one instrument, the SJT is not it. It pays later in the funnel, once every remaining candidate has cleared the reasoning bar. That is the point where you want evidence about judgment rather than more evidence about processing speed.
 
-It did not. Disparate impact is still part of [Title VII](https://testlify.com/hr-glossary/anti-discrimination/). A private individual can still sue over it, whatever the EEOC's current priorities happen to be. The agency stepping back changes who is likely to knock first, not whether your selection process has to hold up. A federal investigator asks for your documents, and a plaintiff's lawyer asks for the same documents with a jury sitting behind them.
+### The Gap Moves With the Sample and the Group
 
-So the work in front of you is documentary, and it is cheap while nothing is happening. For each screening step, write down what the job analysis said the role requires and why the cutoff sits where it sits. Then record the selection rates by group, and what you changed when one of them looked wrong. That file is what turns a defensible test into a defended one, and nobody has ever assembled it comfortably after the complaint arrived.
+Situational judgment tests are sold on their smaller demographic gap. The headline figure holds up. Measured on current employees, the Black-White difference on an SJT sits at about d = 0.38, a fraction of what a cognitive test produces.
 
-We have set out that process step by step in our guide to [avoiding bias in employment testing](https://testlify.com/best-practices-to-avoid-bias-in-employment-testing/).
+Then read the next line of the same research. Run the test on job applicants instead of incumbents and the gap climbs to 0.66 [2]. Applicants are the population you test, and they differ from people who already hold the job. They bring a wider spread of backgrounds, higher stakes, and more effort spent guessing what the employer wants.
+
+| Test and sample | Black-White gap (d) |
+|---|---|
+| Cognitive ability test | 1.10  |
+| SJT, current employees | 0.38 [2] |
+| SJT, job applicants | 0.66  |
+
+One design choice moves the number your way. Video-delivered situational judgment tests produce a smaller gap than written ones, even though video reveals a candidate's race to whoever scores the answer. Reading load is the likely reason, because a written scenario tests comprehension before it tests judgment. Ask your vendor for the applicant-sample gap on the video version, and treat a refusal as an answer.
+
+## Disparate Impact Liability Survives the Executive Order
+
+None of this is confined to paper tests. In May 2023 the EEOC issued technical guidance on hiring software. It confirmed that the four-fifths rule applies to AI-driven selection, under the same Title VII that covers a written exam. A resume screener that learns from your past hires is a selection procedure, and it is judged on its outcomes like any other.
+
+### Enforcement Peaked in 2024, Then a 2025 Order Pulled It Back
+
+Investigations into AI hiring tools jumped 42% in the agency's 2025 report, with settlements reaching into the millions [3]. Then the posture reversed. [Executive Order 14281](https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/) directed federal agencies to step back from disparate-impact enforcement, and the EEOC stopped investigating charges brought on disparate impact alone [4].
+
+Read that as a change in who comes knocking, not a change in the law. Disparate impact is still part of Title VII, and a private individual can still sue over it whatever the agency's priorities are. The federal retreat removed one of the two people who might ask you to justify a cutoff score. It left the other one, and that one picks the courtroom.
+
+So the question for whoever owns hiring is whether the reasoning behind your assessment would hold up if a court asked first.
 
 ## Picking a Test the Data Can Defend
 
-Every assessment type trades predictive power against the disparate impact it produces, and no format wins on both. What the numbers above buy you is the ability to say why you picked the one you picked, with a figure attached. That lands very differently from a statement that you take fairness seriously. Testlify's assessments are built by I/O psychologists, checked for adverse impact, and documented so the reasoning exists before anyone asks for it.
+Every assessment type trades predictive power against the disparate impact it produces. Knowing both numbers lets you defend a specific choice to a court, a candidate, or your own board. Testlify's tests are built by I/O psychologists, validated for adverse impact, and documented for EEOC compliance from the start.
 
-Our [cognitive ability tests](https://testlify.com/cognitive-ability-tests/) sit in that same library, reviewed for bias before a candidate ever sees them. Start there if cognitive testing is the part of your process you would have the hardest time defending.
+Our [cognitive ability tests](https://testlify.com/cognitive-ability-tests/) sit inside that library, reviewed for bias before a candidate ever sees them. Start there, because on the evidence above it is the test that predicts most and needs defending most.
 
 ## Frequently asked questions
 
 **Is disparate impact still illegal?**
 
-Yes. A 2025 executive order pulled EEOC enforcement back, but the doctrine is still part of Title VII. Private individuals can still sue over it themselves.
+Yes. A 2025 executive order pulled EEOC enforcement back. The doctrine is still part of Title VII, and a rejected candidate can still take you to court over it.
 
 **What is the 80% rule for disparate impact?**
 
-Compare the share of each group that got through your screen. If the lower rate falls under 80% of the higher one, the step is flagged. That is a screening flag, not a legal finding [1].
+Divide the selection rate of your lowest-passing group by your highest. Below 80% and the four-fifths rule flags adverse impact. It is a prompt to investigate, not a legal finding [1].
 
 **What is an example of disparate impact?**
 
-A screening tool advances 50% of male candidates and 33% of female ones. The lower rate is about two-thirds of the higher one, under the 80% line, so it gets flagged.
+A test that advances half the men who sit it and a third of the women. Nobody wrote a biased question, but those pass rates alone put the tool under scrutiny.
 
 **What is the difference between disparate impact and disparate treatment?**
 
-Treatment is about intent: someone was rejected because of a protected trait. Impact is about outcome: a neutral rule hit one group harder, and nobody had to mean it.
+Treatment is intentional: you turned somebody down because of a protected trait. Impact is accidental: a neutral rule hits one group much harder. Intent decides which one you are facing.
 
 ## Sources
 
 1. https://www.eeoc.gov/laws/guidance/questions-and-answers-clarify-and-provide-common-interpretation-uniform-guidelines
-2. https://pennstatelawreview.org/print-issues/pre-employment-personality-tests-algorithmic-bias-and-the-americans-with-disabilities-act/
-3. https://onlinelibrary.wiley.com/doi/10.1111/ijsa.12269
+2. https://onlinelibrary.wiley.com/doi/10.1111/ijsa.12269
+3. https://www.eeoc.gov/newsroom/eeoc-highlights-record-breaking-results-agency-reports
 4. https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/
