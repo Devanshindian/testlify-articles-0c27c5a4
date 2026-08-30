@@ -1,142 +1,144 @@
 # A Skills Assessment Glossary for Recruiters Running Tests
 
-You pick the skills assessment, you send it out, and from that moment the decision it makes is yours. The vocabulary that arrives with it was written by psychologists for other psychologists: validity, norm group, cut score, adverse impact. Nobody hands you the translation.
+You pick the skills assessment, send it to forty people, and by Friday it has made a decision you now have to defend. The vocabulary that arrived with it was written by psychologists, not recruiters: validity, norm group, cut score, adverse impact.
 
-Getting one of those words slightly wrong is expensive, and quiet. A recruiter sees 70th percentile, reads it as 70% of the answers right, decides that is a weak pass, and rejects someone who outscored seven candidates in ten. Every term below is a setting you control, and each one changes what the test does before it reaches a single candidate.
+Getting one of those slightly wrong is expensive. Read a percentile as a percentage and you reject people who cleared the bar you meant to set. Each of these words is a setting you own, and each one changes what the test does before you ever send it.
 
 ## Quick answer
 
-A skills assessment is a scored test you send before an offer, and almost everything that makes it work is a setting you choose rather than something the vendor decides for you. Match the test type to the two or three skills the role genuinely needs, and send it straight after the application. Ask a vendor which validity study covers your job, not whether one exists. Set your pass mark from your pool size and your own performance data, then check the pass rates it produces against the four-fifths rule. Personality tests are the odd one out, and they wait until you have made a conditional offer.
+A skills assessment is a scored test you configure, send, and later have to justify. Match the test type to what the role actually needs, and place it right after the application so the scores build your shortlist instead of trimming one a recruiter already made. Ask a vendor which validity study covers your job, not whether one exists. Set your cut score from your own pool size and your own performance data, then check the pass rates it produces group by group before you launch it on anybody.
 
-## What a Skills Assessment Is, and Why Companies Use One
+## What a Skills Assessment Is, and Why Companies Run One
 
-A skills assessment is a test you send a candidate before you make an offer, scored the same way for every person, built to show whether they can actually do the job. That last part is what separates it from the quiz somebody on your team wrote on a Friday afternoon. It has been checked against [real job performance](https://testlify.com/skills-assessments-job-performance-correlation/), and it gives you a number that means the same thing on applicant three and applicant three hundred.
+A skills assessment is a test you send before an offer that measures whether a candidate can do the job, scored the same way for everyone who sits it. That scoring rule is what separates it from a quiz stapled to a job post. Same questions, same time, same line between pass and fail, for the person you liked on the phone and the person you did not.
 
-Sorting resumes is a selection decision too, but it is judgment nobody audits. The moment you attach a scored test, you own a rule that a candidate, a hiring manager, or a regulator can ask you to justify. Every term in this glossary exists to protect that one moment.
+Think about what it replaces. A recruiter reads eighty resumes on a Tuesday, forms an impression of each one in about nine seconds, and never writes down what the impression rested on. That is judgment nobody can audit. A scored test at least leaves a number you can point at, argue with, and check later against how the hire actually worked out.
 
-The reason teams take that on is retention. A 2023 Society for Human Resource Management study found that organizations using validated pre-employment assessments cut turnover by an average of 65% compared with those hiring on resumes and interviews alone. Picture what a number that size does to a support team hiring twelve people a quarter. You are not saving screening hours, you are not rehiring the same seat in March.
+The business case is usually retention. A 2023 Society for Human Resource Management study found that organizations using validated pre-employment assessments cut turnover by an average of 65% compared with those relying on resumes and interviews alone. That matters most in volume hiring, where one weak screening habit quietly repeats itself across every hire you make this quarter. The trade is that you now own a selection decision somebody can question. The vendor built the test; you chose it, placed it, and set the line.
 
-The money follows the same shape. A hire who leaves inside a year costs you the recruiting spend twice over, plus the manager's time, plus the months the rest of the team covered the gap. That is the bill a screening step is trying to stop, which is why it tends to pay for itself fastest wherever you hire in volume.
+## Types of Skills Assessment Tests, and How to Choose One
 
-## The Types of Skills Assessment Tests, and What Each One Predicts
+Five kinds of test carry predictive power in hiring: [cognitive ability](https://testlify.com/types-of-aptitude-tests/), skills or job knowledge, personality, situational judgment, and work samples. They are not interchangeable, because each one catches a different way a hire goes wrong.
 
-Five kinds of test have evidence behind them in hiring: cognitive ability, skills or job knowledge, work samples, situational judgment, and personality. They are not interchangeable, because each one catches a different way a hire goes wrong. Somebody can know the software cold and still come apart the first time an angry customer calls.
-
-| Test type | What it measures | Where it earns its place |
+| Test type | What it measures | Where it fits |
 |---|---|---|
-| Cognitive ability | Reasoning, problem-solving, how fast someone picks things up | Roles where the work keeps changing: analysts, trainees, operations |
-| Skills or job knowledge | One specific technical skill: coding, Excel, writing, typing | Roles with a defined toolset, where you can name the task |
-| Work sample | Performance on a real piece of the actual job | Senior and specialist hires you cannot read off a CV |
-| Situational judgment | What someone does in a realistic workplace scenario | Customer-facing and supervisory roles |
-| Personality | Work style, reliability, how someone treats people | Frontline roles where retention is the problem |
+| Cognitive ability | How fast someone learns and works through unfamiliar problems | Trainees, early-career hires, any role where the work keeps changing |
+| Skills or job knowledge | One specific technical ability: coding, Excel, writing, typing | Defined-skill roles such as support, data entry, technical delivery |
+| Work sample | Performance on a real deliverable from the actual job | Senior and specialist roles you cannot judge from a resume |
+| Situational judgment | What someone does inside a realistic workplace scenario | Call centre, retail, hospitality, first-line management |
+| Personality | Work style, reliability, service orientation | Frontline roles where turnover is the thing you are fighting |
 
-Two or three of these per role is the working number. Run all five and your screening step becomes an afternoon, and the strongest candidates, who have other offers, quietly stop halfway.
+Pick two or three for a role rather than running the set. If you can only add one, make it cognitive ability, which predicts across the widest range of roles. Start by writing down the two or three things without which a new hire fails in their first ninety days, then choose the test that measures those and ignore the rest of the catalogue.
 
-One row carries a restriction the others do not. A personality test cannot be part of your pre-offer screen at all: it belongs after a conditional offer, and everyone entering that job category has to sit the same one [1]. The last section explains why, because the reason is not obvious.
+### Where the test sits, and the forty-minute ceiling
 
-## How Employers Choose Which Test to Run, and When to Send It
+Placement changes the value of a test as much as the choice of it. Put the assessment at step two, straight after the application and before anyone reads a resume, so the scores build your shortlist instead of thinning one a recruiter already spent a morning assembling. Personality instruments are the single exception, and the section on medical examinations explains why they have to wait.
 
-Pick the job first and the test second. Write down the two or three things without which this hire fails in the first 90 days, then choose the instrument that measures those. It is a fifteen-minute exercise and it stops the most common waste in assessment, which is buying a test because it was in the same catalogue as a test somebody liked.
+Placement also decides who never finishes. Criteria looked at roughly half a million tests and found completion holds around 80% while the assessment stays under 40 minutes, then falls to about 60% once total testing runs past an hour. Read that as a cost rather than a statistic. The candidate who abandons your test at minute fifty-two is not a weak candidate. She is a senior engineer who already has a job and no particular need for yours, and you removed her from your own pipeline.
 
-The mismatch is easy to see once you look for it. A sales role lives or dies on persuasion, handling a no, and calling back anyway, so screening those candidates on abstract numerical reasoning tells you almost nothing about who will hit quota. An engineering hire is the reverse. The scores still arrive, neatly formatted, and they still get used, which is what makes a mismatch worse than no test.
+So treat forty minutes as a ceiling for the screening stage, not a target to fill. If the role needs more depth, run a short screen first and a longer assessment after the shortlist, so the demanding one is only sat by people you would be glad to hire.
 
-Stage matters nearly as much as choice. Put the assessment at step two, right after the application and before a recruiter reads anything, so the scores build your shortlist instead of thinning it later. Send it earlier and passive candidates who would have talked to you never bother. Send it after three interview rounds and your recruiters have already spent hours on people the test would have screened out on day one.
+For a fuller look at what aptitude testing does well and where it falls short on its own, see our breakdown of the [advantages and disadvantages of aptitude tests](https://testlify.com/advantages-and-disadvantages-of-an-aptitude-test/).
 
-Then cap the time. Completion holds around 80% while a candidate is inside about 40 minutes, and drops to roughly 60% once total testing runs past an hour. Read that as a deletion rule, because that is what it is. Every candidate who abandons the test is one you never scored, and the people with the least patience for an hour of unpaid assessment are usually the ones with somewhere else to be. If the role needs more depth, add a second short assessment after the shortlist rather than stretching the first one.
+## Validity: Whether the Test Predicts Anything at All
 
-For the next level down, how to build the assessment itself and weight what goes inside it, see our guide on [what to include in an aptitude assessment](https://testlify.com/what-should-you-include-in-your-aptitude-assessment-to-ensure-comprehensive-candidate-evaluation/).
+Validity is the word a vendor makes its central claim in, and it does not mean quite what it sounds like. A test is never validated in the abstract. What gets validated is the inference you draw when you screen somebody out at a particular score, which is why the claim has to be checked against your job rather than accepted in general.
 
-## Validity: Whether the Test Predicts Anything
+Four kinds get quoted, and they are worth very different amounts. Face validity means the test looks job-related to whoever is looking at it, which is about candidate goodwill and nothing else. Content validity means subject matter experts confirmed the questions cover what the job actually demands. Construct validity means the test measures the trait it names, rather than familiarity with the format. [Criterion validity](https://testlify.com/criterion-related-validity/) means somebody checked whether higher scorers went on to perform better, and it is the only one of the four that answers the question you are really asking.
 
-Validity is the word a vendor uses to claim the test predicts something. Two kinds of evidence sit behind it, and knowing which one you are being shown is most of the skill here.
+When you get to a number, read it against the right yardstick. Anything above roughly 0.30 supports using a test to predict how future candidates will perform. That looks feeble next to the correlations you meet in other contexts. Job performance is a messy outcome with a hundred causes, and a 0.30 relationship moves real money once you are hiring at volume. A vendor quoting 0.33 is being straight with you. A vendor quoting 0.85 is describing something other than performance on your job.
 
-Content validity asks whether the questions cover the knowledge and skills the job actually requires. It is established by people who know the role reading the items and saying yes, that is the work. Your hiring manager and two senior people on the team can settle it in an hour, and their verdict is useful, because a test that looks nothing like the job also loses you candidates who resent sitting it.
+### Validated for whose job? The call centre problem
 
-[Criterion validity](https://testlify.com/criterion-related-validity/) asks the harder question: do the people who score higher actually perform better ? Establishing it means putting scores next to real outcomes, supervisor ratings, sales per hour, who was still in the seat at twelve months, and checking whether the two move together. It is the strongest thing a testing program can show you, and it is the thing most vendor pages are quietest about.
+Unless a test has been validated for your specific job, it is not valid for that job. Keep that sentence to hand when a vendor emails you a study, because evidence collected on another company's workforce in another industry usually says nothing about yours.
 
-When you get a correlation number, read it with the right yardstick. Above roughly 0.30 is enough to support using a test to predict how future candidates will perform. That looks weak if you are used to hearing 0.8 described as strong, but hiring is not a laboratory and no single test explains a whole human being. A vendor quoting 0.33 is being straight with you. A vendor quoting 0.85 is describing something other than job performance.
+Job titles are what make this easy to get wrong. Two companies both hire call centre agents. In the first, the work is inbound: taking calls, answering questions, pulling up an account while somebody waits on the line. In the second, it is outbound sales, and the job is persistence, recovering from a hang-up, and holding an unscripted conversation with a stranger who did not ask to be called. Same title on the job board, two completely different jobs. A test that sorts the first group well can sort the second group at close to random.
 
-Then ask the question that decides everything: validated on whose job? Unless the test has been validated for your specific job, it is not valid as to that job. Two call centre roles can share a job title while one takes inbound queries from a script and the other makes cold outbound calls all day. Evidence gathered on the first will not defend the second, and the title on the requisition will not save you.
+So the useful request is not "send me your validation evidence" but "show me the study on a job that looks like mine, and tell me who decided it looks like mine." There is a formal route for borrowing evidence between employers, and it still requires a proper analysis of your job before the borrowed numbers mean anything. A vendor who talks about the borrowing and skips the analysis has told you which half of the work they did.
 
-## Reliability, and Why a Score Is a Range Not a Number
+## Reliability, and Why a Score Is a Range Rather Than a Number
 
-Reliability asks a simpler question than validity: if the same person sat this test again next month, would they land on roughly the same score? If the answer is no, nothing else about the test matters, because you are not measuring a person, you are measuring a mood. Vendors report it as a number between 0 and 1, and much below about.70 means the score moves too much to hang a hiring decision on.
+Reliability asks a simpler question than validity: if the same person sat this test again next month, would they land on roughly the same score? If the answer is no, nothing else about the test matters, because you are not measuring a person, you are measuring a mood.
 
-That number has a consequence the results screen never shows. Every score comes with a margin around it, and the weaker the reliability, the wider that margin gets. On a test where candidate scores are spread about 15 points, a strong reliability estimate gives you a band of roughly 4 points either side of a score. A softer estimate nearly doubles it, to about 8.
+Vendors report it as a coefficient topping out at 1.00. There is a conventional minimum below which the estimate is too weak to hang a hiring decision on, and what you want is a number sitting comfortably clear of it rather than scraping past. Ask which kind of consistency the number describes, too. Whether scores hold steady over time and whether the questions inside one test agree with each other are two separate claims, and they get quoted interchangeably.
 
-So a 68 and a 72 are quite possibly the same candidate on two different mornings. That does not make the test useless, but it does mean the line you draw is a decision rather than a discovery. Anyone sitting within a few points of it was sorted partly by chance, and when two people are that close, the tiebreaker should be something a human actually looked at.
+The practical consequence is that no score is a fact. Every score is an estimate with a band around it, and the width of that band has a name, the standard error of measurement. A 68 and a 72 can be the same candidate on two different mornings. So wherever you draw your line, the people sitting within a few points of it were sorted partly by chance. Know that before a hiring manager asks you why their favourite candidate was cut.
 
-## Norm Group: Why the Same Answers Land at Two Different Percentiles
+## Norm Groups: Why the Same Score Lands at Two Different Percentiles
 
-A raw score is the count of questions a candidate got right, 24 out of 30. [A percentile](https://testlify.com/percentile-scores/) is a position, telling you what share of a comparison group scored at or below that person, and the raw score disappears entirely once the conversion is done. The comparison group is the norm group, and it is chosen by the provider, not by you.
+A raw score is the count of questions somebody got right. [A percentile](https://testlify.com/percentile-scores/) is a position: it tells you what share of a comparison group scored at or below that person. Norming is the conversion between the two, and the raw score itself never shows up in what you see on screen.
 
-This is where it gets expensive. On a hard test, a candidate sitting at the 70th percentile may have answered fewer than 60% of the questions correctly. Read that 70 as a percentage, decide it is a weak pass, and you have just rejected someone who beat seven candidates in ten.
+That comparison group is the norm group, and the vendor chose it, not you. It might be the general working population, or graduates, or people already doing the job well. The same answers land in different places depending on which one was used. A raw score of 28 out of 40 sits at the 80th percentile against general population norms and at the 55th against graduate norms. Nothing about the candidate changed between those two readings.
 
-The group behind the number moves the verdict just as much as the answers do. A raw score of 28 out of 40 lands at the 80th percentile when it is compared against the general population, and at the 55th when it is compared against graduates. Identical answers, identical candidate, two very different-looking reports.
-
-So the useful question is never what somebody scored. It is what they scored relative to whom. Ask any provider which norm group produced the percentile on your screen, and how recently it was built, before you let that number screen anyone out.
+The expensive mistake is reading a percentile as a percentage. On a hard test, someone at the 70th percentile may have answered fewer than 60% of the questions correctly. A recruiter sees 70, decides that is a soft pass, and rejects a candidate who outscored seven people in ten. So the question to ask about any percentile is never what did they score. It is scored against whom.
 
 ## Cut Score: How to Set the Line You Screen On
 
-A cut score is the threshold that splits candidates into pass and fail, and it is decided by people rather than found in the data. Nothing in a test marks the point where competent becomes not competent. You will also see it called a cutoff, a passing score, or a cut point, and they all mean the same setting.
+The cut score is the threshold that splits pass from fail, and people decide it. There is no natural line inside a test between competent and not competent. Somebody chooses where it goes, and if that somebody was not you, it was whatever the platform shipped with.
 
-That makes it the most consequential thing you configure, because a candidate one mark below the line gets treated completely differently from a candidate on it, even though the two performed almost identically. Set it too high and you screen out people you needed. Set it too low and the assessment stops doing any work, while everyone still spends the time.
+Two habits do most of the damage. The first is the round number left over from school: 70% passes, below that fails. That convention is not legally defensible and does not meet international testing standards, largely because it takes no account of how hard the questions were. The second is one number applied to every role, which over-screens your entry-level jobs and under-screens your senior ones at the same time.
 
-The habit to break is the round number: seventy percent passes, below seventy fails, because that is what school looked like [2]. It ignores how hard the questions are, and how many people you need. Say you need 10 hires and expect 80 applicants: a cut at the 90th percentile passes about eight people, and then you subtract the ones who never finish, the ones your interviews reject, and the ones who take another offer. The process was broken before anyone applied.
+Work from volume instead of from the score. If you need ten hires and expect eighty applicants, a cut at the 90th percentile passes about eight people before anybody drops out, takes another offer, or fails an interview. The maths has already failed and the first application has not arrived.
 
-Then calibrate against people you already employ. Pull 90-day performance data on your current team and find where your strong performers sit. If they cluster between the 72nd and 88th percentile, the evidence points to a line near the 70th, not the 75th somebody wrote into a policy document three years ago. Track how hires above and below the line do at 30, 60, and 90 days, and move the line when the outcomes tell you to.
+Then calibrate against your own staff. Pull ninety-day performance data on people already doing the job and find where the strong ones cluster. If they sit between the 72nd and 88th percentile, your own evidence points at a line near the 70th, not the 75th somebody typed into a policy document three years ago.
 
 ## Adverse Impact and the Four-Fifths Rule
 
-[Adverse impact](https://testlify.com/hr-glossary/adverse-impact/) happens when one identical selection standard, applied to everybody the same way, produces substantially different pass rates across demographic groups. Nobody has to intend it. It is a property of your outcome, which means you cannot rule it out by reading the questions and deciding they look fair. You measure it, on your own numbers.
+Adverse impact is what happens when one selection standard, applied identically to everyone, produces very different pass rates across demographic groups. It is a property of your results, not of anybody's intent. Which is why you measure it on your own hiring data rather than judging it by reading the test.
 
-The four-fifths rule is how you measure it, and it is arithmetic you can do in a spreadsheet. If any race, sex, or ethnic group passes at less than four-fifths of the rate of the group that passes most often, federal enforcement agencies will generally treat that as evidence of adverse impact. Work out each group's pass rate, take the highest one as your reference, and divide every other rate by it.
+The four-fifths rule is the arithmetic that flags it. It comes from the [Uniform Guidelines](https://www.berkshireassociates.com/blog/this-month-in-i/o-the-uniform-guidelines) on Employee Selection Procedures, and it holds that a selection rate for any race, sex or ethnic group falling below four-fifths of the rate for the highest group will generally be treated by federal enforcement agencies as evidence of adverse impact.
 
-Here is what that looks like on a screen. An employer testing entry-level engineers passes 30 of 50 female candidates, a 60% rate, and 80 of 100 male candidates, an 80% rate. Sixty divided by eighty is 75%, under the four-fifths threshold, so the rule is violated [3]. Nothing about the test changed. The ratio simply made visible what the pass rates were already doing.
+Run it on your last hiring round. Say you assessed 50 women and hired 30, a 60% rate, and assessed 100 men and hired 80, an 80% rate. Divide 60 by 80 and you get 75%, under the four-fifths threshold, so the rule is violated [1]. That is a prompt rather than a verdict. The 80% figure is a rule of thumb, not a legal definition, and the question underneath it is always whether the test is [job-related and necessary for the business](https://testlify.com/hr-glossary/job-relatedness/).
 
-Your cut score is the lever on that ratio, which is why the two sections sit next to each other. Raising the line usually widens the gap between groups, so a threshold set for convenience can create exposure nobody chose. Before you commit to a score, ask your provider for pass-rate data broken down by group at that exact threshold. A provider who cannot produce it has told you something useful anyway.
+Your cut score is the lever on this ratio. The higher you set the line, the wider the gap between groups tends to open. So before you commit to a threshold, ask the provider for pass rates broken down by group at that exact score. A provider who cannot produce them has answered a different question.
 
-## When a Personality Test Counts as a Pre-Employment Medical Exam
+## Accommodations, and When a Test Is a Pre-Employment Medical Exam
 
-Before you extend a job offer, the Americans with Disabilities Act bars disability-related questions and medical examinations, and [personality tests](https://testlify.com/pros-and-cons-of-personality-tests-in-hiring-process/) are named directly among the things you cannot require at that stage. Most recruiters never file a personality questionnaire under medical, which is exactly why this one catches people. The test does not have to look clinical. It only has to be capable of surfacing a mental health condition.
+A [reasonable accommodation](https://testlify.com/hr-glossary/reasonable-accommodation/) is a change to how the test is normally run that lets a candidate with a disability show what they can actually do [2]. The Americans with Disabilities Act asks you to run the assessment so the score reflects the skill you are measuring rather than the impairment sitting in front of it.
 
-The case here is Karraker v. Rent-A-Center. The company put management candidates through the MMPI, chose the vendor's vocational scoring rather than the clinical version, and had no psychologist read the results, all of which sounds like reasonable care. The court held that none of it mattered: however the test is scored, it works against candidates with mental disorders, so it is best treated as a medical examination [4].
+Most requests are unremarkable. Extra time on a timed online test. Questions read aloud where a screen reader will not talk to your platform. Interview questions sent ahead with written answers allowed. What catches employers out is failing to notice a request was made at all, not the cost of any of that. The candidate never has to say the words disability, accommodation, or [ADA](https://adata.org/factsheet/accommodation/). "I need more time to finish the online assessment, is there a way to extend it?" is a request, and answering it as a scheduling query is exactly where the exposure starts.
 
-What that means in practice is a scheduling rule, not a ban. You can still use a personality instrument. It goes after a conditional offer, and every candidate entering that job category has to take the same one, so it never sits at step two with your skills test.
+### When a personality test counts as a medical examination
 
-The cheapest version of this mistake is a hiring flow that batches all its assessments into one email because that felt tidy. Split the flow instead. Skills and cognitive tests up front where they do their work, personality after the offer, and write down which is which before your next requisition opens.
+Before you make an offer, the ADA bars disability-related inquiries and medical examinations outright. The word medical reaches further than most recruiters expect. It covers any procedure seeking information about somebody's physical or mental impairments or health, and personality tests are named directly among the things you cannot require pre-offer.
+
+The case that settled it is Karraker v. Rent-A-Center. The company put management candidates through the MMPI, deliberately used the vendor's vocational scoring rather than the clinical version, and had no psychologist read the results. The court held that none of that saved them. However you choose to score the instrument, it can disadvantage candidates with mental disorders, so it is best treated as a medical examination [3].
+
+The rule that falls out of this is easy to operate. An instrument that could surface a mental health condition waits until you have made a conditional offer. At that point you may run it, as long as every candidate entering that job category takes the same one [4]. That is why personality sits apart from the other four test types in the table above. It cannot live at step two with the rest, however much you want the scores early.
+
+We have set out how to spot and handle these requests across different assessment formats in our guide to [accommodating candidates with disabilities in skills assessments](https://testlify.com/hr-accommodate-candidates-with-disabilities-in-skills-assessments/).
 
 ## What to Configure Before You Send the Next Test
 
-Every word above is a setting: which test, at what stage, at what score, compared against whom. Left on a default, they still decide who gets screened out, just without you choosing it.
+Every word above is a setting: which test, at which stage, at what score, checked against whose pass rates. Leave any of them on the default and it still decides who gets screened out, just without you in the room when it happens.
 
-Testlify is built for that job. Our tests are written by industrial and organizational psychologists, checked for adverse impact, and documented for [EEOC](https://askjan.org/publications/employers/employers-guide.cfm) compliance. Hold us to the standard in this glossary: ask which study covers your job, and ask our psychologists what validating for it would take. If you can only add one test, add the one that predicts across the widest range of roles. Our [cognitive ability tests](https://testlify.com/cognitive-ability-tests/) score reasoning and problem-solving in about 10 minutes, and the seven-day trial takes no card.
+Testlify's tests are written by industrial and organizational psychologists, checked for adverse impact, and documented for [EEOC](https://askjan.org/publications/employers/employers-guide.cfm) compliance. Hold us to the standard in this piece: ask which study covers your job, and ask what validating for it properly would take. If you only ever add one skills assessment, add the one that predicts across the widest range of roles. Our [cognitive ability tests](https://testlify.com/cognitive-ability-tests/) score reasoning and problem-solving in about ten minutes, and the seven-day trial takes no card.
 
 ## Frequently asked questions
 
 **What is involved in a skills assessment?**
 
-Three things: a short timed test of the skills the role actually needs, automatic scoring against a comparison group, and a pass mark you set before anybody sits it. Keep the whole thing under 40 minutes.
+Three things: a short timed test of the skills the role needs, scoring against a comparison group, and a pass mark you decide before anyone sits it. Keep the whole thing short, because long tests lose good candidates.
 
 **Can you give me an example of a skills assessment?**
 
-A support candidate gets ten minutes and a messy spreadsheet to clean up and sort in Excel, scored automatically. A coding exercise, a typing test, or a written reply to an angry customer all work the same way.
+A ten-minute Excel task where a support candidate cleans and sorts a real spreadsheet, scored automatically. A coding exercise, a typing test, or a written reply to an angry customer all count too.
 
 **What is the difference between a skills assessment and an aptitude test?**
 
-A skills test measures what someone can already do, like write SQL. An aptitude test measures how quickly they pick up something new. Use aptitude for trainees, skills for roles with a defined toolset.
+A skills test asks what somebody can already do today. An aptitude test asks how quickly they will pick up something new. Use aptitude for trainees, skills tests for roles with a defined toolset.
 
 **Can a candidate retake a skills assessment they failed?**
 
-Only if the rule is written down and applied to everybody the same way. Set a waiting period and use a different set of questions, because a second run at the same ones measures memory, not skill.
+Only if your retake rule is written down and applied to everybody the same way. Set a waiting period and use a different set of questions, because a second run at the same ones measures memory.
 
 **Do I have to tell candidates the assessment is being recorded?**
 
-Yes. Tell them before they start what is monitored, what gets stored, and for how long. Some places go further: Illinois regulates biometric data, and New York City requires notice for automated hiring tools.
+Yes. Tell them before they start what is watched, what is stored, and for how long. Some places demand more: Illinois regulates biometric data, and New York City requires notice for automated hiring tools.
 
 ## Sources
 
-1. https://askjan.org/publications/employers/employers-guide.cfm
-2. https://assess.com/cutscore-passing-point/
-3. https://www.berkshireassociates.com/blog/this-month-in-i/o-the-uniform-guidelines
-4. https://jaapl.org/content/34/2/255
+1. https://www.berkshireassociates.com/blog/this-month-in-i/o-the-uniform-guidelines
+2. https://adata.org/factsheet/accommodation/
+3. https://jaapl.org/content/34/2/255
+4. https://askjan.org/publications/employers/employers-guide.cfm
