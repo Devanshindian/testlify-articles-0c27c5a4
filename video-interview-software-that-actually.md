@@ -1,167 +1,170 @@
-# Video Interview Platform That Stops Deepfakes and Proxies
+# 9 Video Interview Platforms, Scored on Deepfake Defense
 
-You are three interviews into a shortlist and the person on your screen answers everything well. What the screen cannot tell you is whether they are the person who turns up on day one. They may be a stand-in who hands the laptop over once the offer clears.
+You are watching a recorded answer. It is fluent, well structured and word-perfect. Nothing in it tells you whether the person who recorded it is the person who applied for the job.
 
-That gap is what vendors mean by identity verification, and almost none of them say what it covers. We looked at six video interview platforms and what each one documents about proving who is on camera. You can then choose on evidence rather than on a marketing page.
+Every ranking of video interview software scores the same three things. Workflow, AI analytics, and how neatly the tool plugs into your applicant tracking system. None of them rates whether the video interview platform can prove the person on camera is the candidate who applied. It is not a theoretical gap. In a survey of 3,000 candidates, 6% admitted to interview fraud, either posing as someone else or sending a stand-in [1]. This ranking scores the nine platforms below on the three checks that would catch them.
 
 ## Quick answer
 
-Two different jobs get sold under one phrase. AI video analysis scores how somebody answers. Identity verification proves who is answering.
+No platform in this list covers identity from the application through to the final call. Talview and Testlify document the deepest identity checks. Willo and Interviewer.AI publish partial ones. HireVue, Spark Hire and Hireflix document none at all. VidCruiter takes the top rating on the widest documented stack, but its fraud detection runs on recorded interviews only. So the live round stays open. Whatever you sign, consent, bias audits and retention stay your job, not the vendor's.
 
-HireVue and Spark Hire score answers well and document no identity checks at all. Willo and Hireflix leave identity to a background check or a final round. VidCruiter and Testlify run proctoring with an ID check before the session opens. Match the control to the role, not to the budget.
+## How We Scored Nine Platforms on Interview Integrity
 
-## Deepfakes and Proxy Candidates Are a Documented Hiring Threat
+One rule decides every cell in the grid below. A rating comes from what the vendor puts in writing. We read its own security page, help center, product documentation and sales material, as of August 2026. A category claim on a homepage does not count. If a page says secure and nothing behind it names a control, the cell stays empty.
 
-A [proxy candidate](https://testlify.com/proxy-interview/) is a simple trick with an expensive ending. One person sits the interview and answers well. A different person shows up on the payroll. Nobody is looking for the switch, because the process was built to score answers rather than to check who gives them.
+Where a vendor publishes nothing on an axis, we record a documentation gap rather than a low score. Those are two different problems for a buyer. A gap is a question for the sales call. A low score is the answer you already have. General video conferencing is out of scope entirely, since vendors do not sell it as a hiring product. It carries none of the layer this list is about.
 
-### Why deepfakes and proxy candidates are a documented threat
+Nobody else scores this, and buyer indifference is part of the reason. Our own topline report with SHRM Labs found that 63% of HR and talent acquisition practitioners never look for [proctoring capability](https://testlify.com/ai-proctoring-solution/). Vendors build for the questions they get asked. Ask about workflow and integrations and you get workflow and integrations, which is exactly what the published rankings measure.
 
-The threat is documented at federal level. The Department of Justice charged Christina Chapman for helping North Korean operatives use 68 stolen American identities. Those operatives took jobs at 309 U.S. companies [1], [1].
+## The Best Video Interview Software, Scored on Integrity
 
-Those were not small firms that skipped a step. They ran interviews, checked references, shipped laptops and paid salaries for months. Nobody noticed that the people drawing those salaries were not who they claimed to be.
+Here is the column the other rankings never fill. Nine platforms. Three integrity axes. Plus the format each one runs. Every claim in the table is sourced in that platform's own section further down. An empty cell is a finding, not a formatting choice.
 
-In Greenhouse's 2026 research, 31% of recruiters said the person who interviewed was not the person who applied. Almost a third. If you ran a hiring round last year, somebody on your panel probably saw this and filed it as a bad connection.
+| Platform | ID check + face match | Proctoring and lockdown | Stand-in or deepfake detection | Format |
+|---|---|---|---|---|
+| VidCruiter | Not documented | Video proctoring, sold as a module | AI fraud detection, recorded rounds only | One-way and live |
+| Testlify | Photo ID check and face detection, inside assessments | Remote proctoring, dual camera | Not documented | Assessments and AI interview |
+| Talview | Government ID matched to a selfie | Secure browser, AI proctor | Not documented | Async, live and assessments |
+| HireVue | Not documented | Not documented | Not documented | Screening, assessments, AI interview |
+| Willo | Named, no published detail | Anti-cheat guardrails | RealTalk flags scripted or AI answers | One-way only |
+| [Interviewer.AI](https://interviewer.ai/virtual-interviews-with-id-verification/) | Face match with published score bands, priced separately | Not documented | Not documented | One-way |
+| Jobma | Named in marketing, absent from the candidate flow | Window switching, second monitor, mobile use | Liveness named, no test published | One-way, live and assessments |
+| Spark Hire | Not documented | Not documented | Not documented | One-way and live |
+| Hireflix | Not documented | Not documented | Not documented | One-way only |
 
-So the question for a vendor is a narrow one. Which identity controls do you document, and where can I read them? The list is short enough to hold in your head.
+### What each control catches, and what it misses
 
-Liveness detection proves a live human is sitting in front of the camera. An ID document check and a face match tie that human to a name. Deepfake detection looks at the video itself for signs of synthesis. A platform that offers none of these can still be a good interview tool. It is simply not doing this job.
+Read a row across, not a column down. No single control is a gate, because each one catches a different attack and fails in a different place. Browser lockdown catches the candidate who opens a second tab, and does nothing about the second person sitting off camera feeding answers out loud. A face match catches the stranger who shows up, and does nothing about the real candidate reading a script written by a chatbot. For that reason, high-stakes programs generally need at least two of the three running together.
 
-We have set out the full stack of checks that catches a proxy or deepfake candidate in our guide to [preventing impostors in video interviews](https://testlify.com/prevent-impostors-in-video-interviews/).
+Even a strong control has a ceiling set by when it runs. A check that fires once, before the interview starts, cannot stop a different person joining the call ten minutes later.
 
-## How Vendors Hide What 'Identity Verification' Actually Means
+One finding applies to all nine. No vendor in this set documents liveness or presentation-attack testing to ISO/IEC 30107-3. That standard is how you prove a camera check rejects a photo, a replayed video or a mask. That is the difference between a camera that sees a face and a camera that knows the face is alive. Ask for the test results by name. A vendor who says liveness but cannot name the standard, the level or the provider behind it is selling you a label.
 
-AI video analysis transcribes the interview and scores the answers against competencies. It tells you how well somebody communicates, which is useful. It says nothing at all about who was sitting in the chair. A fraudulent candidate who answers well scores well and moves forward.
+## VidCruiter: Top-Rated, but Fraud Detection Is One-Way Only
 
-Identity verification is a stack rather than a feature. A serious vendor describes all three parts: securing the camera path, protecting the payload, and running synthetic-media detection on top. All three matter, because an attacker who feeds a prepared video straight into the browser never touches the camera. Detection that only inspects the picture is looking at a clean picture of a fake person.
+VidCruiter earns the top rating because it documents the widest integrity stack here and names fraud detection as a real product feature. Not a security mood. The limit is scope, and it is a sharp one. Its AI Candidate Fraud Detection covers pre-recorded interviews only.
 
-So when a sales engineer says the product has identity verification, ask which layer it covers. Ask how you would see the result. If the answer is a webcam snapshot filed beside the recording, that is a photograph, not a control. Write down what you were told.
+Think about where that leaves your process. Most teams use recorded rounds to build a shortlist, and then a live conversation to make the decision. So the fraud detection stops one stage before the hire does. The live side gives you real-time transcripts, timestamped highlights and an auditable recording. That is a fine record of the conversation, and no evidence about who was having it. Buy it if your volume sits in the recorded round, and plan to check ID yourself on the final call.
 
-## How We Compared These Video Interview Platforms
+## Testlify: Proctoring Built for Tests, Not Live Calls
 
-Video interviewing software is a cloud tool for interviewing candidates remotely. Some interviews run live, in a scheduled call. In a one-way interview the candidate records answers to set questions alone, and your team watches later.
+Testlify hits the same limit one stage earlier. Its identity controls sit inside proctored assessments rather than inside an interview. Face detection, photo ID verification, webcam snapshots, and [dual-camera proctoring](https://testlify.com/anti-cheating-and-proctoring/) that turns the candidate's phone into a second view of the room.
 
-We judged these six on one thing above all others: what the vendor documents about proving identity, not what a product page implies. We also noted who each tool is built for, and what it costs to start. A control you cannot afford to switch on protects nobody.
+That answers a question most of this list cannot. Before anyone joins a call, you know an ID was checked against a face and the room was empty while the work happened. It does not follow that person into a live interview, because there is no live interview in the product. Treat it as a gate in front of your video round. It is not a replacement for one. Keep a human ID check on whoever turns up to the final conversation.
 
-| Platform | Best for | Identity control it documents | Starting price |
-|---|---|---|---|
-| HireVue | Structured, scored interviewing at scale | None documented  | $35,000/year  |
-| Spark Hire | Async screening for small teams | None; the AI reads answers  | $249/month  |
-| Willo | High-volume European hiring | Lockdown and flagging; ID via third party  | Not published |
-| VidCruiter | Regulated and government hiring | ID check before testing, proctored  | $5,000/year  |
-| [Hireflix](https://hireflix.com/en/pricing) | One-way video interviews at speed | Passive selfie liveness only | $75-$150/month [2] |
-| Testlify | Assessment with identity built in | Verify, monitor, then human review  | Not published |
+## Talview: Deep Identity Checks, Thin Public Record
 
-Start with the table. The sections below show what each gap costs you.
+Talview documents the most specific identity stack in this comparison. Its Digital Identity Check validates a government-issued ID for tampering. It then matches the photo on that ID against a selfie or a live video feed in real time. On paper that is the closest thing here to proving the candidate is the candidate.
 
-## HireVue: Structured Assessment, No Identity Verification
+Then the public record goes quiet at the point you need it. Talview does not publish which of those controls actually run inside a recorded one-way interview. The pricing page is a lead capture form rather than a price. So you cannot compare it against anything else on this page. Not without booking a call. Score the row as a documentation gap and walk in with two questions: which checks run async, and what does a unit of billing include.
 
-HireVue is the enterprise default for structured, scored interviewing, and it is good at that. The AI scores the transcripts, so your panel argues about a rubric instead of a gut feeling.
+## HireVue Scores the Answer but Never Checks the Person
 
-What it does not do is check who is answering. HireVue documents no ID verification, no face match, no liveness detection and no browser lockdown. Essentials pricing starts at $35,000 a year, so this is a decision about scope rather than budget.
+HireVue brings the biggest name in this set. It also brings the largest compliance surface and the highest entry price. Its published material documents no ID capture, no face match, no browser lockdown and no deepfake detection. Pricing is by quote, with a reported floor of about $35,000 a year.
 
-It also carries the heaviest compliance load here. HireVue settled a class action for $3.75 million over collecting facial geometry and voiceprints from Illinois applicants without written consent. Run scored video under a biometric privacy law and you owe candidates a written notice before anyone presses record.
+What HireVue measures is the answer. Its scoring runs on the transcript and ranks candidates before a recruiter reads a word. That tells you how an answer performed and nothing at all about who gave it. That is a difficult combination to justify to a legal team. You are paying enterprise money for automated candidate scoring, the exact practice regulators are writing rules about right now. You get no identity evidence to show for it.
 
-## Spark Hire: The SMB-Friendly Async Option
+## Willo Runs One-Way and Won't Score the Video
 
-[Spark Hire](https://testlify.com/testlify-vs-spark-hire-comparison/) is for the team of three with two hundred applicants in the queue. It runs async and live interviews, transcribes the answers and summarises them. It costs $249 a month with unlimited jobs and users, so nobody has to learn a procurement process to buy it.
+Willo takes the opposite position. It refuses on principle to let AI score a video answer. Human reviewers keep the judgment. What it does offer is RealTalk. RealTalk flags answers that look scripted or AI-generated, and it puts a green, amber or red label on each response [2].
 
-Its AI reads answers, not identities. There is no liveness check and no face match against a document. The person on the recording is whoever the interview link was forwarded to.
+Read those labels as prompts to listen again. Willo describes them that way itself. The company names strong preparation and non-native speaking styles as expected causes of a flag [2]. So an amber on a well-drilled graduate tells you to rewatch, not to reject. A team that treats the colour as a verdict will quietly filter out its best-prepared applicants. It is an authenticity check on the speech, not a check on the speaker, and nothing published matches a face to the recorded answer.
 
-For a first-round screen feeding into a background check and an onsite final, that is a fair risk to take. For a remote engineering hire who never meets anyone in person, it is not.
+## Interviewer.AI's Face Match Is Sold, Not Included
 
-## Willo: GDPR-First Async Screening, Built for High-Volume European Hiring
+Interviewer.AI is the only platform here that publishes what its face-match score actually means. Fifty or below is LOW. Above fifty up to eighty is MEDIUM, and above eighty is HIGH [3]. Every other vendor with a face match tells you it exists and leaves you to guess where the line between low and high sits. That is more transparency than the field offers.
 
-Willo answers a legal question rather than a fraud one. Candidate data sits on European servers, encrypted at rest with AES-256. That removes an entire argument with your data protection officer before it starts.
+The catch is how you get it. You switch identity verification on per interview with a flag, and it does not run by default. Before the vendor quotes a price, you tell them how many assessments you want it switched on for [3]. So the check is documented, and it works. You budget it per candidate as a line item. Decide in advance which roles justify turning it on, because the default answer is off.
 
-On integrity it goes halfway. Willo locks the browser down and uses AI to flag likely cheating. Identity verification itself is an optional third-party add-on rather than part of the platform. The interview is monitored; the identity is somebody else's job.
+## Jobma's ID Checks Appear Nowhere in Its Candidate Flow
 
-That fits a staffing firm screening volume across several countries, where the final round happens face to face. It does not fit a remote hire who finishes onboarding with access to customer records.
+Jobma's marketing names ID verification and selfie verification, so on a feature grid the row looks covered. Then you walk the candidate journey it documents. The flow runs an automatic camera, microphone and internet speed check. From there it goes straight to recording. It captures no government ID, takes no selfie and runs no face match anywhere in the journey. The mobile app reaches the first question the same way.
 
-## VidCruiter Leads in Configurability for Regulated Hiring
+The proctoring is the part that demonstrably exists. Jobma logs window switching, second monitors and mobile use, and files a per-candidate report a recruiter can actually read. That report describes the room rather than the person. It is useful for catching someone who is reading off a second screen, and useless for catching a different someone entirely. Buy it for [environment monitoring](https://testlify.com/ai-powered-proctoring/). Treat the identity claim as unproven until a demo shows you where it runs.
 
-VidCruiter is built for hiring that has to survive an audit. That is why it turns up in government agencies and school districts. You configure the process to match a rule, then show anyone who asks how that rule was applied.
+## Spark Hire: Scoring That Never Checks Who Recorded It
 
-It is one of only two platforms here with proctoring inside the product. ID verification runs before the test starts, and the browser is watched for tab switching. Copy and paste is blocked, and the session is recorded so it can be reviewed afterwards.
+Spark Hire scores the answer well. It never asks who gave it. Its AI Video Review was validated on 68,236 candidate submissions, and agrees with human raters over 90% of the time across six dimensions, including communication and comprehension. That is a serious product if your goal is cutting reviewer hours on a large pool.
 
-Pricing starts at $5,000 a year and bills per module, so you pay for what you switch on. The flexibility has a cost that never appears on the invoice. Somebody has to configure all of it, and know your hiring rules well enough to encode them.
+It sits on top of no verification at all. The published capability list names no proctoring. No browser lockdown, no ID check, no face match. So the only integrity lever a hiring manager can pull is the number of takes a candidate gets. If your roles are low-access and your bottleneck is reviewer time rather than fraud, the trade is reasonable. Just be clear about what you bought, because a 90% accurate score on the wrong person still produces the wrong hire.
 
-## Hireflix: One-Way Video Interviews Without the Friction
+## Hireflix: An Invite Link Is Not an Identity Check
 
-Hireflix optimises for one number: how many candidates finish. There is no login and no scheduling. A link arrives, the candidate answers on their own phone, and the only identity step is a passive selfie.
+Hireflix sits at the floor of this rating. The candidate flow explains why. There is no application, no log-in and no registration. A candidate receives a link and records against it. That binds the answer to the link rather than to a person, and a link forwards to anyone with a webcam.
 
-That choice shows up in the completion rate. Passive liveness clears above 95% [3]. Checks that stop candidates for gestures and multi-step prompts land nearer 60% [3]. Four in ten people walking away is a cost when you have thirty seats to fill.
+Nothing in the published material closes the gap. The site names no proctoring, no ID document check and no face matching. Hireflix is at least honest about its scope. It does one-way interviews and will not branch into live rounds or assessments. So buy it where speed is the entire point, and where the recorded round is a courtesy filter rather than a gate. Then let a later stage check identity, one that can actually do it.
 
-At $75 to $150 a month [2], it is the cheapest way to run [one-way video interviews](https://testlify.com/hr-glossary/one-way-interviews/) at speed. Be honest about what you bought: a completion machine, with identity handled somewhere else.
+## One-Way vs Live: Where Deepfakes and Proxies Get In
 
-## How Testlify Integrates Proctoring and Identity Verification
+The format column is not two settings of the same control. The fraud that is cheap in one mode is expensive in the other, so protection bought for the wrong stage never fires.
 
-Testlify puts the identity check inside the assessment rather than beside it. The candidate is verified before the test opens. Behaviour and environment are monitored while they work. Anything unusual surfaces afterwards as a [flagged session](https://testlify.com/anti-cheating-and-proctoring/), with the video and the activity log attached.
+A [one-way interview](https://testlify.com/hr-glossary/one-way-interviews/) is a file. A candidate records it alone, with nobody present. It carries the most candidates and the fewest witnesses, which makes it the cheapest place in your process to send a stand-in. Nothing in the format can ask a follow-up question, so a rehearsed artifact and real understanding look identical on the tape. Retakes are allowed and the prompt is fixed. Unmonitored recording is exactly the setting where candidates reach for AI help.
 
-That last part matters. A person makes the call, with the evidence in front of them. Automated scoring left to run alone rejects candidates whose connection dropped, or whose flatmate walked in.
+A live round swaps instrumentation for observation. Tab switching is not a technical flag in a live call, but an interviewer notices when a candidate's eyes keep sliding to a second screen. The catch is that a fooled human is still a fooled control. Put the technology where the volume is, on the async round. Keep the live conversation for judgment about the two or three people who reach it.
 
-Because the proctoring and the assessment are one product, the evidence lands in one record. Six months later, when somebody asks why a candidate was rejected, you can still show them.
+We have written up the layered defence against proxies and deepfake candidates in full, in [how to prevent impostors in video interviews](https://testlify.com/prevent-impostors-in-video-interviews/).
 
-## Interview Controls by Role Risk and Cost
+## Consent, Bias Audits and Retention Stay With You
 
-There is no single setting that fits all of this. A call-centre screener and an engineer with production access are not the same risk. Run identical controls on both and you either irritate people for nothing, or leave the important role uncovered.
+A vendor's certification list covers the vendor. It does not cover your hiring process. That distinction has a price tag on it. HireVue agreed to a $3.75 million settlement, granted preliminary approval on June 25, 2026. Claimants said its video interview software extracted facial geometry and voiceprints from Illinois applicants, without the notice and consent state law requires.
 
-### Best-for scenarios: match platform to role risk
+Read that as a warning about the capability, not about the company. The facial analysis at issue is the same processing that sits behind any face match or liveness check on this page. Buy that capability and you inherit the notice duty with it. In practice that means taking consent before the camera starts, rather than tucking it into a confirmation email afterwards.
 
-The frameworks that hold up use three tiers, switched on by role risk. Tier one runs everywhere: browser lockdown, webcam capture, basic monitoring. It costs an honest candidate nothing, and it catches the opportunist with a second tab open.
+The audit duty lands on you the same way. New York City bars the use of an [automated employment decision tool](https://testlify.com/hr-glossary/algorithmic-accountability/) unless an independent bias audit was completed within the year. The summary has to be published, and candidates get ten business days' notice [4]. The employer arranges that audit. A vendor who is certified, compliant and happy to say so has done none of it on your behalf.
 
-Tier two switches on when the assessment result largely decides the hire. It adds live facial comparison and anomaly detection on how the answers arrive. A finance associate who touches payment systems belongs here, even if the title reads junior. The trigger is access, not rank.
+### How long each platform keeps the recording
 
-Tier three is a person. A reviewer opens the flagged session, watches it, and weighs the flag against everything else the candidate did. Then they decide: pass, re-test, or disqualify.
+Almost nobody publishes a number. That is a problem you discover on the day someone asks for a recording you no longer hold.
 
-This tier is not the optional one. Internet outages produce timing anomalies that look exactly like cheating. A system that rejects on the flag alone turns away honest people all year, and nobody ever finds out.
+Talview is the exception. It archives every video 90 days after creation, across proctored, live and async recordings. Archived is not the same as deleted. But retrieval runs through a support ticket and takes at least two business days, so build that lag into any dispute you expect to handle.
 
-### The RFP checklist: what to demand in writing
+HireVue's default runs up to three years. The hiring organization sets the actual window, not HireVue. That is both the better arrangement and the more dangerous one, because a default nobody consciously chose is still a decision you made. Jobma states no retention period at all for recordings, transcripts or identity records. That means the answer is sitting in a contract that nobody on your side has read yet.
 
-Vendor demos show you the happy path. Ask instead to watch a complete candidate session go wrong. Someone switches devices halfway through, a connection drops, an identity check fails, and the candidate disputes the flag. How the platform behaves in those five minutes is what you are buying.
+Set the number before you sign, not after. The Age Discrimination in Employment Act requires hiring and recruitment records, interview notes included, to be kept for three years. A short archive window is not automatically the safe choice. Then ask the question that decides your exposure. Does the vendor store the candidate's ID image, or return a verdict and keep nothing?
 
-Then get four things in writing. How the risk score is calculated, and whether you can set the threshold yourself. What a reviewer sees when they open a flag, and whether the evidence is pinned to the moment. What happens after a flag, as a matter of policy. A technical fault and a deliberate violation should not get the same response.
+## Which Platform to Pick, and When Camera-On Is Enough
 
-The fourth is who else may touch the recordings, and that one has teeth. Your obligations under a biometric privacy law cannot be handed to a supplier. So the contract must bar retention for model training and require destruction on your schedule. It should also restrict onward disclosure and allocate indemnity [4]. A vendor who will not write that down has told you something useful.
+Match the verification depth to what the role can reach. The size of the budget is not what sets it. A fraudulent hire into a low-access role costs you onboarding time and a second search. The same failure in engineering, finance or IT administration hands credentials, devices and system access to someone whose identity you never established. That second number is the one that should set your spend.
 
-### Cost and defensibility: matching spend to risk
+Cheap controls belong everywhere. A camera-on policy, a photo ID shown at the start of the live round, and twenty minutes of interviewer training cost almost nothing. They catch the lazy version of this. Platform proctoring charges per interview, so you pay more the more you run. Biometric verification with fraud detection costs meaningfully more. Put it on the handful of roles where a bad hire is expensive, not on every requisition you post.
 
-Most of the cheap wins are not products. A camera-on policy and an identity check at offer stage cost nothing. Twenty minutes teaching interviewers what a proxy looks like removes the easy attacks. Do those first.
+- VidCruiter when your volume sits in pre-recorded rounds and you want the strongest documented fraud detection in the set, knowing it stops short of the live call.
+- Talview when identity depth is the deciding factor and you can accept commercial terms that are not on the public record.
+- Interviewer.AI when you want a published face-match score and can work with a per-assessment quote.
+- Hireflix or Willo for low-access, high-volume async screening where an invite link and a camera-on rule are proportionate.
+- A proctored assessment ahead of the interview when the risk is whether the skill is real rather than who is holding the camera.
 
-Then spend selectively. Serious identity tooling earns its money where a bad hire is expensive and the role carries access. It is hard to justify on a seasonal retail round. Budget $15,000 to $40,000 for implementation at the enterprise end. The running cost is a person rather than a licence: somebody reviews flagged sessions, somebody owns the data policy.
+Then set the strictness per role. One strict default across every requisition trains your recruiters to click past the flags. A flag nobody reads costs the same as no flag at all.
 
-The business case is not a published ROI figure. It is one question: what does it cost us if the wrong person holds these credentials for six months? For a call-centre seat, the answer is wasted salary. For an engineer, it is your source code and your customer records.
+## Making the Shortlist Defensible Before the Live Round
 
-## Scale your controls to role risk
-
-Layer the controls, and keep a person at the end of the chain. Technical detection catches what a reviewer would miss, and human review means a dropped connection never costs somebody a job.
-
-Testlify builds the identity check into the assessment itself. The flag, the recording and the answer sit in one record your team can defend months later. Start with our [assessment platform](https://testlify.com/) to run skills testing and proctoring in one place.
+No platform in this list proves identity from the application through to the final call. The consent, bias-audit and retention duties stay with you, whichever one you sign. At Testlify, we run proctored assessments before the interview: identity verification, browser lockdown, environment scans and AI-assistance detection. We keep every question, rubric and outcome on file, so the records that a bias audit asks for are already there. Arranging the audit is still yours. If the platform cannot tell you who was on camera, start the shortlist with our [3,500+ skills assessments](https://testlify.com/). Interview the people who pass. Then keep a check on who joins the live call.
 
 ## Frequently asked questions
 
 **What is the best video interviewing platform?**
 
-Depends on the risk in the role. HireVue for structured scoring, VidCruiter for hiring that must survive an audit, Testlify when identity matters inside the assessment. Match the controls to the access, not to the budget.
+On documented integrity, VidCruiter. Just know its fraud detection covers only pre-recorded interviews. Talview documents deeper identity checks, but it publishes no pricing and no detail on what actually runs in an async round.
 
-**What is a proxy candidate?**
+**How much does HireVue cost?**
 
-Someone who sits the interview in place of the real applicant. The person you assessed and the person you hired are different people. Proxies target remote roles with good pay and good system access.
+Pricing is by quote. The reported floor is around $35,000 a year. At that price, its published material still documents no ID capture, no face match, no browser lockdown and no deepfake detection.
 
-**Can deepfakes pass a video interview?**
+**What should I ask a video interview vendor about deepfake detection?**
 
-A good one passes a basic liveness check, yes. Stopping it takes three layers together: securing the camera path, protecting the video payload, and detecting synthetic media. One layer alone gets beaten.
+Ask for presentation-attack test results against ISO/IEC 30107-3. Then ask who provides the detection. Does it run once or continuously, and do they store the ID image or only return a verdict?
 
-**Do video interview platforms prevent cheating?**
+**Can you use Zoom or Google Meet for candidate interviews?**
 
-Most catch the obvious kind with browser lockdown and webcam monitoring. They differ on facial comparison, anomaly flagging, and whether a human reviews flags. Skip the human step and you get false rejections nobody hears about.
+Yes, for the conversation itself. General video conferencing carries no verification, monitoring or analysis layer. So identity checks, proctoring and structured scoring are all things you have to handle somewhere else in your process.
 
-**When do you need identity verification in hiring?**
+**How do I verify a remote candidate's identity without buying new software?**
 
-When the role carries access: engineering, finance, security, anything remote touching customer data. A first-round screen can skip it if a background check or an in-person final round catches identity later.
+Take consent first. Ask for photo ID on camera when the live round starts, then match it against the face and the recorded answers. Train your interviewers on what a mismatch looks like.
 
 ## Sources
 
-1. https://www.justice.gov/opa/pr/arizona-woman-sentenced-17m-information-technology-worker-fraud-scheme-generated-revenue
-2. https://hireflix.com/en/pricing
-3. https://www.miteksystems.com/blog/beyond-deepfake-detection-building-resilient-identity-systems
-4. https://lysinski.com/practices/ai-law/facial-recognition-law-illinois/
+1. https://www.hrdive.com/news/fake-job-candidates-ai/757126/
+2. https://support.willo.video/article/196-real-talk
+3. https://interviewer.ai/virtual-interviews-with-id-verification/
+4. https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page
